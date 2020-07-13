@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:57:34 GMT
+ETag: "pv/comp/templates/meddra_browser-30ed5c714234eadbde6b5272d8a08319.hbs"
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Content-Encoding: gzip
+Content-Length: 387
+Date: Mon, 13 Jul 2020 11:26:29 GMT
+

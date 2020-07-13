@@ -1,0 +1,11 @@
+[t208]
+FileName1=t208_dns-query.html
+URL1=https://dns.google/dns-query?dns=Sh8BAAABAAAAAAABDmNsaWVudHNlcnZpY2VzCmdvb2dsZWFwaXMDY29tAAABAAEAACkQAAAAAAAARgAMAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_208.xml
+RequestHeaderFile=t208_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t208_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

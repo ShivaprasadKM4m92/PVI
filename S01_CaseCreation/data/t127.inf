@@ -1,0 +1,9 @@
+[t127]
+SnapshotXmlFile=snapshot_127.xml
+FileName1=t127.png
+URL1=http://10.100.22.228:8081/assets/icons-65b31b61c897618a8636713563328ed1.png
+Total=1
+RequestHeaderFile=t127_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t127_ResponseHeader.txt
+ContentType=image/png

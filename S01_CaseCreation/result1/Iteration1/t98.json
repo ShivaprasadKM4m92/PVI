@@ -1,0 +1,26 @@
+[{
+   "childEvents": [{
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [],
+               "id": 10059365,
+               "type": "llt",
+               "value": "Politano-Leadbetter procedure"
+            }],
+            "id": 10052686,
+            "type": "pt",
+            "value": "Ureteroneocystostomy"
+         }],
+         "id": 10046407,
+         "type": "hlt",
+         "value": "Ureteric therapeutic procedures"
+      }],
+      "id": 10038365,
+      "type": "hlgt",
+      "value": "Renal and urinary tract therapeutic procedures"
+   }],
+   "id": 10042613,
+   "type": "soc",
+   "value": "Surgical and medical procedures"
+}]

@@ -1,0 +1,321 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10012594,
+                        "type": "llt",
+                        "value": "Diabetes"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012601,
+                        "type": "llt",
+                        "value": "Diabetes mellitus"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012614,
+                        "type": "llt",
+                        "value": "Diabetes mellitus NOS"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012603,
+                        "type": "llt",
+                        "value": "Diabetes mellitus aggravated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012605,
+                        "type": "llt",
+                        "value": "Diabetes mellitus exacerbated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012620,
+                        "type": "llt",
+                        "value": "Diabetes mellitus precipitated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10066532,
+                        "type": "llt",
+                        "value": "Diabetes mellitus progression"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012621,
+                        "type": "llt",
+                        "value": "Diabetes mellitus reactivated"
+                     }
+                  ],
+                  "id": 10012601,
+                  "type": "pt",
+                  "value": "Diabetes mellitus"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10012595,
+                        "type": "llt",
+                        "value": "Diabetes brittle"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012607,
+                        "type": "llt",
+                        "value": "Diabetes mellitus inadequate control"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012610,
+                        "type": "llt",
+                        "value": "Diabetes mellitus loss of control"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012619,
+                        "type": "llt",
+                        "value": "Diabetes mellitus poor control"
+                     }
+                  ],
+                  "id": 10012607,
+                  "type": "pt",
+                  "value": "Diabetes mellitus inadequate control"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10012596,
+                        "type": "llt",
+                        "value": "Diabetes complicating pregnancy"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012597,
+                        "type": "llt",
+                        "value": "Diabetes complicating the puerperium"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012604,
+                        "type": "llt",
+                        "value": "Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012615,
+                        "type": "llt",
+                        "value": "Diabetes mellitus of mother, comp pregnancy,childbirth, or the puerp, unspec as to eoc"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012616,
+                        "type": "llt",
+                        "value": "Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as t"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012617,
+                        "type": "llt",
+                        "value": "Diabetes mellitus of mother, with delivery"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012618,
+                        "type": "llt",
+                        "value": "Diabetes mellitus of mother, with delivery, with mention of postpartum complication"
+                     }
+                  ],
+                  "id": 10012596,
+                  "type": "pt",
+                  "value": "Diabetes complicating pregnancy"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10012608,
+                        "type": "llt",
+                        "value": "Diabetes mellitus insulin-dependent"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012609,
+                        "type": "llt",
+                        "value": "Diabetes mellitus juvenile onset"
+                     }
+                  ],
+                  "id": 10067584,
+                  "type": "pt",
+                  "value": "Type 1 diabetes mellitus"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10050197,
+                     "type": "llt",
+                     "value": "Diabetes mellitus malnutrition-related"
+                  }],
+                  "id": 10050197,
+                  "type": "pt",
+                  "value": "Diabetes mellitus malnutrition-related"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10012611,
+                        "type": "llt",
+                        "value": "Diabetes mellitus maturity onset"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012612,
+                        "type": "llt",
+                        "value": "Diabetes mellitus non insulin-dep"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012613,
+                        "type": "llt",
+                        "value": "Diabetes mellitus non-insulin-dependent"
+                     }
+                  ],
+                  "id": 10067585,
+                  "type": "pt",
+                  "value": "Type 2 diabetes mellitus"
+               }
+            ],
+            "id": 10012602,
+            "type": "hlt",
+            "value": "Diabetes mellitus (incl subtypes)"
+         }],
+         "id": 10018424,
+         "type": "hlgt",
+         "value": "Glucose metabolism disorders (incl diabetes mellitus)"
+      }],
+      "id": 10027433,
+      "type": "soc",
+      "value": "Metabolism and nutrition disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10012598,
+                     "type": "llt",
+                     "value": "Diabetes in pregnancy"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10012606,
+                     "type": "llt",
+                     "value": "Diabetes mellitus gestational"
+                  }
+               ],
+               "id": 10018209,
+               "type": "pt",
+               "value": "Gestational diabetes"
+            }],
+            "id": 10052745,
+            "type": "hlt",
+            "value": "Pregnancy complicated by maternal disorders"
+         }],
+         "id": 10026908,
+         "type": "hlgt",
+         "value": "Maternal complications of pregnancy"
+      }],
+      "id": 10036585,
+      "type": "soc",
+      "value": "Pregnancy, puerperium and perinatal conditions"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10012599,
+                  "type": "llt",
+                  "value": "Diabetes insipidus"
+               }],
+               "id": 10012599,
+               "type": "pt",
+               "value": "Diabetes insipidus"
+            }],
+            "id": 10036361,
+            "type": "hlt",
+            "value": "Posterior pituitary disorders"
+         }],
+         "id": 10021112,
+         "type": "hlgt",
+         "value": "Hypothalamus and pituitary gland disorders"
+      }],
+      "id": 10014698,
+      "type": "soc",
+      "value": "Endocrine disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10012600,
+                  "type": "llt",
+                  "value": "Diabetes insipidus nephrogenic"
+               }],
+               "id": 10029147,
+               "type": "pt",
+               "value": "Nephrogenic diabetes insipidus"
+            }],
+            "id": 10029150,
+            "type": "hlt",
+            "value": "Nephropathies and tubular disorders NEC"
+         }],
+         "id": 10029149,
+         "type": "hlgt",
+         "value": "Nephropathies"
+      }],
+      "id": 10038359,
+      "type": "soc",
+      "value": "Renal and urinary disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10051599,
+                  "type": "llt",
+                  "value": "Diabetes mellitus management"
+               }],
+               "id": 10051599,
+               "type": "pt",
+               "value": "Diabetes mellitus management"
+            }],
+            "id": 10027700,
+            "type": "hlt",
+            "value": "Therapeutic procedures NEC"
+         }],
+         "id": 10043413,
+         "type": "hlgt",
+         "value": "Therapeutic procedures and supportive care NEC"
+      }],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   }
+]

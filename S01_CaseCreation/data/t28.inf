@@ -1,0 +1,9 @@
+[t28]
+SnapshotXmlFile=snapshot_28.xml
+FileName1=t28.jpg
+URL1=http://10.100.22.68:8083/assets/background-4c8c4fd7df1b6436735eac4cfed91698.jpg
+Total=1
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=image/jpeg

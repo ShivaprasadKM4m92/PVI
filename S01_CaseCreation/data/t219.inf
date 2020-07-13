@@ -1,0 +1,11 @@
+[t219]
+FileName1=t219.html
+URL1=http://10.100.22.68:8083/external?callBackUrl=http://10.100.22.228:8081/login/success
+Total=1
+RequestHeaderFile=t219_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t219_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_219.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

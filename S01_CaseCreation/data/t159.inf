@@ -1,0 +1,11 @@
+[t159]
+FileName1=t159_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=typho&_=1594639576748
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_159.xml
+RequestHeaderFile=t159_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t159_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

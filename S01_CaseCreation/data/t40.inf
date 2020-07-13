@@ -1,0 +1,9 @@
+[t40]
+SnapshotXmlFile=snapshot_40.xml
+FileName1=t40.png
+URL1=http://10.100.22.68:8083/assets/PVAdmin-633ec218549f1fae0ce7d659fa347d7a.png
+Total=1
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t40_ResponseHeader.txt
+ContentType=image/png

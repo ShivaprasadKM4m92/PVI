@@ -1,0 +1,478 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10015903,
+                              "type": "llt",
+                              "value": "Eye abnormality"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10048513,
+                              "type": "llt",
+                              "value": "Eye abnormality (NOS)"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10015904,
+                              "type": "llt",
+                              "value": "Eye abnormality NOS"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10015916,
+                              "type": "llt",
+                              "value": "Eye disorder"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10048514,
+                              "type": "llt",
+                              "value": "Eye disorder (NOS)"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10015918,
+                              "type": "llt",
+                              "value": "Eye disorder NOS"
+                           }
+                        ],
+                        "id": 10015916,
+                        "type": "pt",
+                        "value": "Eye disorder"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10015906,
+                           "type": "llt",
+                           "value": "Eye ache"
+                        }],
+                        "id": 10015958,
+                        "type": "pt",
+                        "value": "Eye pain"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10054378,
+                           "type": "llt",
+                           "value": "Eye edema"
+                        }],
+                        "id": 10052139,
+                        "type": "pt",
+                        "value": "Eye oedema"
+                     }
+                  ],
+                  "id": 10030032,
+                  "type": "hlt",
+                  "value": "Ocular disorders NEC"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10015921,
+                        "type": "llt",
+                        "value": "Eye dryness"
+                     }],
+                     "id": 10013774,
+                     "type": "pt",
+                     "value": "Dry eye"
+                  }],
+                  "id": 10072989,
+                  "type": "hlt",
+                  "value": "Lacrimation disorders"
+               }
+            ],
+            "id": 10015917,
+            "type": "hlgt",
+            "value": "Eye disorders NEC"
+         },
+         {
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10015907,
+                           "type": "llt",
+                           "value": "Eye allergy"
+                        }],
+                        "id": 10015907,
+                        "type": "pt",
+                        "value": "Eye allergy"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10015910,
+                           "type": "llt",
+                           "value": "Eye blood shot"
+                        }],
+                        "id": 10030041,
+                        "type": "pt",
+                        "value": "Ocular hyperaemia"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10015915,
+                           "type": "llt",
+                           "value": "Eye discharge"
+                        }],
+                        "id": 10015915,
+                        "type": "pt",
+                        "value": "Eye discharge"
+                     }
+                  ],
+                  "id": 10030045,
+                  "type": "hlt",
+                  "value": "Ocular infections, inflammations and associated manifestations"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10077242,
+                        "type": "llt",
+                        "value": "Eye crusting"
+                     }],
+                     "id": 10052132,
+                     "type": "pt",
+                     "value": "Eyelid margin crusting"
+                  }],
+                  "id": 10024445,
+                  "type": "hlt",
+                  "value": "Lid, lash and lacrimal infections, irritations and inflammations"
+               }
+            ],
+            "id": 10021877,
+            "type": "hlgt",
+            "value": "Ocular infections, irritations and inflammations"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071804,
+                     "type": "llt",
+                     "value": "Eye bleeding"
+                  }],
+                  "id": 10015926,
+                  "type": "pt",
+                  "value": "Eye haemorrhage"
+               }],
+               "id": 10030031,
+               "type": "hlt",
+               "value": "Ocular bleeding and vascular disorders NEC"
+            }],
+            "id": 10047061,
+            "type": "hlgt",
+            "value": "Ocular haemorrhages and vascular disorders NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10072295,
+                        "type": "llt",
+                        "value": "Eye color change"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10072289,
+                        "type": "llt",
+                        "value": "Eye colour change"
+                     }
+                  ],
+                  "id": 10072289,
+                  "type": "pt",
+                  "value": "Eye colour change"
+               }],
+               "id": 10022952,
+               "type": "hlt",
+               "value": "Iris and ciliary body structural change, deposit and degeneration"
+            }],
+            "id": 10002693,
+            "type": "hlgt",
+            "value": "Anterior eye structural change, deposit and degeneration"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10061127,
+                        "type": "llt",
+                        "value": "Eye degenerative disorder"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10015914,
+                        "type": "llt",
+                        "value": "Eye degenerative disorder NOS"
+                     }
+                  ],
+                  "id": 10061127,
+                  "type": "pt",
+                  "value": "Eye degenerative disorder"
+               }],
+               "id": 10042260,
+               "type": "hlt",
+               "value": "Structural change, deposit and degeneration of eye NEC"
+            }],
+            "id": 10042261,
+            "type": "hlgt",
+            "value": "Ocular structural change, deposit and degeneration NEC"
+         }
+      ],
+      "id": 10015919,
+      "type": "soc",
+      "value": "Eye disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10015905,
+                     "type": "llt",
+                     "value": "Eye abscess"
+                  }],
+                  "id": 10015905,
+                  "type": "pt",
+                  "value": "Eye abscess"
+               }],
+               "id": 10015909,
+               "type": "hlt",
+               "value": "Eye and eyelid infections"
+            }],
+            "id": 10021879,
+            "type": "hlgt",
+            "value": "Infections - pathogen unspecified"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10015912,
+                     "type": "llt",
+                     "value": "Eye chlamydial infection"
+                  }],
+                  "id": 10015932,
+                  "type": "pt",
+                  "value": "Eye infection chlamydial"
+               }],
+               "id": 10008561,
+               "type": "hlt",
+               "value": "Chlamydial infections"
+            }],
+            "id": 10008555,
+            "type": "hlgt",
+            "value": "Chlamydial infectious disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10066154,
+                     "type": "llt",
+                     "value": "Eye accommodation exam"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10056857,
+                     "type": "llt",
+                     "value": "Eye exam"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10051119,
+                     "type": "llt",
+                     "value": "Eye exam NOS"
+                  }
+               ],
+               "id": 10050320,
+               "type": "pt",
+               "value": "Ophthalmological examination"
+            }],
+            "id": 10071941,
+            "type": "hlt",
+            "value": "Physical examination procedures and organ system status"
+         }],
+         "id": 10071940,
+         "type": "hlgt",
+         "value": "Physical examination and organ system status topics"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10079444,
+                  "type": "llt",
+                  "value": "Eye angioedema"
+               }],
+               "id": 10002424,
+               "type": "pt",
+               "value": "Angioedema"
+            }],
+            "id": 10002425,
+            "type": "hlt",
+            "value": "Angioedemas"
+         }],
+         "id": 10002426,
+         "type": "hlgt",
+         "value": "Angioedema and urticaria"
+      }],
+      "id": 10040785,
+      "type": "soc",
+      "value": "Skin and subcutaneous tissue disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10061051,
+                     "type": "llt",
+                     "value": "Eye anterior chamber congenital anomaly"
+                  }],
+                  "id": 10061051,
+                  "type": "pt",
+                  "value": "Eye anterior chamber congenital anomaly"
+               }],
+               "id": 10002676,
+               "type": "hlt",
+               "value": "Anterior and posterior chamber disorders congenital"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10015913,
+                     "type": "llt",
+                     "value": "Eye deformity congenital NOS"
+                  }],
+                  "id": 10059159,
+                  "type": "pt",
+                  "value": "Congenital eye disorder"
+               }],
+               "id": 10027673,
+               "type": "hlt",
+               "value": "Ocular disorders congenital NEC"
+            }
+         ],
+         "id": 10015920,
+         "type": "hlgt",
+         "value": "Eye disorders congenital"
+      }],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10015911,
+                        "type": "llt",
+                        "value": "Eye burns"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10049266,
+                        "type": "llt",
+                        "value": "Eye burns NOS"
+                     }
+                  ],
+                  "id": 10015911,
+                  "type": "pt",
+                  "value": "Eye burns"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10073354,
+                     "type": "llt",
+                     "value": "Eye contusion"
+                  }],
+                  "id": 10073354,
+                  "type": "pt",
+                  "value": "Eye contusion"
+               }
+            ],
+            "id": 10027674,
+            "type": "hlt",
+            "value": "Eye injuries NEC"
+         }],
+         "id": 10022114,
+         "type": "hlgt",
+         "value": "Injuries NEC"
+      }],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10069837,
+                  "type": "llt",
+                  "value": "Eye complication associated with device"
+               }],
+               "id": 10069837,
+               "type": "pt",
+               "value": "Eye complication associated with device"
+            }],
+            "id": 10069786,
+            "type": "hlt",
+            "value": "Eye complications associated with device"
+         }],
+         "id": 10069781,
+         "type": "hlgt",
+         "value": "Complications associated with device"
+      }],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   }
+]

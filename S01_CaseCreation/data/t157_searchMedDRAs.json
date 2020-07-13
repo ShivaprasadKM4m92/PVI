@@ -1,0 +1,480 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10045224,
+                        "type": "llt",
+                        "value": "Type 1 (distal) RTA"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10045225,
+                        "type": "llt",
+                        "value": "Type 2 (mixed) RTA"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10045226,
+                        "type": "llt",
+                        "value": "Type 2 (proximal) RTA"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10060427,
+                        "type": "llt",
+                        "value": "Type 4 (hyperkalaemic) RTA"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10045227,
+                        "type": "llt",
+                        "value": "Type 4 (hyperkalemic) RTA"
+                     }
+                  ],
+                  "id": 10038535,
+                  "type": "pt",
+                  "value": "Renal tubular acidosis"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10045236,
+                     "type": "llt",
+                     "value": "Type I diabetes mellitus with renal manifestations"
+                  }],
+                  "id": 10061835,
+                  "type": "pt",
+                  "value": "Diabetic nephropathy"
+               }
+            ],
+            "id": 10029150,
+            "type": "hlt",
+            "value": "Nephropathies and tubular disorders NEC"
+         }],
+         "id": 10029149,
+         "type": "hlgt",
+         "value": "Nephropathies"
+      }],
+      "id": 10038359,
+      "type": "soc",
+      "value": "Renal and urinary disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10067584,
+                           "type": "llt",
+                           "value": "Type 1 diabetes mellitus"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045228,
+                           "type": "llt",
+                           "value": "Type I diabetes mellitus"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045238,
+                           "type": "llt",
+                           "value": "Type I diabetes mellitus without mention of complication"
+                        }
+                     ],
+                     "id": 10067584,
+                     "type": "pt",
+                     "value": "Type 1 diabetes mellitus"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10072398,
+                        "type": "llt",
+                        "value": "Type 1.5 diabetes mellitus"
+                     }],
+                     "id": 10066389,
+                     "type": "pt",
+                     "value": "Latent autoimmune diabetes in adults"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10067585,
+                        "type": "llt",
+                        "value": "Type 2 diabetes mellitus"
+                     }],
+                     "id": 10067585,
+                     "type": "pt",
+                     "value": "Type 2 diabetes mellitus"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10072659,
+                        "type": "llt",
+                        "value": "Type 3 diabetes mellitus"
+                     }],
+                     "id": 10072659,
+                     "type": "pt",
+                     "value": "Type 3 diabetes mellitus"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10063623,
+                        "type": "llt",
+                        "value": "Type I diabetes mellitus inadequate control"
+                     }],
+                     "id": 10012607,
+                     "type": "pt",
+                     "value": "Diabetes mellitus inadequate control"
+                  }
+               ],
+               "id": 10012602,
+               "type": "hlt",
+               "value": "Diabetes mellitus (incl subtypes)"
+            }],
+            "id": 10018424,
+            "type": "hlgt",
+            "value": "Glucose metabolism disorders (incl diabetes mellitus)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10045230,
+                        "type": "llt",
+                        "value": "Type I diabetes mellitus with ketoacidosis"
+                     }],
+                     "id": 10012671,
+                     "type": "pt",
+                     "value": "Diabetic ketoacidosis"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10045234,
+                           "type": "llt",
+                           "value": "Type I diabetes mellitus with other specified manifestations"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045237,
+                           "type": "llt",
+                           "value": "Type I diabetes mellitus with unspecified complication"
+                        }
+                     ],
+                     "id": 10061104,
+                     "type": "pt",
+                     "value": "Diabetic complication"
+                  }
+               ],
+               "id": 10012655,
+               "type": "hlt",
+               "value": "Diabetic complications NEC"
+            }],
+            "id": 10012653,
+            "type": "hlgt",
+            "value": "Diabetic complications"
+         }
+      ],
+      "id": 10027433,
+      "type": "soc",
+      "value": "Metabolism and nutrition disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10070516,
+                     "type": "llt",
+                     "value": "Type 1 lepra reaction"
+                  }],
+                  "id": 10070516,
+                  "type": "pt",
+                  "value": "Type 1 lepra reaction"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10070517,
+                     "type": "llt",
+                     "value": "Type 2 lepra reaction"
+                  }],
+                  "id": 10070517,
+                  "type": "pt",
+                  "value": "Type 2 lepra reaction"
+               }
+            ],
+            "id": 10024230,
+            "type": "hlt",
+            "value": "Leprous infections"
+         }],
+         "id": 10028440,
+         "type": "hlgt",
+         "value": "Mycobacterial infectious disorders"
+      }],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10078316,
+                  "type": "llt",
+                  "value": "Type 3 (peri-operative) respiratory failure"
+               }],
+               "id": 10001053,
+               "type": "pt",
+               "value": "Acute respiratory failure"
+            }],
+            "id": 10052549,
+            "type": "hlt",
+            "value": "Respiratory failures (excl neonatal)"
+         }],
+         "id": 10038716,
+         "type": "hlgt",
+         "value": "Respiratory disorders NEC"
+      }],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10077136,
+                        "type": "llt",
+                        "value": "Type A aortic dissection"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10077125,
+                        "type": "llt",
+                        "value": "Type B aortic dissection"
+                     }
+                  ],
+                  "id": 10002895,
+                  "type": "pt",
+                  "value": "Aortic dissection"
+               }],
+               "id": 10002889,
+               "type": "hlt",
+               "value": "Aortic aneurysms and dissections"
+            }],
+            "id": 10002363,
+            "type": "hlgt",
+            "value": "Aneurysms and artery dissections"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10045235,
+                     "type": "llt",
+                     "value": "Type I diabetes mellitus with peripheral circulatory disorders"
+                  }],
+                  "id": 10061815,
+                  "type": "pt",
+                  "value": "Diabetic vascular disorder"
+               }],
+               "id": 10034640,
+               "type": "hlt",
+               "value": "Peripheral vasoconstriction, necrosis and vascular insufficiency"
+            }],
+            "id": 10003216,
+            "type": "hlgt",
+            "value": "Arteriosclerosis, stenosis, vascular insufficiency and necrosis"
+         }
+      ],
+      "id": 10047065,
+      "type": "soc",
+      "value": "Vascular disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10074848,
+                        "type": "llt",
+                        "value": "Type A gastritis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10074849,
+                        "type": "llt",
+                        "value": "Type B gastritis"
+                     }
+                  ],
+                  "id": 10008882,
+                  "type": "pt",
+                  "value": "Chronic gastritis"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10075447,
+                     "type": "llt",
+                     "value": "Type C gastritis"
+                  }],
+                  "id": 10075425,
+                  "type": "pt",
+                  "value": "Reactive gastropathy"
+               }
+            ],
+            "id": 10017854,
+            "type": "hlt",
+            "value": "Gastritis (excl infective)"
+         }],
+         "id": 10017969,
+         "type": "hlgt",
+         "value": "Gastrointestinal inflammatory conditions"
+      }],
+      "id": 10017947,
+      "type": "soc",
+      "value": "Gastrointestinal disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10045229,
+                        "type": "llt",
+                        "value": "Type I diabetes mellitus with hyperosmolar coma"
+                     }],
+                     "id": 10012669,
+                     "type": "pt",
+                     "value": "Diabetic hyperosmolar coma"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10045233,
+                        "type": "llt",
+                        "value": "Type I diabetes mellitus with other coma"
+                     }],
+                     "id": 10012650,
+                     "type": "pt",
+                     "value": "Diabetic coma"
+                  }
+               ],
+               "id": 10052770,
+               "type": "hlt",
+               "value": "Coma states"
+            }],
+            "id": 10029305,
+            "type": "hlgt",
+            "value": "Neurological disorders NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10045231,
+                     "type": "llt",
+                     "value": "Type I diabetes mellitus with neurological manifestations"
+                  }],
+                  "id": 10012680,
+                  "type": "pt",
+                  "value": "Diabetic neuropathy"
+               }],
+               "id": 10036107,
+               "type": "hlt",
+               "value": "Chronic polyneuropathies"
+            }],
+            "id": 10034606,
+            "type": "hlgt",
+            "value": "Peripheral neuropathies"
+         }
+      ],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10045232,
+                  "type": "llt",
+                  "value": "Type I diabetes mellitus with ophthalmic manifestations"
+               }],
+               "id": 10012661,
+               "type": "pt",
+               "value": "Diabetic eye disease"
+            }],
+            "id": 10030032,
+            "type": "hlt",
+            "value": "Ocular disorders NEC"
+         }],
+         "id": 10015917,
+         "type": "hlgt",
+         "value": "Eye disorders NEC"
+      }],
+      "id": 10015919,
+      "type": "soc",
+      "value": "Eye disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10045239,
+                  "type": "llt",
+                  "value": "Type I glycogen storage disease"
+               }],
+               "id": 10018464,
+               "type": "pt",
+               "value": "Glycogen storage disease type I"
+            }],
+            "id": 10021604,
+            "type": "hlt",
+            "value": "Inborn errors of carbohydrate metabolism (excl glucose)"
+         }],
+         "id": 10027424,
+         "type": "hlgt",
+         "value": "Metabolic and nutritional disorders congenital"
+      }],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   }
+]

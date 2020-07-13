@@ -1,0 +1,11 @@
+[t121]
+FileName1=t121_meddra_template.html
+URL1=http://10.100.22.228:8081/assets/pv/comp/templates/meddra_template.hbs
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_121.xml
+RequestHeaderFile=t121_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t121_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

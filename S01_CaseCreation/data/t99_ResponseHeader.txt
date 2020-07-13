@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:56:58 GMT
+ETag: "vendor/documentViewer/attachmentViewer-manifest-d21cd5ef9afc9d23b8e3146c7832bb09.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 22650
+Date: Mon, 13 Jul 2020 11:26:15 GMT
+

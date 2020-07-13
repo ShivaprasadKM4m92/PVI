@@ -1,0 +1,9 @@
+[t18]
+SnapshotXmlFile=snapshot_18.xml
+FileName1=t18.png
+URL1=http://10.100.22.68:8083/assets/pvi_logo-3b00491e90ab9196bd3d5429e905d856.png
+Total=1
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+ContentType=image/png

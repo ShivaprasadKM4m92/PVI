@@ -1,0 +1,11 @@
+GET /dashboard/personalStats?_=1594639551160 HTTP/1.1
+Host: 10.100.22.228:8081
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+X-Requested-With: XMLHttpRequest
+Referer: http://10.100.22.228:8081/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: SESSION=1fee1200-9441-42c5-a51a-b28afe88ecb4; AuthType=Database
+

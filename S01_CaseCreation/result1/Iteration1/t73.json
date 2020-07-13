@@ -1,0 +1,509 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10009852,
+                     "type": "llt",
+                     "value": "Cold abscess"
+                  }],
+                  "id": 10044755,
+                  "type": "pt",
+                  "value": "Tuberculosis"
+               }],
+               "id": 10044756,
+               "type": "hlt",
+               "value": "Tuberculous infections"
+            }],
+            "id": 10028440,
+            "type": "hlgt",
+            "value": "Mycobacterial infectious disorders"
+         },
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10009864,
+                           "type": "llt",
+                           "value": "Cold sore (herpetic)"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10049319,
+                           "type": "llt",
+                           "value": "Cold sore mouth"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10009865,
+                           "type": "llt",
+                           "value": "Cold sores"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10049352,
+                           "type": "llt",
+                           "value": "Cold sores lip"
+                        }
+                     ],
+                     "id": 10067152,
+                     "type": "pt",
+                     "value": "Oral herpes"
+                  }],
+                  "id": 10019972,
+                  "type": "hlt",
+                  "value": "Herpes viral infections"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10009867,
+                           "type": "llt",
+                           "value": "Cold symptoms"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10010107,
+                           "type": "llt",
+                           "value": "Common cold syndrome"
+                        }
+                     ],
+                     "id": 10047482,
+                     "type": "pt",
+                     "value": "Viral upper respiratory tract infection"
+                  }],
+                  "id": 10047465,
+                  "type": "hlt",
+                  "value": "Viral infections NEC"
+               }
+            ],
+            "id": 10047438,
+            "type": "hlgt",
+            "value": "Viral infectious disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10068863,
+                     "type": "llt",
+                     "value": "Cold agglutinin disease"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10009868,
+                     "type": "llt",
+                     "value": "Cold type haemolytic anaemia"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10054360,
+                     "type": "llt",
+                     "value": "Cold type hemolytic anemia"
+                  }
+               ],
+               "id": 10009868,
+               "type": "pt",
+               "value": "Cold type haemolytic anaemia"
+            }],
+            "id": 10002052,
+            "type": "hlt",
+            "value": "Anaemias haemolytic immune"
+         }],
+         "id": 10018911,
+         "type": "hlgt",
+         "value": "Haemolyses and related conditions"
+      }],
+      "id": 10005329,
+      "type": "soc",
+      "value": "Blood and lymphatic system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10050523,
+                     "type": "llt",
+                     "value": "Cold agglutinins"
+                  }],
+                  "id": 10050523,
+                  "type": "pt",
+                  "value": "Cold agglutinins"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10009853,
+                     "type": "llt",
+                     "value": "Cold agglutinins negative"
+                  }],
+                  "id": 10009853,
+                  "type": "pt",
+                  "value": "Cold agglutinins negative"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10009854,
+                        "type": "llt",
+                        "value": "Cold agglutinins positive"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10009855,
+                        "type": "llt",
+                        "value": "Cold agglutinins present"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10065228,
+                        "type": "llt",
+                        "value": "Cold antibody present"
+                     }
+                  ],
+                  "id": 10009854,
+                  "type": "pt",
+                  "value": "Cold agglutinins positive"
+               }
+            ],
+            "id": 10003828,
+            "type": "hlt",
+            "value": "Autoimmunity analyses"
+         }],
+         "id": 10021505,
+         "type": "hlgt",
+         "value": "Immunology and allergy investigations"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10052930,
+                  "type": "llt",
+                  "value": "Cold compress therapy"
+               }],
+               "id": 10079482,
+               "type": "pt",
+               "value": "Cooling therapy"
+            }],
+            "id": 10027700,
+            "type": "hlt",
+            "value": "Therapeutic procedures NEC"
+         }],
+         "id": 10043413,
+         "type": "hlgt",
+         "value": "Therapeutic procedures and supportive care NEC"
+      }],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10009856,
+                  "type": "llt",
+                  "value": "Cold exposure injury"
+               }],
+               "id": 10009856,
+               "type": "pt",
+               "value": "Cold exposure injury"
+            }],
+            "id": 10010269,
+            "type": "hlt",
+            "value": "Conditions caused by cold"
+         }],
+         "id": 10022119,
+         "type": "hlgt",
+         "value": "Injuries by physical agents"
+      }],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10009857,
+                     "type": "llt",
+                     "value": "Cold extremities"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10009859,
+                     "type": "llt",
+                     "value": "Cold feet"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10009860,
+                     "type": "llt",
+                     "value": "Cold hands"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10009861,
+                     "type": "llt",
+                     "value": "Cold hands & feet"
+                  }
+               ],
+               "id": 10034568,
+               "type": "pt",
+               "value": "Peripheral coldness"
+            }],
+            "id": 10034640,
+            "type": "hlt",
+            "value": "Peripheral vasoconstriction, necrosis and vascular insufficiency"
+         }],
+         "id": 10003216,
+         "type": "hlgt",
+         "value": "Arteriosclerosis, stenosis, vascular insufficiency and necrosis"
+      }],
+      "id": 10047065,
+      "type": "soc",
+      "value": "Vascular disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10009858,
+                     "type": "llt",
+                     "value": "Cold feeling in eye"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10016003,
+                     "type": "llt",
+                     "value": "Eyes cold feeling of"
+                  }
+               ],
+               "id": 10000173,
+               "type": "pt",
+               "value": "Abnormal sensation in eye"
+            }],
+            "id": 10030063,
+            "type": "hlt",
+            "value": "Ocular sensation disorders"
+         }],
+         "id": 10030064,
+         "type": "hlgt",
+         "value": "Ocular sensory symptoms NEC"
+      }],
+      "id": 10015919,
+      "type": "soc",
+      "value": "Eye disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10066345,
+                  "type": "llt",
+                  "value": "Cold induced asthma"
+               }],
+               "id": 10003553,
+               "type": "pt",
+               "value": "Asthma"
+            }],
+            "id": 10006484,
+            "type": "hlt",
+            "value": "Bronchospasm and obstruction"
+         }],
+         "id": 10006436,
+         "type": "hlgt",
+         "value": "Bronchial disorders (excl neoplasms)"
+      }],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10009862,
+                  "type": "llt",
+                  "value": "Cold injury syndrome of newborn"
+               }],
+               "id": 10050080,
+               "type": "pt",
+               "value": "Hypothermia neonatal"
+            }],
+            "id": 10028961,
+            "type": "hlt",
+            "value": "Neonatal metabolic and endocrine disorders"
+         }],
+         "id": 10028920,
+         "type": "hlgt",
+         "value": "Neonatal and perinatal conditions"
+      }],
+      "id": 10036585,
+      "type": "soc",
+      "value": "Pregnancy, puerperium and perinatal conditions"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10009863,
+                     "type": "llt",
+                     "value": "Cold intolerance"
+                  }],
+                  "id": 10057040,
+                  "type": "pt",
+                  "value": "Temperature intolerance"
+               }],
+               "id": 10068759,
+               "type": "hlt",
+               "value": "Feelings and sensations NEC"
+            }],
+            "id": 10018073,
+            "type": "hlgt",
+            "value": "General system disorders NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10050098,
+                     "type": "llt",
+                     "value": "Application site cold feeling"
+                  }],
+                  "id": 10076001,
+                  "type": "pt",
+                  "value": "Application site coldness"
+               }],
+               "id": 10003057,
+               "type": "hlt",
+               "value": "Application and instillation site reactions"
+            }],
+            "id": 10001316,
+            "type": "hlgt",
+            "value": "Administration site reactions"
+         }
+      ],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10072635,
+                  "type": "llt",
+                  "value": "Cold sensitivity neuropathy"
+               }],
+               "id": 10029331,
+               "type": "pt",
+               "value": "Neuropathy peripheral"
+            }],
+            "id": 10034607,
+            "type": "hlt",
+            "value": "Peripheral neuropathies NEC"
+         }],
+         "id": 10034606,
+         "type": "hlgt",
+         "value": "Peripheral neuropathies"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10009866,
+                     "type": "llt",
+                     "value": "Cold sweat"
+                  }],
+                  "id": 10009866,
+                  "type": "pt",
+                  "value": "Cold sweat"
+               }],
+               "id": 10002982,
+               "type": "hlt",
+               "value": "Apocrine and eccrine gland disorders"
+            }],
+            "id": 10040798,
+            "type": "hlgt",
+            "value": "Skin appendage conditions"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10009869,
+                     "type": "llt",
+                     "value": "Cold urticaria"
+                  }],
+                  "id": 10009869,
+                  "type": "pt",
+                  "value": "Cold urticaria"
+               }],
+               "id": 10046736,
+               "type": "hlt",
+               "value": "Urticarias"
+            }],
+            "id": 10002426,
+            "type": "hlgt",
+            "value": "Angioedema and urticaria"
+         }
+      ],
+      "id": 10040785,
+      "type": "soc",
+      "value": "Skin and subcutaneous tissue disorders"
+   }
+]

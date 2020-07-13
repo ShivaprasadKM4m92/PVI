@@ -1,0 +1,11 @@
+[t61]
+FileName1=t61_OpenSans-Regular-cffb686d7d2f4682df8342bd4d276e09.html
+URL1=http://10.100.22.228:8081/assets/OpenSans-Regular-cffb686d7d2f4682df8342bd4d276e09.woff2?v=1.1.0
+Total=1
+ContentType=font/woff2
+SnapshotXmlFile=snapshot_61.xml
+RequestHeaderFile=t61_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t61_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

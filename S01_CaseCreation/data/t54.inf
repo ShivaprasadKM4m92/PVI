@@ -1,0 +1,9 @@
+[t54]
+SnapshotXmlFile=snapshot_54.xml
+FileName1=t54.png
+URL1=http://10.100.22.228:8081/assets/PVIntake-241ae46808f3515f2be1c0c88ee0773b.png
+Total=1
+RequestHeaderFile=t54_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t54_ResponseHeader.txt
+ContentType=image/png

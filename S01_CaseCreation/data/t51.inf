@@ -1,0 +1,11 @@
+[t51]
+FileName1=t51_dashboard-manifest-b8c4a5998dad68d4595e4d0aa8d50016.css
+URL1=http://10.100.22.228:8081/assets/app/dashboard/dashboard-manifest-b8c4a5998dad68d4595e4d0aa8d50016.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_51.xml
+RequestHeaderFile=t51_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t51_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

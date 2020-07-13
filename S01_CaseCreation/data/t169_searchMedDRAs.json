@@ -1,0 +1,473 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10012307,
+                           "type": "llt",
+                           "value": "Dendritic keratitis"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10012308,
+                           "type": "llt",
+                           "value": "Dendritic ulcer"
+                        }
+                     ],
+                     "id": 10073938,
+                     "type": "pt",
+                     "value": "Ophthalmic herpes simplex"
+                  }],
+                  "id": 10019972,
+                  "type": "hlt",
+                  "value": "Herpes viral infections"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10012309,
+                           "type": "llt",
+                           "value": "Dengue"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10012310,
+                           "type": "llt",
+                           "value": "Dengue fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10012312,
+                           "type": "llt",
+                           "value": "Dengue fever virus infection"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10055776,
+                           "type": "llt",
+                           "value": "Dengue haemorrhagic fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10012313,
+                           "type": "llt",
+                           "value": "Dengue hemorrhagic fever"
+                        }
+                     ],
+                     "id": 10012310,
+                     "type": "pt",
+                     "value": "Dengue fever"
+                  }],
+                  "id": 10057199,
+                  "type": "hlt",
+                  "value": "Flaviviral infections"
+               }
+            ],
+            "id": 10047438,
+            "type": "hlgt",
+            "value": "Viral infectious disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10012314,
+                     "type": "llt",
+                     "value": "Dental abscess"
+                  }],
+                  "id": 10044016,
+                  "type": "pt",
+                  "value": "Tooth abscess"
+               }],
+               "id": 10012326,
+               "type": "hlt",
+               "value": "Dental and oral soft tissue infections"
+            }],
+            "id": 10021879,
+            "type": "hlgt",
+            "value": "Infections - pathogen unspecified"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10049643,
+                  "type": "llt",
+                  "value": "Denervation atrophy"
+               }],
+               "id": 10075469,
+               "type": "pt",
+               "value": "Neuropathic muscular atrophy"
+            }],
+            "id": 10028326,
+            "type": "hlt",
+            "value": "Muscle related signs and symptoms NEC"
+         }],
+         "id": 10028302,
+         "type": "hlgt",
+         "value": "Muscle disorders"
+      }],
+      "id": 10028395,
+      "type": "soc",
+      "value": "Musculoskeletal and connective tissue disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10070225,
+                  "type": "llt",
+                  "value": "Dengue virus test positive"
+               }],
+               "id": 10070211,
+               "type": "pt",
+               "value": "Flavivirus test positive"
+            }],
+            "id": 10047490,
+            "type": "hlt",
+            "value": "Virus identification and serology"
+         }],
+         "id": 10027529,
+         "type": "hlgt",
+         "value": "Microbiology and serology investigations"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10062918,
+                  "type": "llt",
+                  "value": "Dennie-Morgan fold"
+               }],
+               "id": 10062918,
+               "type": "pt",
+               "value": "Dennie-Morgan fold"
+            }],
+            "id": 10012435,
+            "type": "hlt",
+            "value": "Dermatitis and eczema"
+         }],
+         "id": 10014982,
+         "type": "hlgt",
+         "value": "Epidermal and dermal conditions"
+      }],
+      "id": 10040785,
+      "type": "soc",
+      "value": "Skin and subcutaneous tissue disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10069199,
+                     "type": "llt",
+                     "value": "Dent's disease"
+                  }],
+                  "id": 10069199,
+                  "type": "pt",
+                  "value": "Dent's disease"
+               }],
+               "id": 10038361,
+               "type": "hlt",
+               "value": "Renal and urinary tract disorders congenital NEC"
+            }],
+            "id": 10038360,
+            "type": "hlgt",
+            "value": "Renal and urinary tract disorders congenital"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10012320,
+                     "type": "llt",
+                     "value": "Dental development impaired"
+                  }],
+                  "id": 10044041,
+                  "type": "pt",
+                  "value": "Tooth hypoplasia"
+               }],
+               "id": 10044036,
+               "type": "hlt",
+               "value": "Dental disorders congenital"
+            }],
+            "id": 10018018,
+            "type": "hlgt",
+            "value": "Gastrointestinal tract disorders congenital"
+         }
+      ],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10012315,
+                           "type": "llt",
+                           "value": "Dental alveolar anomalies"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10012316,
+                           "type": "llt",
+                           "value": "Dental alveolar anomaly"
+                        }
+                     ],
+                     "id": 10012316,
+                     "type": "pt",
+                     "value": "Dental alveolar anomaly"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10059931,
+                        "type": "llt",
+                        "value": "Dental calculus"
+                     }],
+                     "id": 10044029,
+                     "type": "pt",
+                     "value": "Tooth deposit"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10075995,
+                        "type": "llt",
+                        "value": "Dental cyst"
+                     }],
+                     "id": 10075995,
+                     "type": "pt",
+                     "value": "Dental cyst"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10012322,
+                        "type": "llt",
+                        "value": "Dental disorder NOS"
+                     }],
+                     "id": 10044034,
+                     "type": "pt",
+                     "value": "Tooth disorder"
+                  }
+               ],
+               "id": 10044037,
+               "type": "hlt",
+               "value": "Dental disorders NEC"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10012318,
+                        "type": "llt",
+                        "value": "Dental caries"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10012319,
+                        "type": "llt",
+                        "value": "Dental caries aggravated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048298,
+                        "type": "llt",
+                        "value": "Dental cavity"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048297,
+                        "type": "llt",
+                        "value": "Dental decay"
+                     }
+                  ],
+                  "id": 10012318,
+                  "type": "pt",
+                  "value": "Dental caries"
+               }],
+               "id": 10012325,
+               "type": "hlt",
+               "value": "Dental and periodontal infections and inflammations"
+            },
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10054217,
+                        "type": "llt",
+                        "value": "Dental discomfort"
+                     }],
+                     "id": 10054217,
+                     "type": "pt",
+                     "value": "Dental discomfort"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10078275,
+                           "type": "llt",
+                           "value": "Dental dysaesthesia"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10078277,
+                           "type": "llt",
+                           "value": "Dental dysesthesia"
+                        }
+                     ],
+                     "id": 10078275,
+                     "type": "pt",
+                     "value": "Dental dysaesthesia"
+                  }
+               ],
+               "id": 10044049,
+               "type": "hlt",
+               "value": "Dental pain and sensation disorders"
+            }
+         ],
+         "id": 10044018,
+         "type": "hlgt",
+         "value": "Dental and gingival conditions"
+      }],
+      "id": 10017947,
+      "type": "soc",
+      "value": "Gastrointestinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10067090,
+                  "type": "llt",
+                  "value": "Dental braces complication"
+               }],
+               "id": 10077107,
+               "type": "pt",
+               "value": "Complication associated with device"
+            }],
+            "id": 10069785,
+            "type": "hlt",
+            "value": "Complications associated with device NEC"
+         }],
+         "id": 10069781,
+         "type": "hlgt",
+         "value": "Complications associated with device"
+      }],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10056723,
+                        "type": "llt",
+                        "value": "Dental care"
+                     }],
+                     "id": 10056723,
+                     "type": "pt",
+                     "value": "Dental care"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10051047,
+                        "type": "llt",
+                        "value": "Dental cleaning"
+                     }],
+                     "id": 10051047,
+                     "type": "pt",
+                     "value": "Dental cleaning"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10064947,
+                        "type": "llt",
+                        "value": "Dental cosmetic procedure"
+                     }],
+                     "id": 10064947,
+                     "type": "pt",
+                     "value": "Dental cosmetic procedure"
+                  }
+               ],
+               "id": 10012317,
+               "type": "hlt",
+               "value": "Dental and gingival therapeutic procedures"
+            }],
+            "id": 10019190,
+            "type": "hlgt",
+            "value": "Head and neck therapeutic procedures"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10052941,
+                     "type": "llt",
+                     "value": "Dental disorder prophylaxis"
+                  }],
+                  "id": 10052941,
+                  "type": "pt",
+                  "value": "Dental disorder prophylaxis"
+               }],
+               "id": 10036896,
+               "type": "hlt",
+               "value": "Prophylactic procedures NEC"
+            }],
+            "id": 10043413,
+            "type": "hlgt",
+            "value": "Therapeutic procedures and supportive care NEC"
+         }
+      ],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   }
+]

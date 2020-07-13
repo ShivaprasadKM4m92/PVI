@@ -1,0 +1,11 @@
+[t180]
+FileName1=t180_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=Hypo&_=1594639576777
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_180.xml
+RequestHeaderFile=t180_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t180_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

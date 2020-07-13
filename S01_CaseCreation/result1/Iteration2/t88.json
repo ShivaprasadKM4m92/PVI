@@ -1,0 +1,487 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10068961,
+                        "type": "llt",
+                        "value": "Hypo HDL cholesterolaemia"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10068962,
+                        "type": "llt",
+                        "value": "Hypo HDL cholesterolemia"
+                     }
+                  ],
+                  "id": 10068961,
+                  "type": "pt",
+                  "value": "Hypo HDL cholesterolaemia"
+               }],
+               "id": 10024581,
+               "type": "hlt",
+               "value": "Lipid metabolism and deposit disorders NEC"
+            }],
+            "id": 10013317,
+            "type": "hlgt",
+            "value": "Lipid metabolism disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020942,
+                        "type": "llt",
+                        "value": "Hypoalbuminaemia"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10020943,
+                        "type": "llt",
+                        "value": "Hypoalbuminemia"
+                     }
+                  ],
+                  "id": 10020942,
+                  "type": "pt",
+                  "value": "Hypoalbuminaemia"
+               }],
+               "id": 10037009,
+               "type": "hlt",
+               "value": "Protein metabolism disorders NEC"
+            }],
+            "id": 10037008,
+            "type": "hlgt",
+            "value": "Protein and amino acid metabolism disorders NEC"
+         }
+      ],
+      "id": 10027433,
+      "type": "soc",
+      "value": "Metabolism and nutrition disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10073896,
+                     "type": "llt",
+                     "value": "Hypo-oestrogenaemia"
+                  }],
+                  "id": 10030247,
+                  "type": "pt",
+                  "value": "Oestrogen deficiency"
+               }],
+               "id": 10014691,
+               "type": "hlt",
+               "value": "Endocrine abnormalities of gonadal function NEC"
+            }],
+            "id": 10014701,
+            "type": "hlgt",
+            "value": "Endocrine disorders of gonadal function"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020936,
+                        "type": "llt",
+                        "value": "Hypoadrenalism"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10056485,
+                        "type": "llt",
+                        "value": "Hypoadrenocorticism"
+                     }
+                  ],
+                  "id": 10001367,
+                  "type": "pt",
+                  "value": "Adrenal insufficiency"
+               }],
+               "id": 10001343,
+               "type": "hlt",
+               "value": "Adrenal cortical hypofunctions"
+            }],
+            "id": 10001353,
+            "type": "hlgt",
+            "value": "Adrenal gland disorders"
+         }
+      ],
+      "id": 10014698,
+      "type": "soc",
+      "value": "Endocrine disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10020930,
+                     "type": "llt",
+                     "value": "Hypoactive"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10020934,
+                     "type": "llt",
+                     "value": "Hypoactivity"
+                  }
+               ],
+               "id": 10011953,
+               "type": "pt",
+               "value": "Decreased activity"
+            }],
+            "id": 10003550,
+            "type": "hlt",
+            "value": "Asthenic conditions"
+         }],
+         "id": 10018073,
+         "type": "hlgt",
+         "value": "General system disorders NEC"
+      }],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10058971,
+                  "type": "llt",
+                  "value": "Hypoactive bladder"
+               }],
+               "id": 10058914,
+               "type": "pt",
+               "value": "Hypotonic urinary bladder"
+            }],
+            "id": 10028639,
+            "type": "hlt",
+            "value": "Myoneurogenic bladder disorders"
+         }],
+         "id": 10004994,
+         "type": "hlgt",
+         "value": "Bladder and bladder neck disorders (excl calculi)"
+      }],
+      "id": 10038359,
+      "type": "soc",
+      "value": "Renal and urinary disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071313,
+                     "type": "llt",
+                     "value": "Hypoactive delirium"
+                  }],
+                  "id": 10012218,
+                  "type": "pt",
+                  "value": "Delirium"
+               }],
+               "id": 10012219,
+               "type": "hlt",
+               "value": "Deliria"
+            }],
+            "id": 10012221,
+            "type": "hlgt",
+            "value": "Deliria (incl confusion)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10020933,
+                     "type": "llt",
+                     "value": "Hypoactive sexual desire disorder"
+                  }],
+                  "id": 10024419,
+                  "type": "pt",
+                  "value": "Libido decreased"
+               }],
+               "id": 10040470,
+               "type": "hlt",
+               "value": "Sexual desire disorders"
+            }],
+            "id": 10040480,
+            "type": "hlgt",
+            "value": "Sexual dysfunctions, disturbances and gender identity disorders"
+         }
+      ],
+      "id": 10037175,
+      "type": "soc",
+      "value": "Psychiatric disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020931,
+                        "type": "llt",
+                        "value": "Hypoactive labyrinth, bilateral"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10020932,
+                        "type": "llt",
+                        "value": "Hypoactive labyrinth, unilateral"
+                     }
+                  ],
+                  "id": 10061524,
+                  "type": "pt",
+                  "value": "Inner ear disorder"
+               }],
+               "id": 10023566,
+               "type": "hlt",
+               "value": "Inner ear disorders NEC"
+            }],
+            "id": 10022396,
+            "type": "hlgt",
+            "value": "Inner ear and VIIIth cranial nerve disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020935,
+                        "type": "llt",
+                        "value": "Hypoacuity auditory"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048865,
+                        "type": "llt",
+                        "value": "Hypoacusis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048876,
+                        "type": "llt",
+                        "value": "Hypoacusis unilateral"
+                     }
+                  ],
+                  "id": 10048865,
+                  "type": "pt",
+                  "value": "Hypoacusis"
+               }],
+               "id": 10011879,
+               "type": "hlt",
+               "value": "Hearing losses"
+            }],
+            "id": 10019243,
+            "type": "hlgt",
+            "value": "Hearing disorders"
+         }
+      ],
+      "id": 10013993,
+      "type": "soc",
+      "value": "Ear and labyrinth disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10020937,
+                     "type": "llt",
+                     "value": "Hypoaesthesia"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10065312,
+                     "type": "llt",
+                     "value": "Hypoaesthesia facial"
+                  }
+               ],
+               "id": 10020937,
+               "type": "pt",
+               "value": "Hypoaesthesia"
+            }],
+            "id": 10033788,
+            "type": "hlt",
+            "value": "Paraesthesias and dysaesthesias"
+         }],
+         "id": 10029305,
+         "type": "hlgt",
+         "value": "Neurological disorders NEC"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10020938,
+                     "type": "llt",
+                     "value": "Hypoaesthesia cornea"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10020939,
+                     "type": "llt",
+                     "value": "Hypoaesthesia eye"
+                  }
+               ],
+               "id": 10020939,
+               "type": "pt",
+               "value": "Hypoaesthesia eye"
+            }],
+            "id": 10030063,
+            "type": "hlt",
+            "value": "Ocular sensation disorders"
+         }],
+         "id": 10030064,
+         "type": "hlgt",
+         "value": "Ocular sensory symptoms NEC"
+      }],
+      "id": 10015919,
+      "type": "soc",
+      "value": "Eye disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10049302,
+                        "type": "llt",
+                        "value": "Hypoaesthesia gingival"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10049386,
+                        "type": "llt",
+                        "value": "Hypoaesthesia gum"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10049295,
+                        "type": "llt",
+                        "value": "Hypoaesthesia lips"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10057371,
+                        "type": "llt",
+                        "value": "Hypoaesthesia oral"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10020940,
+                        "type": "llt",
+                        "value": "Hypoaesthesia oral NOS"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10020941,
+                        "type": "llt",
+                        "value": "Hypoaesthesia tongue"
+                     }
+                  ],
+                  "id": 10057371,
+                  "type": "pt",
+                  "value": "Hypoaesthesia oral"
+               }],
+               "id": 10031021,
+               "type": "hlt",
+               "value": "Oral soft tissue signs and symptoms"
+            }],
+            "id": 10031013,
+            "type": "hlgt",
+            "value": "Oral soft tissue conditions"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10051780,
+                     "type": "llt",
+                     "value": "Hypoaesthesia teeth"
+                  }],
+                  "id": 10051780,
+                  "type": "pt",
+                  "value": "Hypoaesthesia teeth"
+               }],
+               "id": 10044049,
+               "type": "hlt",
+               "value": "Dental pain and sensation disorders"
+            }],
+            "id": 10044018,
+            "type": "hlgt",
+            "value": "Dental and gingival conditions"
+         }
+      ],
+      "id": 10017947,
+      "type": "soc",
+      "value": "Gastrointestinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10065975,
+                     "type": "llt",
+                     "value": "Hypoaesthesia of genital male"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10065978,
+                     "type": "llt",
+                     "value": "Hypoaesthesia of penis"
+                  }
+               ],
+               "id": 10068912,
+               "type": "pt",
+               "value": "Genital hypoaesthesia"
+            }],
+            "id": 10027696,
+            "type": "hlt",
+            "value": "Reproductive tract disorders NEC (excl neoplasms)"
+         }],
+         "id": 10038612,
+         "type": "hlgt",
+         "value": "Reproductive tract disorders NEC"
+      }],
+      "id": 10038604,
+      "type": "soc",
+      "value": "Reproductive system and breast disorders"
+   }
+]

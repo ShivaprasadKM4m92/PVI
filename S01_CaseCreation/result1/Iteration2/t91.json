@@ -1,0 +1,392 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10057998,
+                  "type": "llt",
+                  "value": "Policeman's foot"
+               }],
+               "id": 10035155,
+               "type": "pt",
+               "value": "Plantar fasciitis"
+            }],
+            "id": 10052776,
+            "type": "hlt",
+            "value": "Musculoskeletal and connective tissue infections and inflammations NEC"
+         }],
+         "id": 10028393,
+         "type": "hlgt",
+         "value": "Musculoskeletal and connective tissue disorders NEC"
+      }],
+      "id": 10028395,
+      "type": "soc",
+      "value": "Musculoskeletal and connective tissue disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10036008,
+                        "type": "llt",
+                        "value": "Polio"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10036009,
+                        "type": "llt",
+                        "value": "Polio acute"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10036010,
+                        "type": "llt",
+                        "value": "Polio-like paralysis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10036012,
+                        "type": "llt",
+                        "value": "Poliomyelitis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10036013,
+                        "type": "llt",
+                        "value": "Poliomyelitis (acute)"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10036016,
+                        "type": "llt",
+                        "value": "Poliomyelitis NOS"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10036014,
+                        "type": "llt",
+                        "value": "Poliomyelitis acute"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10000675,
+                        "type": "llt",
+                        "value": "Acute anterior poliomyelitis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10057690,
+                        "type": "llt",
+                        "value": "Acute non-paralytic poliomyelitis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10057691,
+                        "type": "llt",
+                        "value": "Acute non-paralytic poliomyelitis, poliovirus type I"
+                     }
+                  ],
+                  "id": 10036012,
+                  "type": "pt",
+                  "value": "Poliomyelitis"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10036011,
+                     "type": "llt",
+                     "value": "Polioencephalitis"
+                  }],
+                  "id": 10036011,
+                  "type": "pt",
+                  "value": "Polioencephalitis"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10057226,
+                        "type": "llt",
+                        "value": "Poliomyelitis post vaccine"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048416,
+                        "type": "llt",
+                        "value": "Poliomyelitis post-vaccine"
+                     }
+                  ],
+                  "id": 10076716,
+                  "type": "pt",
+                  "value": "Vaccine associated paralytic poliomyelitis"
+               }
+            ],
+            "id": 10036017,
+            "type": "hlt",
+            "value": "Poliomyelitis viral infections"
+         }],
+         "id": 10047438,
+         "type": "hlgt",
+         "value": "Viral infectious disorders"
+      }],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10054175,
+                        "type": "llt",
+                        "value": "Polio immunisation"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10054187,
+                        "type": "llt",
+                        "value": "Polio immunization"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10053341,
+                        "type": "llt",
+                        "value": "Polio prophylaxis"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10053386,
+                        "type": "llt",
+                        "value": "Poliomyelitis vaccine"
+                     }
+                  ],
+                  "id": 10054175,
+                  "type": "pt",
+                  "value": "Polio immunisation"
+               }],
+               "id": 10021431,
+               "type": "hlt",
+               "value": "Immunisations"
+            }],
+            "id": 10043413,
+            "type": "hlgt",
+            "value": "Therapeutic procedures and supportive care NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10059365,
+                     "type": "llt",
+                     "value": "Politano-Leadbetter procedure"
+                  }],
+                  "id": 10052686,
+                  "type": "pt",
+                  "value": "Ureteroneocystostomy"
+               }],
+               "id": 10046407,
+               "type": "hlt",
+               "value": "Ureteric therapeutic procedures"
+            }],
+            "id": 10038365,
+            "type": "hlgt",
+            "value": "Renal and urinary tract therapeutic procedures"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10053290,
+                        "type": "llt",
+                        "value": "Politzerisation"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10053374,
+                        "type": "llt",
+                        "value": "Politzerization"
+                     }
+                  ],
+                  "id": 10053290,
+                  "type": "pt",
+                  "value": "Politzerisation"
+               }],
+               "id": 10027588,
+               "type": "hlt",
+               "value": "Middle ear therapeutic procedures"
+            }],
+            "id": 10019190,
+            "type": "hlgt",
+            "value": "Head and neck therapeutic procedures"
+         }
+      ],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10062949,
+                  "type": "llt",
+                  "value": "Poliodystrophia cerebri"
+               }],
+               "id": 10062943,
+               "type": "pt",
+               "value": "Alpers' disease"
+            }],
+            "id": 10052637,
+            "type": "hlt",
+            "value": "Genetic mitochondrial abnormalities NEC"
+         }],
+         "id": 10052635,
+         "type": "hlgt",
+         "value": "Cytoplasmic disorders congenital"
+      }],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10036015,
+                  "type": "llt",
+                  "value": "Poliomyelitis late effects of"
+               }],
+               "id": 10036239,
+               "type": "pt",
+               "value": "Post polio syndrome"
+            }],
+            "id": 10028525,
+            "type": "hlt",
+            "value": "Myelitis (incl infective)"
+         }],
+         "id": 10007951,
+         "type": "hlgt",
+         "value": "Central nervous system infections and inflammations"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10065628,
+                  "type": "llt",
+                  "value": "Poliosis"
+               }],
+               "id": 10049865,
+               "type": "pt",
+               "value": "Achromotrichia acquired"
+            }],
+            "id": 10035035,
+            "type": "hlt",
+            "value": "Pilar disorders NEC"
+         }],
+         "id": 10040798,
+         "type": "hlgt",
+         "value": "Skin appendage conditions"
+      }],
+      "id": 10040785,
+      "type": "soc",
+      "value": "Skin and subcutaneous tissue disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10060193,
+                        "type": "llt",
+                        "value": "Poliovirus serology"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10070368,
+                        "type": "llt",
+                        "value": "Poliovirus test"
+                     }
+                  ],
+                  "id": 10070368,
+                  "type": "pt",
+                  "value": "Poliovirus test"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10060223,
+                        "type": "llt",
+                        "value": "Poliovirus serology negative"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10070367,
+                        "type": "llt",
+                        "value": "Poliovirus test negative"
+                     }
+                  ],
+                  "id": 10070367,
+                  "type": "pt",
+                  "value": "Poliovirus test negative"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10060222,
+                        "type": "llt",
+                        "value": "Poliovirus serology positive"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10070341,
+                        "type": "llt",
+                        "value": "Poliovirus test positive"
+                     }
+                  ],
+                  "id": 10070341,
+                  "type": "pt",
+                  "value": "Poliovirus test positive"
+               }
+            ],
+            "id": 10047490,
+            "type": "hlt",
+            "value": "Virus identification and serology"
+         }],
+         "id": 10027529,
+         "type": "hlgt",
+         "value": "Microbiology and serology investigations"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   }
+]

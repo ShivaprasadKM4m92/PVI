@@ -1,0 +1,14 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+X-Application-Context: application:production:8083
+x-auth-token: 06a2c7d4-8bf0-4e6a-97da-cd8035938332
+Set-Cookie: SESSION=06a2c7d4-8bf0-4e6a-97da-cd8035938332; Path=/; HttpOnly
+vary: accept-encoding
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Mon, 13 Jul 2020 13:12:19 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+

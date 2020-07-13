@@ -1,0 +1,26 @@
+<div class="modal fade pv-browser" name="{{browserName}}" id="{{browserName}}" tabindex="-1" role="dialog" aria-hidden="true"
+     parent-container="{{parentContainer}}" pvb-type="study">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="label">
+                </h4>
+            </div>
+
+            <div class="modal-body">
+                {{>study_template}}
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default clearValues waves-effect">
+                    Clear
+                </button>
+                <button type="button" class="btn btn-default waves-light waves-effect addAll" data-dismiss="modal">
+                    Set Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

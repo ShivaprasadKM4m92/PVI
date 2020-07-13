@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Wed, 24 Jun 2020 08:04:08 GMT
+ETag: "OpenSans-Regular-cffb686d7d2f4682df8342bd4d276e09.woff2"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: font/woff2;charset=UTF-8
+Content-Length: 14071
+Date: Mon, 13 Jul 2020 11:25:13 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+

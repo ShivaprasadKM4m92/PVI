@@ -1,0 +1,11 @@
+[t140]
+FileName1=t140_searchData.json
+URL1=http://10.100.22.228:8081/PVBRest/searchData?browserType=product&search_field=licenses.value&search_value=Rx+&_=1594639576731
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_140.xml
+RequestHeaderFile=t140_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t140_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

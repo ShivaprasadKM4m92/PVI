@@ -1,0 +1,11 @@
+[t130]
+FileName1=t130_referenceData.json
+URL1=http://10.100.22.228:8081/followUpQueryFrontEnd/referenceData?_=1594639576727
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_130.xml
+RequestHeaderFile=t130_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t130_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

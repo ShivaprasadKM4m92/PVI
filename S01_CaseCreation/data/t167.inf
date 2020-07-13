@@ -1,0 +1,11 @@
+[t167]
+FileName1=t167_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=adb+&_=1594639576756
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_167.xml
+RequestHeaderFile=t167_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t167_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,9 @@
+POST /domainreliability/upload HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 353
+Content-Type: application/json; charset=utf-8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

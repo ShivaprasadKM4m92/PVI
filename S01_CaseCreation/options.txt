@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Project\PVI\Scripts\S01_CaseCreation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\project\pvi\scripts\s01_casecreation\\logfile.log
+c:\project\pvi\scripts\s01_casecreation\\combined_S01_CaseCreation.c
+c:\project\pvi\scripts\s01_casecreation\\pre_cci.c

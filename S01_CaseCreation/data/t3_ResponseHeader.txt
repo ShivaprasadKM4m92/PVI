@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: https://www.google.com
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Mon, 13 Jul 2020 11:24:34 GMT
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: script-src 'report-sample' 'nonce-X1EiiwoTWV0LZULmOIx4BA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityListAccountsHttp/cspreport;worker-src 'self'
+Content-Security-Policy: script-src 'nonce-X1EiiwoTWV0LZULmOIx4BA' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/IdentityListAccountsHttp/cspreport
+Content-Encoding: gzip
+Server: ESF
+X-XSS-Protection: 0
+Set-Cookie: SIDCC=AJi4QfE_tmTj_Rify4NE1tn1CfWoy_C-D9vRlvGLMOalevzPJc-HgB7QyfyT6umlLLoipsi6bw; expires=Tue, 13-Jul-2021 11:24:34 GMT; path=/; domain=.google.com; priority=high
+Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Transfer-Encoding: chunked
+

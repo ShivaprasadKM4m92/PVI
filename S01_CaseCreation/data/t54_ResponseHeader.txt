@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:56:56 GMT
+ETag: "application-13a1ddae267b7b6a32d12cfb1ac98e43.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 98624
+Date: Mon, 13 Jul 2020 11:25:48 GMT
+

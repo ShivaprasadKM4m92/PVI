@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:56:54 GMT
+ETag: "app/dashboard/dashboard-manifest-b8c4a5998dad68d4595e4d0aa8d50016.css"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: text/css;charset=UTF-8
+Content-Length: 7055
+Date: Mon, 13 Jul 2020 11:25:48 GMT
+

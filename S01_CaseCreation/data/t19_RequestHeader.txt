@@ -1,0 +1,10 @@
+GET /assets/common/jquery.core-2521768e514d3a431ddca828a1bebd3c.js HTTP/1.1
+Host: 10.100.22.68:8083
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: */*
+Referer: http://10.100.22.68:8083/external
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: SESSION=693060b8-e9e0-43f2-941d-16b95256fcfa
+

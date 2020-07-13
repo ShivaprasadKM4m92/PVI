@@ -1,0 +1,9 @@
+[t66]
+SnapshotXmlFile=snapshot_66.xml
+FileName1=t66.jpg
+URL1=http://10.100.22.228:8081/assets/pv-btn-bg3-1e05f4eeb9f3efb885b2c05a0bea4ab4.jpg
+Total=1
+RequestHeaderFile=t66_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t66_ResponseHeader.txt
+ContentType=image/jpeg

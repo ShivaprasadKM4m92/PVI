@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:58:10 GMT
+ETag: "materialdesignicons-webfont-af3f6dbe172a9c1aba77366a2ff630d1.woff2"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: font/woff2;charset=UTF-8
+Content-Length: 187196
+Date: Mon, 13 Jul 2020 11:25:53 GMT
+

@@ -1,0 +1,11 @@
+[t123]
+FileName1=t123_study_template.html
+URL1=http://10.100.22.228:8081/assets/pv/comp/templates/study_template.hbs
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_123.xml
+RequestHeaderFile=t123_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t123_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

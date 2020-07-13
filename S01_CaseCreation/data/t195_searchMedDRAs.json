@@ -1,0 +1,451 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10043291,
+                     "type": "llt",
+                     "value": "Test thymol turbidity"
+                  }],
+                  "id": 10043667,
+                  "type": "pt",
+                  "value": "Thymol turbidity test"
+               }],
+               "id": 10036998,
+               "type": "hlt",
+               "value": "Protein analyses NEC"
+            }],
+            "id": 10037000,
+            "type": "hlgt",
+            "value": "Protein and chemistry analyses NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10043292,
+                           "type": "llt",
+                           "value": "Testes biopsy"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10043299,
+                           "type": "llt",
+                           "value": "Testicular biopsy"
+                        }
+                     ],
+                     "id": 10004882,
+                     "type": "pt",
+                     "value": "Biopsy testes"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043300,
+                        "type": "llt",
+                        "value": "Testicular biopsy abnormal"
+                     }],
+                     "id": 10004883,
+                     "type": "pt",
+                     "value": "Biopsy testes abnormal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043301,
+                        "type": "llt",
+                        "value": "Testicular biopsy normal"
+                     }],
+                     "id": 10004884,
+                     "type": "pt",
+                     "value": "Biopsy testes normal"
+                  }
+               ],
+               "id": 10038601,
+               "type": "hlt",
+               "value": "Reproductive organ and breast histopathology procedures"
+            }],
+            "id": 10038592,
+            "type": "hlgt",
+            "value": "Reproductive organ and breast investigations (excl hormone analyses)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10050590,
+                     "type": "llt",
+                     "value": "Testicle absent"
+                  }],
+                  "id": 10070934,
+                  "type": "pt",
+                  "value": "Male genital examination abnormal"
+               }],
+               "id": 10071941,
+               "type": "hlt",
+               "value": "Physical examination procedures and organ system status"
+            }],
+            "id": 10071940,
+            "type": "hlgt",
+            "value": "Physical examination and organ system status topics"
+         }
+      ],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10043293,
+                  "type": "llt",
+                  "value": "Testes exploration"
+               }],
+               "id": 10043293,
+               "type": "pt",
+               "value": "Testes exploration"
+            }],
+            "id": 10043297,
+            "type": "hlt",
+            "value": "Testicular and scrotal therapeutic procedures"
+         }],
+         "id": 10025506,
+         "type": "hlgt",
+         "value": "Male genital tract therapeutic procedures"
+      }],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10051637,
+                     "type": "llt",
+                     "value": "Testicle adenoma"
+                  }],
+                  "id": 10051637,
+                  "type": "pt",
+                  "value": "Testicle adenoma"
+               }],
+               "id": 10038598,
+               "type": "hlt",
+               "value": "Reproductive neoplasms male benign NEC"
+            }],
+            "id": 10038593,
+            "type": "hlgt",
+            "value": "Reproductive neoplasms male benign"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10078206,
+                           "type": "llt",
+                           "value": "Testicular adenocarcinoma"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10043302,
+                           "type": "llt",
+                           "value": "Testicular cancer"
+                        }
+                     ],
+                     "id": 10057644,
+                     "type": "pt",
+                     "value": "Testis cancer"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10055103,
+                        "type": "llt",
+                        "value": "Testicular cancer metastatic"
+                     }],
+                     "id": 10055103,
+                     "type": "pt",
+                     "value": "Testicular cancer metastatic"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10062122,
+                           "type": "llt",
+                           "value": "Testicular choriocarcinoma"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10051876,
+                           "type": "llt",
+                           "value": "Testicular choriocarcinoma NOS"
+                        }
+                     ],
+                     "id": 10062122,
+                     "type": "pt",
+                     "value": "Testicular choriocarcinoma"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10069812,
+                        "type": "llt",
+                        "value": "Testicular choriocarcinoma recurrent"
+                     }],
+                     "id": 10069812,
+                     "type": "pt",
+                     "value": "Testicular choriocarcinoma recurrent"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043303,
+                        "type": "llt",
+                        "value": "Testicular choriocarcinoma stage I"
+                     }],
+                     "id": 10043303,
+                     "type": "pt",
+                     "value": "Testicular choriocarcinoma stage I"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043304,
+                        "type": "llt",
+                        "value": "Testicular choriocarcinoma stage II"
+                     }],
+                     "id": 10043304,
+                     "type": "pt",
+                     "value": "Testicular choriocarcinoma stage II"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043305,
+                        "type": "llt",
+                        "value": "Testicular choriocarcinoma stage III"
+                     }],
+                     "id": 10043305,
+                     "type": "pt",
+                     "value": "Testicular choriocarcinoma stage III"
+                  }
+               ],
+               "id": 10043322,
+               "type": "hlt",
+               "value": "Testicular neoplasms malignant"
+            }],
+            "id": 10038597,
+            "type": "hlgt",
+            "value": "Reproductive neoplasms male malignant and unspecified"
+         }
+      ],
+      "id": 10029104,
+      "type": "soc",
+      "value": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10043294,
+                        "type": "llt",
+                        "value": "Testicle maldescended"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10043295,
+                        "type": "llt",
+                        "value": "Testicle undescended"
+                     }
+                  ],
+                  "id": 10011498,
+                  "type": "pt",
+                  "value": "Cryptorchism"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10059271,
+                     "type": "llt",
+                     "value": "Testicular dysplasia"
+                  }],
+                  "id": 10059271,
+                  "type": "pt",
+                  "value": "Testicular dysplasia"
+               }
+            ],
+            "id": 10025517,
+            "type": "hlt",
+            "value": "Male reproductive tract disorders congenital"
+         }],
+         "id": 10038608,
+         "type": "hlgt",
+         "value": "Reproductive tract and breast disorders congenital"
+      }],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10064724,
+                  "type": "llt",
+                  "value": "Testicular abscess"
+               }],
+               "id": 10064724,
+               "type": "pt",
+               "value": "Testicular abscess"
+            }],
+            "id": 10038587,
+            "type": "hlt",
+            "value": "Male reproductive tract infections"
+         }],
+         "id": 10021879,
+         "type": "hlgt",
+         "value": "Infections - pathogen unspecified"
+      }],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10050476,
+                        "type": "llt",
+                        "value": "Testicular appendage torsion"
+                     }],
+                     "id": 10050476,
+                     "type": "pt",
+                     "value": "Testicular appendage torsion"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043298,
+                        "type": "llt",
+                        "value": "Testicular atrophy"
+                     }],
+                     "id": 10043298,
+                     "type": "pt",
+                     "value": "Testicular atrophy"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10071574,
+                        "type": "llt",
+                        "value": "Testicular autoimmunity"
+                     }],
+                     "id": 10071574,
+                     "type": "pt",
+                     "value": "Testicular autoimmunity"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10071895,
+                        "type": "llt",
+                        "value": "Testicular bleeding"
+                     }],
+                     "id": 10051877,
+                     "type": "pt",
+                     "value": "Testicular haemorrhage"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10043306,
+                           "type": "llt",
+                           "value": "Testicular disorder"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10043307,
+                           "type": "llt",
+                           "value": "Testicular disorder NOS"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10043308,
+                           "type": "llt",
+                           "value": "Testicular dysfunction"
+                        }
+                     ],
+                     "id": 10043306,
+                     "type": "pt",
+                     "value": "Testicular disorder"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10066776,
+                        "type": "llt",
+                        "value": "Testicular edema"
+                     }],
+                     "id": 10066769,
+                     "type": "pt",
+                     "value": "Testicular oedema"
+                  }
+               ],
+               "id": 10043296,
+               "type": "hlt",
+               "value": "Testicular and epididymal disorders NEC"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10048872,
+                     "type": "llt",
+                     "value": "Testicular cyst"
+                  }],
+                  "id": 10048872,
+                  "type": "pt",
+                  "value": "Testicular cyst"
+               }],
+               "id": 10029108,
+               "type": "hlt",
+               "value": "Testicular and epididymal neoplasms"
+            }
+         ],
+         "id": 10013362,
+         "type": "hlgt",
+         "value": "Testicular and epididymal disorders"
+      }],
+      "id": 10038604,
+      "type": "soc",
+      "value": "Reproductive system and breast disorders"
+   }
+]

@@ -1,0 +1,11 @@
+[t69]
+FileName1=t69_en-US.json
+URL1=http://10.100.22.228:8081/assets/vendor/documentViewerJson/en-US.json?_=1594639551163
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_69.xml
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

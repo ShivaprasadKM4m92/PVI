@@ -1,0 +1,30 @@
+<div class="modal fade pv-browser" name="{{browserName}}" pvb-type="product" tabindex="-1" role="dialog" aria-labelledby="productDictionaryLabel"
+     aria-hidden="true" parent-container="{{parentContainer}}">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="label">
+                    Product Dictionary
+                </h4>
+            </div>
+
+            <div class="modal-body">
+                {{>product_template}}
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default clearValues">
+                    Clear
+                </button>
+                <!--<button type="button" class="btn btn-primary addValues">-->
+                    <!--Add-->
+                <!--</button>-->
+                <button type="button" class="btn btn-default addAll" data-dismiss="modal">
+                    Set Value
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

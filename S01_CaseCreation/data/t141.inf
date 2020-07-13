@@ -1,0 +1,11 @@
+[t141]
+FileName1=t141_dns-query.html
+URL1=https://dns.google/dns-query?dns=FDUBAAABAAAAAAABCGFjY291bnRzBmdvb2dsZQNjb20AAAEAAQAAKRAAAAAAAABQAAwATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_141.xml
+RequestHeaderFile=t141_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t141_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

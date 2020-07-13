@@ -1,0 +1,11 @@
+[t17]
+FileName1=t17_notify.min-a1134657dba6e98914066f2530604e68.html
+URL1=http://10.100.22.68:8083/assets/vendorUi/notifyjs/dist/notify.min-a1134657dba6e98914066f2530604e68.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_17.xml
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t17_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

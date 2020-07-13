@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <title>
+        Welcome to PV Admin
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <link rel="stylesheet" href="/assets/application-3d87bac6ca7e570033e3b49e320180b2.css"/>
+    <script type="text/javascript" src="/assets/vendorUi/jquery/jquery-2.2.4-f3b292379cbb03d9a68dc04fb0ac6bf5.js" ></script>
+    <link rel="icon" type="image/x-ico" href="/assets/component-7e4e6d0eff0f6554be4787189cf260fb.jpg"/>
+    
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Welcome to PV Admin</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon-c915103363017d14cea9c2a46ea12166.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-retina-21d524e96ee946f16c9b8fb4ea0c3f6e.png">
+
+    
+
+
+
+
+
+
+<script>
+    userLocale = "en";
+    userTimeZone = "Etc/GMT+12";
+</script>
+    
+    <meta name="layout" content="main"/>
+    
+
+
+    <meta name="_csrf" content="6aa99297-2127-49eb-b563-ffc13f97f5a3"/>
+    <meta name="_csrf_header" content="X-CSRF-TOKEN"/>
+    <meta name="_csrf_parameter" content="_csrf"/>
+
+</head>
+
+<body>
+<script type="text/javascript" src="/assets/UIConstants-e05f20031f3c986ffd86b552402112e0.js" ></script>
+<script type="text/javascript" src="/assets/common/change-theme-d6b58272d1305acd108c19d477017de0.js" ></script>
+<script>
+    
+    var loggedInUserType = 'NON_LDAP';
+    var authType = 'Database';
+    var ssoLogoutUrl = "http://rxlogix.com";
+
+    
+</script>
+
+<div id="wrapper" class="forced enlarged">
+    <!-- Top Bar Start -->
+    <div class="topbar">
+    <div class="navbar navbar-default" role="navigation">
+        <div class="pull-left">
+            <button class="button-menu-mobile open-left waves-effect">
+                <i class="md md-menu"></i>
+            </button>
+            <span class="clearfix"></span>
+        </div>
+
+        <div class="container">
+            <ul class="nav navbar-nav hidden-xs">
+                
+                
+                
+                <li><a href="#" class="waves-effect"><div class="text-left"><a href="/" class="Logo"><img src="/assets/PVAdmin-633ec218549f1fae0ce7d659fa347d7a.png" class="pvLogo" alt="PV-Logo"/></a></div></a></li>
+                
+                        <li> 
+                            <a href="http://10.100.22.228:8081" class="waves-effect">PVIntake</a>
+                        </li>
+                    
+            </ul>
+            <ul class="nav navbar-nav navbar-right pull-right">
+                <li class="m-t-20">
+                
+                    
+                        <h5 class="text-white">shiva (shiva)</h5>
+                    
+                </li>
+                <li class="dropdown hidden-xs hidden">
+                    <a href="#" data-target="#" class="dropdown-toggle waves-effect waves-light"
+                       data-toggle="dropdown" aria-expanded="true">
+                        <i class="md md-notifications"></i> <span
+                            class="badge badge-xs badge-pink">3</span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-lg">
+                        <li class="text-center notifi-title">Notification</li>
+                        <li class="list-group nicescroll notification-list">
+
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class=" text-right">
+                                <small><b>See all notifications</b></small>
+                            </a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li class="dropdown hidden-xs">
+                    <a href="#" class="waves-effect waves-light" data-target="#"
+                       class="dropdown-toggle waves-effect waves-light"
+                       data-toggle="dropdown" aria-expanded="true">
+                        <i class="md md-settings"></i></a>
+                    <ul class="dropdown-menu">
+
+                        
+                        
+                            
+                        
+                        <li id="menuPreference">
+                            <a href= /preference><i class="md md-settings"></i>
+                                Preferences
+                            </a>
+                        </li>
+                        
+                            <li class="divider"></li>
+                            <li><a rel="noopener" href="/help" target="_blank">
+                                <i class="md md-help"></i>
+                                Help</a>
+                            </li>
+                        
+                        <li class="divider"></li>
+
+                        <li>
+                            <a href="/password/resetOwnPassword" id="MI-reset-password">
+                                <i class="md md-lock-reset"></i>
+                                Change Password
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href='/logout' class=''>
+                                <i class="md md-exit-to-app"></i>
+                                Logout
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    if ((true)) {
+        LOAD_THEME_URL = "/preference/loadTheme";
+    }
+    if ((true)) {
+        UPDATE_THEME_URL = "/preference/updateTheme"
+    }
+</script>
+
+
+    <!-- Top Bar End -->
+    <!-- ========== Left Sidebar Start ========== -->
+    <div class="left side-menu">
+    <div class="sidebar-inner slimscrollleft">
+        <div id="sidebar-menu">
+            <ul>
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="#" class="waves-effect waves-primary side-icon has-sub">
+                                    <i class="md md-security" aria-hidden="true"></i>
+                                    <span>Security</span>
+                                    
+                                        <span class="menu-arrow"></span>
+                                    
+                                </a>
+                                
+                                        <ul class="list-unstyled">
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/user/index" class="waves-effect waves-primary side-icon">
+                                                            <span>User Management</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/userGroup/index" class="waves-effect waves-primary side-icon">
+                                                            <span>User Group Management</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/role/index" class="waves-effect waves-primary side-icon">
+                                                            <span>Role Management</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/fieldProfile/index" class="waves-effect waves-primary side-icon">
+                                                            <span>Field Profile Management</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/locationProfile/index" class="waves-effect waves-primary side-icon">
+                                                            <span>Privacy Location Management</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/vendor/index" class="waves-effect waves-primary side-icon">
+                                                            <span>Case Processing Unit Management</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                        </ul>
+                                
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="#" class="waves-effect waves-primary side-icon has-sub">
+                                    <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                    <span>Logs</span>
+                                    
+                                        <span class="menu-arrow"></span>
+                                    
+                                </a>
+                                
+                                        <ul class="list-unstyled">
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/auditLogEvent/list" class="waves-effect waves-primary side-icon">
+                                                            <span>Audit Log</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                                
+                                                    <li>
+                                                        <a href="/errorLog/index" class="waves-effect waves-primary side-icon">
+                                                            <span>Error Log</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                            
+                                        </ul>
+                                
+                            </li>
+                        
+                    
+                
+                
+                    
+                        <li class="has_sub hidden">
+                            <a href="#" class="waves-effect waves-primary active side-icon">
+                                <i class="md md-apps" aria-hidden="true"></i>
+                                <span>Application</span>
+                                <span class="menu-arrow"></span>
+                            </a>
+                            <ul class="list-unstyled" style="width:203px;">
+                                
+                                    <li class="has_sub">
+                                        <a href="#" class="waves-effect waves-primary active side-icon">
+                                            <span>PVReports</span>
+                                            <span class="menu-arrow"></span>
+                                        </a>
+                                        <ul class="list-unstyled">
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Execution Status</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Field Profile Management</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Report Request Type</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Task Template</span>
+                                                    </a>
+                                                </li>
+                                            
+                                        </ul>
+                                    </li>
+                                
+                                    <li class="has_sub">
+                                        <a href="#" class="waves-effect waves-primary active side-icon">
+                                            <span>PVPublisher</span>
+                                            <span class="menu-arrow"></span>
+                                        </a>
+                                        <ul class="list-unstyled">
+                                            
+                                        </ul>
+                                    </li>
+                                
+                                    <li class="has_sub">
+                                        <a href="#" class="waves-effect waves-primary active side-icon">
+                                            <span>PVSignal</span>
+                                            <span class="menu-arrow"></span>
+                                        </a>
+                                        <ul class="list-unstyled">
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Action Configuration</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Action Stop List</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Action Type</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Business Configuration</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Disposition</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Safety Configuration</span>
+                                                    </a>
+                                                </li>
+                                            
+                                        </ul>
+                                    </li>
+                                
+                                    <li class="has_sub">
+                                        <a href="#" class="waves-effect waves-primary active side-icon">
+                                            <span>PVCentral</span>
+                                            <span class="menu-arrow"></span>
+                                        </a>
+                                        <ul class="list-unstyled">
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Compliance Setup</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Productivity Setup</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Due Cases Mail Alert</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Key Performance Indicator (KPI)</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Reporting Destination</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Service Level Agreement (SLA)</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Partner SLA</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Safety User Role</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Calendar</span>
+                                                    </a>
+                                                </li>
+                                            
+                                        </ul>
+                                    </li>
+                                
+                                    <li class="has_sub">
+                                        <a href="#" class="waves-effect waves-primary active side-icon">
+                                            <span>PVIntake</span>
+                                            <span class="menu-arrow"></span>
+                                        </a>
+                                        <ul class="list-unstyled">
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Add New Field</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>Change Field Label</span>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li>
+                                                    <a href="someUrl" class="waves-effect waves-primary side-icon">
+                                                        <span>E2B Configuration</span>
+                                                    </a>
+                                                </li>
+                                            
+                                        </ul>
+                                    </li>
+                                
+                            </ul>
+                        </li>
+                
+                
+            </ul>
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+</div>
+    <!-- Left Sidebar End -->
+
+    <div class="content-page">
+        <div id="mainContent" class="content">
+            <div class="container">
+                
+<div id="content" role="main">
+    <h1 style="text-align: center;margin-top: 200px">Welcome to PV Admin</h1>
+</div>
+
+<script>
+
+</script>
+
+            </div>
+        </div>
+    </div>
+    
+</div>
+<script type="text/javascript" src="/assets/application-14170135eceb1a9ce6feedb51cdc6745.js" ></script>
+<script>
+    
+    moment.locale(userLocale);
+    if (userLocale == JAPANESE_LOCALE) {
+        DEFAULT_DATE_DISPLAY_FORMAT = "YYYY/MM/DD";
+        DEFAULT_DATE_TIME_DISPLAY_FORMAT = "YYYY/MM/DD hh:mm A";
+    }
+</script>
+<script>
+    var APP_ASSETS_PATH = '/assets/';
+    try {
+        $.ajax({
+            url: APP_ASSETS_PATH + 'i18n/' + userLocale + '.json',
+            dataType: 'json',
+            async: false,
+            success: function (data) {
+                $.i18n.load(data);
+            }
+        });
+    } catch (e) {
+    }
+</script>
+<!-- Begin: Custom Page JavaScript Should Go Here -->
+
+<!-- End: Custom Page JavaScript Should Go Here -->
+</body>
+</html>

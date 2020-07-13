@@ -1,0 +1,375 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10016547,
+                        "type": "llt",
+                        "value": "FEV"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016548,
+                        "type": "llt",
+                        "value": "FEV 1"
+                     }
+                  ],
+                  "id": 10016984,
+                  "type": "pt",
+                  "value": "Forced expiratory volume"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10016549,
+                        "type": "llt",
+                        "value": "FEV 1 abnormal"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016554,
+                        "type": "llt",
+                        "value": "FEV abnormal"
+                     }
+                  ],
+                  "id": 10016985,
+                  "type": "pt",
+                  "value": "Forced expiratory volume abnormal"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10016550,
+                        "type": "llt",
+                        "value": "FEV 1 decreased"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016553,
+                        "type": "llt",
+                        "value": "FEV 1 low"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016555,
+                        "type": "llt",
+                        "value": "FEV decreased"
+                     }
+                  ],
+                  "id": 10016987,
+                  "type": "pt",
+                  "value": "Forced expiratory volume decreased"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10016551,
+                        "type": "llt",
+                        "value": "FEV 1 high"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016552,
+                        "type": "llt",
+                        "value": "FEV 1 increased"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016556,
+                        "type": "llt",
+                        "value": "FEV increased"
+                     }
+                  ],
+                  "id": 10016989,
+                  "type": "pt",
+                  "value": "Forced expiratory volume increased"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10016557,
+                     "type": "llt",
+                     "value": "FEV normal"
+                  }],
+                  "id": 10016990,
+                  "type": "pt",
+                  "value": "Forced expiratory volume normal"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10074315,
+                     "type": "llt",
+                     "value": "FEV1/FVC ratio"
+                  }],
+                  "id": 10074315,
+                  "type": "pt",
+                  "value": "FEV1/FVC ratio"
+               }
+            ],
+            "id": 10037385,
+            "type": "hlt",
+            "value": "Respiratory and pulmonary function diagnostic procedures"
+         }],
+         "id": 10038668,
+         "type": "hlgt",
+         "value": "Respiratory and pulmonary investigations (excl blood gases)"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10016558,
+                           "type": "llt",
+                           "value": "Fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016559,
+                           "type": "llt",
+                           "value": "Fever chills"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016563,
+                           "type": "llt",
+                           "value": "Fever of unknown origin"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10073718,
+                           "type": "llt",
+                           "value": "Feverish"
+                        }
+                     ],
+                     "id": 10037660,
+                     "type": "pt",
+                     "value": "Pyrexia"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016562,
+                        "type": "llt",
+                        "value": "Fever neonatal"
+                     }],
+                     "id": 10016562,
+                     "type": "pt",
+                     "value": "Fever neonatal"
+                  }
+               ],
+               "id": 10016286,
+               "type": "hlt",
+               "value": "Febrile disorders"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10016561,
+                     "type": "llt",
+                     "value": "Fever malignant"
+                  }],
+                  "id": 10020844,
+                  "type": "pt",
+                  "value": "Hyperthermia malignant"
+               }],
+               "id": 10005907,
+               "type": "hlt",
+               "value": "Body temperature altered"
+            }
+         ],
+         "id": 10005908,
+         "type": "hlgt",
+         "value": "Body temperature conditions"
+      }],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10049362,
+                        "type": "llt",
+                        "value": "Fever blister"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016564,
+                        "type": "llt",
+                        "value": "Fever sore"
+                     }
+                  ],
+                  "id": 10067152,
+                  "type": "pt",
+                  "value": "Oral herpes"
+               }],
+               "id": 10019972,
+               "type": "hlt",
+               "value": "Herpes viral infections"
+            },
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10003085,
+                           "type": "llt",
+                           "value": "Arenaviral haemorrhagic fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10003086,
+                           "type": "llt",
+                           "value": "Arenaviral hemorrhagic fever"
+                        }
+                     ],
+                     "id": 10003085,
+                     "type": "pt",
+                     "value": "Arenaviral haemorrhagic fever"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10003090,
+                           "type": "llt",
+                           "value": "Argentine haemorrhagic fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10055229,
+                           "type": "llt",
+                           "value": "Argentine hemorrhagic fever"
+                        }
+                     ],
+                     "id": 10003090,
+                     "type": "pt",
+                     "value": "Argentine haemorrhagic fever"
+                  }
+               ],
+               "id": 10003087,
+               "type": "hlt",
+               "value": "Arenaviral infections"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10003405,
+                        "type": "llt",
+                        "value": "Arthropod-borne haemorrhagic fever"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10003406,
+                        "type": "llt",
+                        "value": "Arthropod-borne haemorrhagic fever, unspecified"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10003407,
+                        "type": "llt",
+                        "value": "Arthropod-borne hemorrhagic fever"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10003408,
+                        "type": "llt",
+                        "value": "Arthropod-borne hemorrhagic fever, unspecified"
+                     }
+                  ],
+                  "id": 10061192,
+                  "type": "pt",
+                  "value": "Haemorrhagic fever"
+               }],
+               "id": 10047465,
+               "type": "hlt",
+               "value": "Viral infections NEC"
+            }
+         ],
+         "id": 10047438,
+         "type": "hlgt",
+         "value": "Viral infectious disorders"
+      }],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10016560,
+                  "type": "llt",
+                  "value": "Fever convulsions"
+               }],
+               "id": 10016284,
+               "type": "pt",
+               "value": "Febrile convulsion"
+            }],
+            "id": 10039912,
+            "type": "hlt",
+            "value": "Seizures and seizure disorders NEC"
+         }],
+         "id": 10039911,
+         "type": "hlgt",
+         "value": "Seizures (incl subtypes)"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10001724,
+                  "type": "llt",
+                  "value": "Allergic rhinitis (excl hay fever)"
+               }],
+               "id": 10039085,
+               "type": "pt",
+               "value": "Rhinitis allergic"
+            }],
+            "id": 10028736,
+            "type": "hlt",
+            "value": "Nasal congestion and inflammations"
+         }],
+         "id": 10046304,
+         "type": "hlgt",
+         "value": "Upper respiratory tract disorders (excl infections)"
+      }],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   }
+]

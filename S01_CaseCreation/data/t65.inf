@@ -1,0 +1,9 @@
+[t65]
+SnapshotXmlFile=snapshot_65.xml
+FileName1=t65.jpg
+URL1=http://10.100.22.228:8081/assets/pv-btn-bg2-6efc4f00037bcaba0fee1e7b7d70f0be.jpg
+Total=1
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+ContentType=image/jpeg

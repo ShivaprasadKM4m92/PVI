@@ -1,0 +1,672 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP52",
+                "stepName": "Url: external",
+                "infFile": "t1.inf",
+                "time": 1594645795184
+            },
+            {
+                "stepId": "STEP53",
+                "stepName": "Submit Data: authenticate",
+                "infFile": "t2.inf",
+                "time": 1594645796617
+            },
+            {
+                "stepId": "STEP54",
+                "stepName": "Url: 10.100.22.228:8081",
+                "infFile": "t5.inf",
+                "time": 1594645800758
+            },
+            {
+                "stepId": "STEP55",
+                "stepName": "Submit Data: 1_2",
+                "infFile": "t35.inf",
+                "time": 1594645804892
+            },
+            {
+                "stepId": "STEP56",
+                "stepName": "Submit Data: 2_2",
+                "infFile": "t36.inf",
+                "time": 1594645805917
+            },
+            {
+                "stepId": "STEP57",
+                "stepName": "Url: getActionViewList",
+                "infFile": "t38.inf",
+                "time": 1594645807657
+            },
+            {
+                "stepId": "STEP58",
+                "stepName": "Url: index",
+                "infFile": "t39.inf",
+                "time": 1594645809739
+            },
+            {
+                "stepId": "STEP59",
+                "stepName": "Url: searchData",
+                "infFile": "t67.inf",
+                "time": 1594645814152
+            },
+            {
+                "stepId": "STEP60",
+                "stepName": "Url: searchData_2",
+                "infFile": "t68.inf",
+                "time": 1594645814634
+            },
+            {
+                "stepId": "STEP61",
+                "stepName": "Url: searchData_3",
+                "infFile": "t69.inf",
+                "time": 1594645815228
+            },
+            {
+                "stepId": "STEP62",
+                "stepName": "Url: searchData_4",
+                "infFile": "t70.inf",
+                "time": 1594645815747
+            },
+            {
+                "stepId": "STEP63",
+                "stepName": "Url: searchData_5",
+                "infFile": "t71.inf",
+                "time": 1594645816435
+            },
+            {
+                "stepId": "STEP64",
+                "stepName": "Url: searchMedDRAs_4",
+                "infFile": "t72.inf",
+                "time": 1594645817287
+            },
+            {
+                "stepId": "STEP65",
+                "stepName": "Url: searchMedDRAs_6",
+                "infFile": "t73.inf",
+                "time": 1594645818308
+            },
+            {
+                "stepId": "STEP66",
+                "stepName": "Url: searchMedDRAs_8",
+                "infFile": "t74.inf",
+                "time": 1594645819120
+            },
+            {
+                "stepId": "STEP67",
+                "stepName": "Url: searchMedDRAs_12",
+                "infFile": "t75.inf",
+                "time": 1594645819942
+            },
+            {
+                "stepId": "STEP68",
+                "stepName": "Url: searchMedDRAs_17",
+                "infFile": "t76.inf",
+                "time": 1594645820958
+            },
+            {
+                "stepId": "STEP69",
+                "stepName": "Url: searchMedDRAs_18",
+                "infFile": "t77.inf",
+                "time": 1594645821543
+            },
+            {
+                "stepId": "STEP70",
+                "stepName": "Url: searchMedDRAs_21",
+                "infFile": "t78.inf",
+                "time": 1594645822067
+            },
+            {
+                "stepId": "STEP71",
+                "stepName": "Url: searchMedDRAs_24",
+                "infFile": "t79.inf",
+                "time": 1594645823016
+            },
+            {
+                "stepId": "STEP72",
+                "stepName": "Url: searchMedDRAs_25",
+                "infFile": "t80.inf",
+                "time": 1594645823596
+            },
+            {
+                "stepId": "STEP73",
+                "stepName": "Url: searchMedDRAs_26",
+                "infFile": "t81.inf",
+                "time": 1594645824259
+            },
+            {
+                "stepId": "STEP74",
+                "stepName": "Url: searchMedDRAs_27",
+                "infFile": "t82.inf",
+                "time": 1594645824849
+            },
+            {
+                "stepId": "STEP75",
+                "stepName": "Url: searchMedDRAs_31",
+                "infFile": "t83.inf",
+                "time": 1594645825494
+            },
+            {
+                "stepId": "STEP76",
+                "stepName": "Url: searchMedDRAs_32",
+                "infFile": "t84.inf",
+                "time": 1594645826121
+            },
+            {
+                "stepId": "STEP77",
+                "stepName": "Url: searchMedDRAs_33",
+                "infFile": "t85.inf",
+                "time": 1594645827000
+            },
+            {
+                "stepId": "STEP78",
+                "stepName": "Url: searchMedDRAs_35",
+                "infFile": "t86.inf",
+                "time": 1594645827563
+            },
+            {
+                "stepId": "STEP79",
+                "stepName": "Url: searchMedDRAs_36",
+                "infFile": "t87.inf",
+                "time": 1594645828347
+            },
+            {
+                "stepId": "STEP80",
+                "stepName": "Url: searchMedDRAs_37",
+                "infFile": "t88.inf",
+                "time": 1594645828985
+            },
+            {
+                "stepId": "STEP81",
+                "stepName": "Url: searchMedDRAs_38",
+                "infFile": "t89.inf",
+                "time": 1594645829667
+            },
+            {
+                "stepId": "STEP82",
+                "stepName": "Url: searchMedDRAs_39",
+                "infFile": "t90.inf",
+                "time": 1594645830397
+            },
+            {
+                "stepId": "STEP83",
+                "stepName": "Url: searchMedDRAs_41",
+                "infFile": "t91.inf",
+                "time": 1594645831217
+            },
+            {
+                "stepId": "STEP84",
+                "stepName": "Url: searchMedDRAs_44",
+                "infFile": "t92.inf",
+                "time": 1594645832043
+            },
+            {
+                "stepId": "STEP85",
+                "stepName": "Url: searchMedDRAs_45",
+                "infFile": "t93.inf",
+                "time": 1594645832846
+            },
+            {
+                "stepId": "STEP86",
+                "stepName": "Url: searchMedDRAs_46",
+                "infFile": "t94.inf",
+                "time": 1594645833643
+            },
+            {
+                "stepId": "STEP87",
+                "stepName": "Url: searchMedDRAs_47",
+                "infFile": "t95.inf",
+                "time": 1594645834488
+            },
+            {
+                "stepId": "STEP88",
+                "stepName": "Url: searchMedDRAs_49",
+                "infFile": "t96.inf",
+                "time": 1594645835178
+            },
+            {
+                "stepId": "STEP89",
+                "stepName": "Url: searchMedDRAs_50",
+                "infFile": "t97.inf",
+                "time": 1594645835767
+            },
+            {
+                "stepId": "STEP90",
+                "stepName": "Url: searchMedDRAs_53",
+                "infFile": "t98.inf",
+                "time": 1594645836740
+            },
+            {
+                "stepId": "STEP91",
+                "stepName": "Url: searchMedDRAs_54",
+                "infFile": "t99.inf",
+                "time": 1594645837413
+            },
+            {
+                "stepId": "STEP92",
+                "stepName": "Url: searchMedDRAs_55",
+                "infFile": "t100.inf",
+                "time": 1594645838004
+            },
+            {
+                "stepId": "STEP93",
+                "stepName": "Url: searchMedDRAs_58",
+                "infFile": "t101.inf",
+                "time": 1594645838990
+            },
+            {
+                "stepId": "STEP94",
+                "stepName": "Url: searchMedDRAs_63",
+                "infFile": "t102.inf",
+                "time": 1594645839800
+            },
+            {
+                "stepId": "STEP95",
+                "stepName": "Url: searchMedDRAs_64",
+                "infFile": "t103.inf",
+                "time": 1594645840623
+            },
+            {
+                "stepId": "STEP96",
+                "stepName": "Url: searchMedDRAs_65",
+                "infFile": "t104.inf",
+                "time": 1594645841455
+            },
+            {
+                "stepId": "STEP97",
+                "stepName": "Url: searchMedDRAs_66",
+                "infFile": "t105.inf",
+                "time": 1594645842265
+            },
+            {
+                "stepId": "STEP98",
+                "stepName": "Url: searchMedDRAs_67",
+                "infFile": "t106.inf",
+                "time": 1594645843082
+            },
+            {
+                "stepId": "STEP99",
+                "stepName": "Url: searchMedDRAs_68",
+                "infFile": "t107.inf",
+                "time": 1594645843734
+            },
+            {
+                "stepId": "STEP100",
+                "stepName": "Submit Data: save",
+                "infFile": "t108.inf",
+                "time": 1594645849235
+            },
+            {
+                "stepId": "STEP101",
+                "stepName": "Submit Data: releaseEditLock",
+                "infFile": "t109.inf",
+                "time": 1594645849758
+            },
+            {
+                "stepId": "STEP102",
+                "stepName": "Url: logout",
+                "infFile": "t110.inf",
+                "time": 1594645852713
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "S01_01_OpenApplication",
+                "rawStartTime": 1594645794598,
+                "rawEndTime": 1594645795219,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011835575103759766
+            },
+            {
+                "transactionName": "S01_02_Login",
+                "rawStartTime": 1594645795225,
+                "rawEndTime": 1594645797119,
+                "thinkTime": 0.0,
+                "wastedTime": 0.044663190841674808
+            },
+            {
+                "transactionName": "S01_03_Navigate_PVI",
+                "rawStartTime": 1594645797123,
+                "rawEndTime": 1594645807661,
+                "thinkTime": 0.0,
+                "wastedTime": 0.3151216506958008
+            },
+            {
+                "transactionName": "S01_03_Click_NewCase",
+                "rawStartTime": 1594645807668,
+                "rawEndTime": 1594645813642,
+                "thinkTime": 0.0,
+                "wastedTime": 0.3076908588409424
+            },
+            {
+                "transactionName": "S01_04_Enter_GeneralDetails",
+                "rawStartTime": 1594645813648,
+                "rawEndTime": 1594645813649,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S01_05_Enter_ReporterDetails",
+                "rawStartTime": 1594645813655,
+                "rawEndTime": 1594645813656,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S01_06_Add_Product1",
+                "rawStartTime": 1594645813662,
+                "rawEndTime": 1594645814154,
+                "thinkTime": 0.0,
+                "wastedTime": 0.010175228118896485
+            },
+            {
+                "transactionName": "S01_07_Add_Product2",
+                "rawStartTime": 1594645814159,
+                "rawEndTime": 1594645814636,
+                "thinkTime": 0.0,
+                "wastedTime": 0.022463321685791017
+            },
+            {
+                "transactionName": "S01_08_Add_Product3",
+                "rawStartTime": 1594645814643,
+                "rawEndTime": 1594645815231,
+                "thinkTime": 0.0,
+                "wastedTime": 0.026344776153564454
+            },
+            {
+                "transactionName": "S01_09_Add_Product4",
+                "rawStartTime": 1594645815237,
+                "rawEndTime": 1594645815750,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02859330177307129
+            },
+            {
+                "transactionName": "S01_10_Add_Product5",
+                "rawStartTime": 1594645815756,
+                "rawEndTime": 1594645816437,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03327226638793945
+            },
+            {
+                "transactionName": "S01_12_Add_Event1",
+                "rawStartTime": 1594645816445,
+                "rawEndTime": 1594645817289,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0319056510925293
+            },
+            {
+                "transactionName": "S01_13_Add_Event2",
+                "rawStartTime": 1594645817296,
+                "rawEndTime": 1594645818310,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03161120414733887
+            },
+            {
+                "transactionName": "S01_14_Add_Event3",
+                "rawStartTime": 1594645818316,
+                "rawEndTime": 1594645819123,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02811288833618164
+            },
+            {
+                "transactionName": "S01_15_Add_Event4",
+                "rawStartTime": 1594645819128,
+                "rawEndTime": 1594645819944,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02468705177307129
+            },
+            {
+                "transactionName": "S01_16_Add_Event5",
+                "rawStartTime": 1594645819951,
+                "rawEndTime": 1594645820960,
+                "thinkTime": 0.0,
+                "wastedTime": 0.026770353317260743
+            },
+            {
+                "transactionName": "S01_17_Add_Test1",
+                "rawStartTime": 1594645820967,
+                "rawEndTime": 1594645821546,
+                "thinkTime": 0.0,
+                "wastedTime": 0.034081459045410159
+            },
+            {
+                "transactionName": "S01_18_Add_Test2",
+                "rawStartTime": 1594645821552,
+                "rawEndTime": 1594645822069,
+                "thinkTime": 0.0,
+                "wastedTime": 0.022611141204833986
+            },
+            {
+                "transactionName": "S01_19_Add_Test3",
+                "rawStartTime": 1594645822075,
+                "rawEndTime": 1594645823019,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03198504447937012
+            },
+            {
+                "transactionName": "S01_20_Add_Test4",
+                "rawStartTime": 1594645823024,
+                "rawEndTime": 1594645823598,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027266502380371095
+            },
+            {
+                "transactionName": "S01_21_Add_Test5",
+                "rawStartTime": 1594645823603,
+                "rawEndTime": 1594645824262,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03541851043701172
+            },
+            {
+                "transactionName": "S01_22_Add_Test6",
+                "rawStartTime": 1594645824269,
+                "rawEndTime": 1594645824851,
+                "thinkTime": 0.0,
+                "wastedTime": 0.025890111923217775
+            },
+            {
+                "transactionName": "S01_22_Add_Test6",
+                "rawStartTime": 1594645824857,
+                "rawEndTime": 1594645825496,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014253616333007813
+            },
+            {
+                "transactionName": "S01_23_Add_Test7",
+                "rawStartTime": 1594645825501,
+                "rawEndTime": 1594645826123,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01833653450012207
+            },
+            {
+                "transactionName": "S01_24_Add_Test8",
+                "rawStartTime": 1594645826130,
+                "rawEndTime": 1594645827002,
+                "thinkTime": 0.0,
+                "wastedTime": 0.028264522552490236
+            },
+            {
+                "transactionName": "S01_25_Add_Test9",
+                "rawStartTime": 1594645827008,
+                "rawEndTime": 1594645827565,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03039860725402832
+            },
+            {
+                "transactionName": "S01_26_Add_Test10",
+                "rawStartTime": 1594645827571,
+                "rawEndTime": 1594645828349,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02813243865966797
+            },
+            {
+                "transactionName": "S01_27_Add_Test11",
+                "rawStartTime": 1594645828354,
+                "rawEndTime": 1594645828987,
+                "thinkTime": 0.0,
+                "wastedTime": 0.032782793045043948
+            },
+            {
+                "transactionName": "S01_28_Add_Test12",
+                "rawStartTime": 1594645828993,
+                "rawEndTime": 1594645829669,
+                "thinkTime": 0.0,
+                "wastedTime": 0.028252840042114259
+            },
+            {
+                "transactionName": "S01_29_Add_Test13",
+                "rawStartTime": 1594645829675,
+                "rawEndTime": 1594645830400,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03390336036682129
+            },
+            {
+                "transactionName": "S01_30_Add_Test14",
+                "rawStartTime": 1594645830406,
+                "rawEndTime": 1594645831219,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03315114974975586
+            },
+            {
+                "transactionName": "S01_31_Add_Test15",
+                "rawStartTime": 1594645831226,
+                "rawEndTime": 1594645832045,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03437232971191406
+            },
+            {
+                "transactionName": "S01_32_Add_Test16",
+                "rawStartTime": 1594645832052,
+                "rawEndTime": 1594645832849,
+                "thinkTime": 0.0,
+                "wastedTime": 0.029473543167114259
+            },
+            {
+                "transactionName": "S01_33_Add_Test17",
+                "rawStartTime": 1594645832855,
+                "rawEndTime": 1594645833645,
+                "thinkTime": 0.0,
+                "wastedTime": 0.020435094833374025
+            },
+            {
+                "transactionName": "S01_34_Add_Test18",
+                "rawStartTime": 1594645833651,
+                "rawEndTime": 1594645834491,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027821779251098634
+            },
+            {
+                "transactionName": "S01_35_Add_Test19",
+                "rawStartTime": 1594645834498,
+                "rawEndTime": 1594645835181,
+                "thinkTime": 0.0,
+                "wastedTime": 0.026915788650512697
+            },
+            {
+                "transactionName": "S01_36_Add_Test20",
+                "rawStartTime": 1594645835186,
+                "rawEndTime": 1594645835769,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019739151000976564
+            },
+            {
+                "transactionName": "S01_37_Navigate_Summary",
+                "rawStartTime": 1594645835775,
+                "rawEndTime": 1594645835778,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S01_38_Navigate_Patient",
+                "rawStartTime": 1594645835783,
+                "rawEndTime": 1594645835786,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S01_39_Add_MedicalHistory1",
+                "rawStartTime": 1594645835792,
+                "rawEndTime": 1594645836742,
+                "thinkTime": 0.0,
+                "wastedTime": 0.031442880630493167
+            },
+            {
+                "transactionName": "S01_40_Add_MedicalHistory2",
+                "rawStartTime": 1594645836747,
+                "rawEndTime": 1594645837415,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027454137802124025
+            },
+            {
+                "transactionName": "S01_41_Add_MedicalHistory3",
+                "rawStartTime": 1594645837420,
+                "rawEndTime": 1594645838007,
+                "thinkTime": 0.0,
+                "wastedTime": 0.024335384368896486
+            },
+            {
+                "transactionName": "S01_42_Add_MedicalHistory4",
+                "rawStartTime": 1594645838012,
+                "rawEndTime": 1594645838992,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027237415313720704
+            },
+            {
+                "transactionName": "S01_43_Add_MedicalHistory5",
+                "rawStartTime": 1594645838997,
+                "rawEndTime": 1594645839802,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027339458465576173
+            },
+            {
+                "transactionName": "S01_44_Add_MedicalHistory6",
+                "rawStartTime": 1594645839808,
+                "rawEndTime": 1594645840625,
+                "thinkTime": 0.0,
+                "wastedTime": 0.020802021026611329
+            },
+            {
+                "transactionName": "S01_45_Add_MedicalHistory7",
+                "rawStartTime": 1594645840631,
+                "rawEndTime": 1594645841458,
+                "thinkTime": 0.0,
+                "wastedTime": 0.028914213180541993
+            },
+            {
+                "transactionName": "S01_46_Add_MedicalHistory8",
+                "rawStartTime": 1594645841466,
+                "rawEndTime": 1594645842267,
+                "thinkTime": 0.0,
+                "wastedTime": 0.024564504623413087
+            },
+            {
+                "transactionName": "S01_47_Add_MedicalHistory9",
+                "rawStartTime": 1594645842274,
+                "rawEndTime": 1594645843085,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019785404205322267
+            },
+            {
+                "transactionName": "S01_48_Add_MedicalHistory10",
+                "rawStartTime": 1594645843090,
+                "rawEndTime": 1594645843737,
+                "thinkTime": 0.0,
+                "wastedTime": 0.025149822235107423
+            },
+            {
+                "transactionName": "S01_49_Click_Create",
+                "rawStartTime": 1594645843742,
+                "rawEndTime": 1594645849237,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02722024917602539
+            },
+            {
+                "transactionName": "S01_50_LogOut",
+                "rawStartTime": 1594645849242,
+                "rawEndTime": 1594645852715,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05476832389831543
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+{{#isList params.isList}}
+    {{#showHideActions params.actionVisible}}
+        <div class="td-box text-center">
+    {{else}}
+        <div class="td-box text-right">
+    {{/showHideActions}}
+        <div class="btn-group dropdown">
+            {{#checkViewAvailable views}}
+                <div class="dropdown-toggle waves-light ic-list-view" data-toggle="dropdown" aria-expanded="false" title="View"><i class="md md-menu-down" aria-hidden="true"></i></div>
+                <ul class="dropdown-menu fixed-right pv-action-dropdown" role="menu">
+                    {{#each views}}
+                        <li class="{{cssClass}}">
+                            <a data-container = "{{../params.containerId}}" href="{{{toViewURL this ../params.id}}}" data-templateId="{{this.action}}" data-case-id="{{../params.id}}" data-action="{{this.controller}}" data-case-state="{{../params.caseState}}">{{displayName}}</a>
+                        </li>
+                    {{/each}}
+                </ul>
+            {{else}}
+                <div class="dropdown-toggle waves-light not-clickable ic-list-view" aria-expanded="false" title="View"><i class="md md-menu-down" aria-hidden="true"></i></div>
+            {{/checkViewAvailable}}
+        </div>
+        {{#showHideActions params.actionVisible}}
+            <div class="btn-group hide m-r-10">
+        {{else}}
+            <div class="btn-group dropdown m-r-10">
+        {{/showHideActions}}
+            {{#checkActionAvailable actions }}
+                <div class="waves-light dropdown-toggle ic-list-action" data-toggle="dropdown"  data-case-state-id= "{{params.caseStateId}}" data-case-state="{{params.caseState}}" title="Action">
+                    <i class="md md-more-vert" aria-hidden="true"></i>
+                </div>
+                <ul class="dropdown-menu fixed-right pv-action-dropdown" role="menu">
+                    {{#each actions}}
+                        {{#each this}}
+                            {{#hideBulkOnlyAction this}}
+                                <li class="{{cssClass}}">
+                                    <a data-container = "{{../../params.containerId}}" href="#" data-action = "{{destinationStateId}}" data-case-state-id = "{{caseStateId}}" data-case-id="{{../../params.id}}"
+                                       data-intake-case-num="{{../../params.intakeCaseNumber}}" data-intake-case-version="{{../../params.versionId}}"
+                                       data-case-country-id = "{{../../params.caseCountry.id}}"
+                                       data-vendor-id = "{{../../params.vendorId}}">{{displayLabel}}
+                                    </a>
+                                </li>
+                            {{/hideBulkOnlyAction}}
+                        {{/each}}
+                    {{/each}}
+                </ul>
+            {{else}}
+                <div class="waves-light dropdown-toggle noActionAllowed not-clickable ic-list-action" data-case-state-id= "{{params.caseStateId}}" data-case-state="{{params.caseState}}" title="Action">
+                    <i class="md md-more-vert" aria-hidden="true"></i>
+                </div>
+            {{/checkActionAvailable}}
+        </div>
+    </div>
+
+{{else}}
+
+
+    <ul class="navbar-nav pv-inline-cta navbar-right pv-form-top-cta" data-actions="views">
+        <li class="dropdown ">
+                <div class="dropdown-toggle waves-light ic-list-view" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false" title="Views" id="viewButton">
+                    <i class="md md-file-find md-lg" aria-hidden="true"></i>
+                </div>
+
+            {{#checkViewAvailable views}}
+                <ul class="dropdown-menu navigateAwayEvent view-list">
+                    {{#each views}}
+                        <li class="{{cssClass}}"><a href="{{{toViewURL this ../params.id}}}" data-case-id="{{../params.caseStateId}}" data-case-state="{{../params.caseState}}">{{displayName}}</a>
+                        </li>
+                    {{/each}}
+                </ul>
+            {{/checkViewAvailable}}
+        </li>
+    </ul>
+
+    <ul class="navbar-nav pv-inline-cta pv-form-top-cta navbar-right" data-views="actions">
+            <li class="dropdown">
+                    <div class="waves-light dropdown-toggle noActionAllowed not-clickable "
+                        id="actionButton" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false" title="Actions">
+                        <i class="md md-more-vert md-lg" aria-hidden="true"></i>
+                    </div>
+
+                {{#checkActionAvailable actions}}
+                    <ul class="dropdown-menu navigateAwayEvent action-list">
+                        {{#each actions}}
+                            {{#each this}}
+                                <li class="action {{cssClass}}">
+                                    <a href="#" data-action = "{{destinationStateId}}" data-case-state-id = "{{caseStateId}}" data-case-id="{{../../params.id}}" data-intake-case-num="{{../../params.intakeCaseNum}}" data-intake-case-version="{{../../params.version}}">{{displayLabel}}</a>
+                                </li>
+                            {{/each}}
+                        {{/each}}
+                    </ul>
+                {{/checkActionAvailable}}
+            </li>
+        </ul>
+
+{{/isList}}

@@ -1,0 +1,10 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:57:34 GMT
+ETag: "pv/comp/templates/study_template-aa1a3bb29ad5f072950dab1341d92f88.hbs"
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Content-Encoding: gzip
+Content-Length: 359
+Date: Mon, 13 Jul 2020 11:26:30 GMT
+

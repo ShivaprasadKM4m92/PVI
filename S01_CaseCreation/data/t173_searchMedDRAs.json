@@ -1,0 +1,366 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10001087,
+                        "type": "llt",
+                        "value": "Acute suppurative otitis media in diseases classified elsewhere"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10001088,
+                        "type": "llt",
+                        "value": "Acute suppurative otitis media with spontaneous rupture of eardrum"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10001089,
+                        "type": "llt",
+                        "value": "Acute suppurative otitis media without spontaneous rupture of eardrum"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10004574,
+                        "type": "llt",
+                        "value": "Bilateral otitis media (acute, non-supp)"
+                     }
+                  ],
+                  "id": 10033079,
+                  "type": "pt",
+                  "value": "Otitis media acute"
+               }],
+               "id": 10014013,
+               "type": "hlt",
+               "value": "Ear infections"
+            }],
+            "id": 10021879,
+            "type": "hlgt",
+            "value": "Infections - pathogen unspecified"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10002149,
+                        "type": "llt",
+                        "value": "Anal chlamydia infection"
+                     }],
+                     "id": 10002149,
+                     "type": "pt",
+                     "value": "Anal chlamydia infection"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10008535,
+                        "type": "llt",
+                        "value": "Chlamydia conjunctivitis neonatal"
+                     }],
+                     "id": 10053991,
+                     "type": "pt",
+                     "value": "Inclusion conjunctivitis neonatal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10054233,
+                        "type": "llt",
+                        "value": "Chlamydia pneumoniae infection"
+                     }],
+                     "id": 10061041,
+                     "type": "pt",
+                     "value": "Chlamydial infection"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10008536,
+                        "type": "llt",
+                        "value": "Chlamydia pneumoniae pneumonia"
+                     }],
+                     "id": 10035673,
+                     "type": "pt",
+                     "value": "Pneumonia chlamydial"
+                  }
+               ],
+               "id": 10008561,
+               "type": "hlt",
+               "value": "Chlamydial infections"
+            }],
+            "id": 10008555,
+            "type": "hlgt",
+            "value": "Chlamydial infectious disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10001188,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia in situ"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001189,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia recurrent"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001190,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage 0"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001191,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage I"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001192,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage II"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001193,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage III"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001194,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage IV NOS"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001195,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage IV with metastases"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10001196,
+                     "type": "llt",
+                     "value": "Adenocarcinoma of the cardia stage IV without metastases"
+                  }
+               ],
+               "id": 10001150,
+               "type": "pt",
+               "value": "Adenocarcinoma gastric"
+            }],
+            "id": 10017812,
+            "type": "hlt",
+            "value": "Gastric neoplasms malignant"
+         }],
+         "id": 10017991,
+         "type": "hlgt",
+         "value": "Gastrointestinal neoplasms malignant and unspecified"
+      }],
+      "id": 10029104,
+      "type": "soc",
+      "value": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10006095,
+                           "type": "llt",
+                           "value": "Bradycardia NOS"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10006096,
+                           "type": "llt",
+                           "value": "Bradycardia NOS (excl fetal)"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10006097,
+                           "type": "llt",
+                           "value": "Bradycardia NOS (excl foetal)"
+                        }
+                     ],
+                     "id": 10006093,
+                     "type": "pt",
+                     "value": "Bradycardia"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10055187,
+                           "type": "llt",
+                           "value": "Bradycardia fetal"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10006094,
+                           "type": "llt",
+                           "value": "Bradycardia foetal"
+                        }
+                     ],
+                     "id": 10006094,
+                     "type": "pt",
+                     "value": "Bradycardia foetal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10056471,
+                        "type": "llt",
+                        "value": "Bradycardia neonatal"
+                     }],
+                     "id": 10056471,
+                     "type": "pt",
+                     "value": "Bradycardia neonatal"
+                  }
+               ],
+               "id": 10037908,
+               "type": "hlt",
+               "value": "Rate and rhythm disorders NEC"
+            },
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10006098,
+                        "type": "llt",
+                        "value": "Bradycardia sinus"
+                     }],
+                     "id": 10040741,
+                     "type": "pt",
+                     "value": "Sinus bradycardia"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10049203,
+                        "type": "llt",
+                        "value": "Bradycardia-tachycardia syndrome"
+                     }],
+                     "id": 10075889,
+                     "type": "pt",
+                     "value": "Sinus node dysfunction"
+                  }
+               ],
+               "id": 10042600,
+               "type": "hlt",
+               "value": "Supraventricular arrhythmias"
+            }
+         ],
+         "id": 10007521,
+         "type": "hlgt",
+         "value": "Cardiac arrhythmias"
+      }],
+      "id": 10007541,
+      "type": "soc",
+      "value": "Cardiac disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10064582,
+                     "type": "llt",
+                     "value": "Carotid intima-media thickness increased"
+                  }],
+                  "id": 10064582,
+                  "type": "pt",
+                  "value": "Carotid intima-media thickness increased"
+               }],
+               "id": 10047078,
+               "type": "hlt",
+               "value": "Vascular imaging procedures NEC"
+            }],
+            "id": 10007512,
+            "type": "hlgt",
+            "value": "Cardiac and vascular investigations (excl enzyme tests)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10068743,
+                        "type": "llt",
+                        "value": "Chlamydia identification test"
+                     }],
+                     "id": 10070272,
+                     "type": "pt",
+                     "value": "Chlamydia test"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10068745,
+                        "type": "llt",
+                        "value": "Chlamydia identification test negative"
+                     }],
+                     "id": 10070273,
+                     "type": "pt",
+                     "value": "Chlamydia test negative"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10068744,
+                           "type": "llt",
+                           "value": "Chlamydia identification test positive"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10070171,
+                           "type": "llt",
+                           "value": "Chlamydia pneumoniae test positive"
+                        }
+                     ],
+                     "id": 10070159,
+                     "type": "pt",
+                     "value": "Chlamydia test positive"
+                  }
+               ],
+               "id": 10004000,
+               "type": "hlt",
+               "value": "Bacteria identification and serology (excl mycobacteria)"
+            }],
+            "id": 10027529,
+            "type": "hlgt",
+            "value": "Microbiology and serology investigations"
+         }
+      ],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   }
+]

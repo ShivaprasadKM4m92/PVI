@@ -1,0 +1,279 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10019211,
+                        "type": "llt",
+                        "value": "Headache"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019212,
+                        "type": "llt",
+                        "value": "Headache (except migraine) aggravated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10056791,
+                        "type": "llt",
+                        "value": "Headache (excl migraine) aggravated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019218,
+                        "type": "llt",
+                        "value": "Headache NOS"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019219,
+                        "type": "llt",
+                        "value": "Headache NOS aggravated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048567,
+                        "type": "llt",
+                        "value": "Headache aggravated"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019213,
+                        "type": "llt",
+                        "value": "Headache discomfort"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019215,
+                        "type": "llt",
+                        "value": "Headache dull"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019216,
+                        "type": "llt",
+                        "value": "Headache fullness"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019220,
+                        "type": "llt",
+                        "value": "Headache occurring"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10066618,
+                        "type": "llt",
+                        "value": "Headache recurrent"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019225,
+                        "type": "llt",
+                        "value": "Headache temporal"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019227,
+                        "type": "llt",
+                        "value": "Headache transient"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10050113,
+                        "type": "llt",
+                        "value": "Headache unilateral"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10053850,
+                        "type": "llt",
+                        "value": "Chronic headaches"
+                     }
+                  ],
+                  "id": 10019211,
+                  "type": "pt",
+                  "value": "Headache"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019214,
+                     "type": "llt",
+                     "value": "Headache drug withdrawal"
+                  }],
+                  "id": 10013753,
+                  "type": "pt",
+                  "value": "Drug withdrawal headache"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10019217,
+                        "type": "llt",
+                        "value": "Headache histamine"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019229,
+                        "type": "llt",
+                        "value": "Headache vasomotor"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019232,
+                        "type": "llt",
+                        "value": "Headaches cluster"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10059133,
+                        "type": "llt",
+                        "value": "Cluster headache"
+                     }
+                  ],
+                  "id": 10059133,
+                  "type": "pt",
+                  "value": "Cluster headache"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019222,
+                     "type": "llt",
+                     "value": "Headache post-traumatic"
+                  }],
+                  "id": 10036313,
+                  "type": "pt",
+                  "value": "Post-traumatic headache"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019224,
+                     "type": "llt",
+                     "value": "Headache sinus"
+                  }],
+                  "id": 10040744,
+                  "type": "pt",
+                  "value": "Sinus headache"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10019226,
+                        "type": "llt",
+                        "value": "Headache tension"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10004087,
+                        "type": "llt",
+                        "value": "Band-like headache"
+                     }
+                  ],
+                  "id": 10043269,
+                  "type": "pt",
+                  "value": "Tension headache"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019228,
+                     "type": "llt",
+                     "value": "Headache vascular"
+                  }],
+                  "id": 10047077,
+                  "type": "pt",
+                  "value": "Vascular headache"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10072723,
+                     "type": "llt",
+                     "value": "Analgesic rebound headache"
+                  }],
+                  "id": 10072720,
+                  "type": "pt",
+                  "value": "Medication overuse headache"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10064888,
+                     "type": "llt",
+                     "value": "Cervicogenic headache"
+                  }],
+                  "id": 10064888,
+                  "type": "pt",
+                  "value": "Cervicogenic headache"
+               }
+            ],
+            "id": 10019233,
+            "type": "hlt",
+            "value": "Headaches NEC"
+         }],
+         "id": 10019231,
+         "type": "hlgt",
+         "value": "Headaches"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10019221,
+                        "type": "llt",
+                        "value": "Headache post myelography"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019230,
+                        "type": "llt",
+                        "value": "Headache, lumbar puncture"
+                     }
+                  ],
+                  "id": 10060854,
+                  "type": "pt",
+                  "value": "Post lumbar puncture syndrome"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019223,
+                     "type": "llt",
+                     "value": "Headache postoperative"
+                  }],
+                  "id": 10066965,
+                  "type": "pt",
+                  "value": "Procedural headache"
+               }
+            ],
+            "id": 10029294,
+            "type": "hlt",
+            "value": "Neurological and psychiatric procedural complications"
+         }],
+         "id": 10069888,
+         "type": "hlgt",
+         "value": "Procedural related injuries and complications NEC"
+      }],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   }
+]

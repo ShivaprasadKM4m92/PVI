@@ -1,0 +1,11 @@
+[t207]
+FileName1=t207_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=fever&_=1594639576804
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_207.xml
+RequestHeaderFile=t207_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t207_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

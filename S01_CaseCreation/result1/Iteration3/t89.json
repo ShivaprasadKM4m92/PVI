@@ -1,0 +1,538 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10043460,
+                     "type": "llt",
+                     "value": "Thompson hip prosthesis"
+                  }],
+                  "id": 10020096,
+                  "type": "pt",
+                  "value": "Hip arthroplasty"
+               }],
+               "id": 10023221,
+               "type": "hlt",
+               "value": "Joint therapeutic procedures"
+            }],
+            "id": 10005944,
+            "type": "hlgt",
+            "value": "Bone and joint therapeutic procedures"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10053975,
+                        "type": "llt",
+                        "value": "Thoracic cavity drainage"
+                     }],
+                     "id": 10053975,
+                     "type": "pt",
+                     "value": "Thoracic cavity drainage"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10069491,
+                        "type": "llt",
+                        "value": "Thoracic cavity lavage"
+                     }],
+                     "id": 10069491,
+                     "type": "pt",
+                     "value": "Thoracic cavity lavage"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10052703,
+                        "type": "llt",
+                        "value": "Thoracic operation"
+                     }],
+                     "id": 10052703,
+                     "type": "pt",
+                     "value": "Thoracic operation"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10052704,
+                        "type": "llt",
+                        "value": "Thoracic outlet surgery"
+                     }],
+                     "id": 10052704,
+                     "type": "pt",
+                     "value": "Thoracic outlet surgery"
+                  }
+               ],
+               "id": 10008494,
+               "type": "hlt",
+               "value": "Chest wall and mediastinal therapeutic procedures"
+            }],
+            "id": 10038737,
+            "type": "hlgt",
+            "value": "Respiratory tract therapeutic procedures"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10067830,
+                     "type": "llt",
+                     "value": "Thoracic duct ligation"
+                  }],
+                  "id": 10067830,
+                  "type": "pt",
+                  "value": "Thoracic duct ligation"
+               }],
+               "id": 10047094,
+               "type": "hlt",
+               "value": "Vascular therapeutic procedures NEC"
+            }],
+            "id": 10003184,
+            "type": "hlgt",
+            "value": "Vascular therapeutic procedures"
+         }
+      ],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10043461,
+                  "type": "llt",
+                  "value": "Thomsen's disease"
+               }],
+               "id": 10028655,
+               "type": "pt",
+               "value": "Myotonia congenita"
+            }],
+            "id": 10029512,
+            "type": "hlt",
+            "value": "Non-site specific muscle disorders congenital"
+         }],
+         "id": 10028396,
+         "type": "hlgt",
+         "value": "Musculoskeletal and connective tissue disorders congenital"
+      }],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10067524,
+                  "type": "llt",
+                  "value": "Thoracalgia"
+               }],
+               "id": 10008479,
+               "type": "pt",
+               "value": "Chest pain"
+            }],
+            "id": 10033372,
+            "type": "hlt",
+            "value": "Pain and discomfort NEC"
+         }],
+         "id": 10018073,
+         "type": "hlgt",
+         "value": "General system disorders NEC"
+      }],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043462,
+                        "type": "llt",
+                        "value": "Thoracentesis"
+                     }],
+                     "id": 10003522,
+                     "type": "pt",
+                     "value": "Aspiration pleural cavity"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10053974,
+                           "type": "llt",
+                           "value": "Thoracic cavity drainage abnormal"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10056464,
+                           "type": "llt",
+                           "value": "Thoracic cavity drainage test abnormal"
+                        }
+                     ],
+                     "id": 10056464,
+                     "type": "pt",
+                     "value": "Thoracic cavity drainage test abnormal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10056460,
+                        "type": "llt",
+                        "value": "Thoracic cavity drainage test"
+                     }],
+                     "id": 10056460,
+                     "type": "pt",
+                     "value": "Thoracic cavity drainage test"
+                  }
+               ],
+               "id": 10006472,
+               "type": "hlt",
+               "value": "Respiratory tract and thoracic histopathology procedures"
+            }],
+            "id": 10038668,
+            "type": "hlgt",
+            "value": "Respiratory and pulmonary investigations (excl blood gases)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10043468,
+                     "type": "llt",
+                     "value": "Thoracic myelography"
+                  }],
+                  "id": 10057563,
+                  "type": "pt",
+                  "value": "Spinal myelogram"
+               }],
+               "id": 10007950,
+               "type": "hlt",
+               "value": "Central nervous system imaging procedures"
+            }],
+            "id": 10029295,
+            "type": "hlgt",
+            "value": "Neurological, special senses and psychiatric investigations"
+         }
+      ],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10043463,
+                           "type": "llt",
+                           "value": "Thoracic aneurysm without mention of rupture"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10043465,
+                           "type": "llt",
+                           "value": "Thoracic aortic aneurysm"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10077124,
+                           "type": "llt",
+                           "value": "Thoracic aortic aneurysm enlargement"
+                        }
+                     ],
+                     "id": 10002882,
+                     "type": "pt",
+                     "value": "Aortic aneurysm"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043464,
+                        "type": "llt",
+                        "value": "Thoracic aneurysm, ruptured"
+                     }],
+                     "id": 10002886,
+                     "type": "pt",
+                     "value": "Aortic aneurysm rupture"
+                  }
+               ],
+               "id": 10002889,
+               "type": "hlt",
+               "value": "Aortic aneurysms and dissections"
+            }],
+            "id": 10002363,
+            "type": "hlgt",
+            "value": "Aneurysms and artery dissections"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10076860,
+                     "type": "llt",
+                     "value": "Thoracic aortic stenosis"
+                  }],
+                  "id": 10002906,
+                  "type": "pt",
+                  "value": "Aortic stenosis"
+               }],
+               "id": 10002901,
+               "type": "hlt",
+               "value": "Aortic necrosis and vascular insufficiency"
+            }],
+            "id": 10003216,
+            "type": "hlgt",
+            "value": "Arteriosclerosis, stenosis, vascular insufficiency and necrosis"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10078522,
+                     "type": "llt",
+                     "value": "Thoracic aortic thrombus"
+                  }],
+                  "id": 10002910,
+                  "type": "pt",
+                  "value": "Aortic thrombosis"
+               }],
+               "id": 10002896,
+               "type": "hlt",
+               "value": "Aortic embolism and thrombosis"
+            }],
+            "id": 10014523,
+            "type": "hlgt",
+            "value": "Embolism and thrombosis"
+         }
+      ],
+      "id": 10047065,
+      "type": "soc",
+      "value": "Vascular disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10074821,
+                        "type": "llt",
+                        "value": "Thoracic annular tear"
+                     }],
+                     "id": 10065294,
+                     "type": "pt",
+                     "value": "Intervertebral disc annular tear"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10052292,
+                        "type": "llt",
+                        "value": "Thoracic disc degeneration"
+                     }],
+                     "id": 10061246,
+                     "type": "pt",
+                     "value": "Intervertebral disc degeneration"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10066258,
+                        "type": "llt",
+                        "value": "Thoracic disc herniation"
+                     }],
+                     "id": 10050296,
+                     "type": "pt",
+                     "value": "Intervertebral disc protrusion"
+                  }
+               ],
+               "id": 10022635,
+               "type": "hlt",
+               "value": "Intervertebral disc disorders NEC"
+            }],
+            "id": 10028377,
+            "type": "hlgt",
+            "value": "Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10076343,
+                     "type": "llt",
+                     "value": "Thoracic foraminal stenosis"
+                  }],
+                  "id": 10069690,
+                  "type": "pt",
+                  "value": "Vertebral foraminal stenosis"
+               }],
+               "id": 10027685,
+               "type": "hlt",
+               "value": "Joint related disorders NEC"
+            }],
+            "id": 10023213,
+            "type": "hlgt",
+            "value": "Joint disorders"
+         }
+      ],
+      "id": 10028395,
+      "type": "soc",
+      "value": "Musculoskeletal and connective tissue disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10071898,
+                     "type": "llt",
+                     "value": "Thoracic bleeding"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10062744,
+                     "type": "llt",
+                     "value": "Thoracic haemorrhage"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10062745,
+                     "type": "llt",
+                     "value": "Thoracic hemorrhage"
+                  }
+               ],
+               "id": 10062744,
+               "type": "pt",
+               "value": "Thoracic haemorrhage"
+            }],
+            "id": 10057184,
+            "type": "hlt",
+            "value": "Respiratory tract disorders NEC"
+         }],
+         "id": 10038716,
+         "type": "hlgt",
+         "value": "Respiratory disorders NEC"
+      }],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10076963,
+                  "type": "llt",
+                  "value": "Thoracic endometriosis"
+               }],
+               "id": 10014778,
+               "type": "pt",
+               "value": "Endometriosis"
+            }],
+            "id": 10013376,
+            "type": "hlt",
+            "value": "Uterine disorders NEC"
+         }],
+         "id": 10046828,
+         "type": "hlgt",
+         "value": "Uterine, pelvic and broad ligament disorders"
+      }],
+      "id": 10038604,
+      "type": "soc",
+      "value": "Reproductive system and breast disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10043469,
+                     "type": "llt",
+                     "value": "Thoracic or lumbar spondylosis with myelopathy"
+                  }],
+                  "id": 10041670,
+                  "type": "pt",
+                  "value": "Spondylitic myelopathy"
+               }],
+               "id": 10041544,
+               "type": "hlt",
+               "value": "Spinal cord and nerve root disorders NEC"
+            }],
+            "id": 10041543,
+            "type": "hlgt",
+            "value": "Spinal cord and nerve root disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10043470,
+                        "type": "llt",
+                        "value": "Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+                     }],
+                     "id": 10029240,
+                     "type": "pt",
+                     "value": "Neuritis"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10048627,
+                        "type": "llt",
+                        "value": "Thoracic outlet syndrome"
+                     }],
+                     "id": 10048627,
+                     "type": "pt",
+                     "value": "Thoracic outlet syndrome"
+                  }
+               ],
+               "id": 10034607,
+               "type": "hlt",
+               "value": "Peripheral neuropathies NEC"
+            }],
+            "id": 10034606,
+            "type": "hlgt",
+            "value": "Peripheral neuropathies"
+         }
+      ],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   }
+]

@@ -1,0 +1,727 @@
+[
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx CISPLATIN ID",
+            "id": 100381,
+            "value": "Rx CISPLATIN ID Investigational Drug AU"
+         },
+         {
+            "tradeName": "Rx CISPLATIN ID",
+            "id": 100382,
+            "value": "Rx CISPLATIN ID Investigational Drug US"
+         },
+         {
+            "tradeName": "Rx CISPLATIN MD",
+            "id": 100380,
+            "value": "Rx CISPLATIN MD Marketed Drug AU"
+         },
+         {
+            "tradeName": "Rx CISPLATIN MD",
+            "id": 100383,
+            "value": "Rx CISPLATIN MD Marketed Drug US"
+         }
+      ],
+      "genericName": "CISPLATIN",
+      "dosageForm": {
+         "id": 480,
+         "value": "Powder for intraocular instillation solution"
+      },
+      "name": "CISPLATIN (3475 POWDER FOR INJECTION STUDY)",
+      "ingredients": [{
+         "id": 3539,
+         "value": "CISPLATIN"
+      }],
+      "id": 100271,
+      "family": {
+         "id": 100156,
+         "value": "Rx EXTERNAL-CISPLATIN"
+      },
+      "value": "CISPLATIN (3475 POWDER FOR INJECTION STUDY) Powder for intraocular instillation solution"
+   },
+   {
+      "licenses": [{
+         "tradeName": "RX Diclofenac Capsule",
+         "id": 100074,
+         "value": "RX Diclofenac Capsule Investigational Drug XJ"
+      }],
+      "genericName": "DICLOFENAC",
+      "dosageForm": {
+         "id": 2,
+         "value": "Capsule"
+      },
+      "name": "Diclofenac Capsules",
+      "ingredients": [{
+         "id": 3572,
+         "value": "DICLOFENAC"
+      }],
+      "id": 100057,
+      "family": {
+         "id": 100037,
+         "value": "Rx AUP Product Family"
+      },
+      "value": "Diclofenac Capsules Capsule"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Inv Drug METFORMIN (0431 FILM COATED TABLET)",
+            "id": 100306,
+            "value": "Inv Drug METFORMIN (0431 FILM COATED TABLET) Investigational Drug 043112 US"
+         },
+         {
+            "tradeName": "Rx METFORMIN",
+            "id": 100385,
+            "value": "Rx METFORMIN Investigational Drug 043112 PE"
+         }
+      ],
+      "genericName": "METFORMIN (0431 FILM COATED TABLET STUDY)",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "METFORMIN (0431 FILM COATED TABLET STUDY)",
+      "ingredients": [{
+         "id": 10260101,
+         "value": "CRATAEGUS LAEVIGATA EXTRACT"
+      }],
+      "id": 100258,
+      "family": {
+         "id": 100147,
+         "value": "Rx EXTERNAL-METFORMIN"
+      },
+      "value": "METFORMIN (0431 FILM COATED TABLET STUDY) Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx B KEYTRUDA",
+            "id": 100314,
+            "value": "Rx B KEYTRUDA Investigational Vaccine GB"
+         },
+         {
+            "tradeName": "Rx B KEYTRUDA",
+            "id": 100312,
+            "value": "Rx B KEYTRUDA Investigational Vaccine US"
+         },
+         {
+            "tradeName": "Rx B KEYTRUDA",
+            "id": 100315,
+            "value": "Rx B KEYTRUDA Marketed Vaccine GB"
+         },
+         {
+            "tradeName": "Rx B KEYTRUDA",
+            "id": 100313,
+            "value": "Rx B KEYTRUDA Marketed Vaccine US"
+         }
+      ],
+      "genericName": "Blinded Pembrolizumab",
+      "dosageForm": {
+         "id": 276,
+         "value": "Solution for injection"
+      },
+      "name": "Rx Blinded Pembrolizumab",
+      "ingredients": [{
+         "id": 104742,
+         "value": "pembrolizumab"
+      }],
+      "id": 100264,
+      "family": {
+         "id": 100152,
+         "value": "Rx 3075 INJECTION"
+      },
+      "value": "Rx Blinded Pembrolizumab Solution for injection"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx E2B-R3 Test License",
+            "id": 100072,
+            "value": "Rx E2B-R3 Test License Marketed Drug US"
+         },
+         {
+            "tradeName": "Test 1",
+            "id": 100266,
+            "value": "Test 1 Marketed Drug 1111 US"
+         }
+      ],
+      "genericName": "CALCIUM",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "Rx Calcium Test Product Name of Rx E2B-R3 Product Family exceeding 70 characters limit for the CSV file",
+      "ingredients": [
+         {
+            "id": 4315,
+            "value": "CALCIUM"
+         },
+         {
+            "id": 5204,
+            "value": "CALCIUM HYDROXIDE"
+         }
+      ],
+      "id": 100055,
+      "family": {
+         "id": 100036,
+         "value": "Rx E2B-R3 Product Family"
+      },
+      "value": "Rx Calcium Test Product Name of Rx E2B-R3 Product Family exceeding 70 characters limit for the CSV file Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx IPILIMUMAB",
+            "id": 100317,
+            "value": "Rx IPILIMUMAB Investigational Vaccine GB"
+         },
+         {
+            "tradeName": "Rx IPILIMUMAB",
+            "id": 100316,
+            "value": "Rx IPILIMUMAB Investigational Vaccine US"
+         },
+         {
+            "tradeName": "Rx IPILIMUMAB",
+            "id": 100318,
+            "value": "Rx IPILIMUMAB Marketed Vaccine GB"
+         },
+         {
+            "tradeName": "Rx IPILIMUMAB",
+            "id": 100319,
+            "value": "Rx IPILIMUMAB Marketed Vaccine US"
+         }
+      ],
+      "genericName": "IPILIMUMAB",
+      "dosageForm": {
+         "id": 276,
+         "value": "Solution for injection"
+      },
+      "name": "Rx IPILIMUMAB (3075 SOLUTION FOR INJECTION STUDY)",
+      "ingredients": [{
+         "id": 10309601,
+         "value": "IPILIMUMAB"
+      }],
+      "id": 100265,
+      "family": {
+         "id": 100153,
+         "value": "Rx EXTERNAL-IPILIMUMAB"
+      },
+      "value": "Rx IPILIMUMAB (3075 SOLUTION FOR INJECTION STUDY) Solution for injection"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx Measles 02",
+            "id": 100301,
+            "value": "Rx Measles 02 Investigational Vaccine US"
+         },
+         {
+            "tradeName": "Rx Measles 02",
+            "id": 100302,
+            "value": "Rx Measles 02 Marketed Vaccine US"
+         }
+      ],
+      "genericName": "Rx V205C MEASLES, MUMPS, AND RUBELLA",
+      "dosageForm": {
+         "id": 106,
+         "value": "Injection, solution"
+      },
+      "name": "Rx MEASLES, MUMPS, AND RUBELLA (WISTAR RA 27-3) VIRUS VACC, LIVE",
+      "ingredients": [{
+         "id": 3709,
+         "value": "HYDROCORTISONE BUTYRATE"
+      }],
+      "id": 100256,
+      "family": {
+         "id": 100146,
+         "value": "Rx V205C Injection"
+      },
+      "value": "Rx MEASLES, MUMPS, AND RUBELLA (WISTAR RA 27-3) VIRUS VACC, LIVE Injection, solution"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "PROQUAD",
+            "id": 100373,
+            "value": "PROQUAD Investigational Vaccine Rx M02 DE"
+         },
+         {
+            "tradeName": "PROQUAD",
+            "id": 100375,
+            "value": "PROQUAD Marketed Vaccine Rx M02 IL"
+         },
+         {
+            "tradeName": "Rx Measles",
+            "id": 100299,
+            "value": "Rx Measles Investigational Vaccine Rx M01 US"
+         },
+         {
+            "tradeName": "Rx Measles",
+            "id": 100305,
+            "value": "Rx Measles Investigational Vaccine Rx M01 US"
+         },
+         {
+            "tradeName": "Rx Measles",
+            "id": 100304,
+            "value": "Rx Measles Investigational Vaccine Rx M01 US"
+         },
+         {
+            "tradeName": "Rx Measles",
+            "id": 100303,
+            "value": "Rx Measles Marketed Vaccine Rx M02 US"
+         },
+         {
+            "tradeName": "Rx Measles",
+            "id": 100300,
+            "value": "Rx Measles Marketed Vaccine Rx M02 US"
+         }
+      ],
+      "genericName": "Rx MEASLES,MUMPS,RUBELLA AND VARICELLA(OKA-MERCK)VIRUS VACC LIVE",
+      "dosageForm": {
+         "id": 5,
+         "value": "Injection"
+      },
+      "name": "Rx MEASLES,MUMPS,RUBELLA AND VARICELLA(OKA-MERCK)VIRUS VACC LIVE",
+      "ingredients": [{
+         "id": 3709,
+         "value": "HYDROCORTISONE BUTYRATE"
+      }],
+      "id": 100255,
+      "family": {
+         "id": 100145,
+         "value": "Rx V221 Injection"
+      },
+      "value": "Rx MEASLES,MUMPS,RUBELLA AND VARICELLA(OKA-MERCK)VIRUS VACC LIVE Injection"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx PEGINTERFERON ALFA-2B",
+            "id": 100322,
+            "value": "Rx PEGINTERFERON ALFA-2B Investigational Vaccine GB"
+         },
+         {
+            "tradeName": "Rx PEGINTERFERON ALFA-2B",
+            "id": 100321,
+            "value": "Rx PEGINTERFERON ALFA-2B Investigational Vaccine US"
+         },
+         {
+            "tradeName": "Rx PEGINTERFERON ALFA-2B",
+            "id": 100320,
+            "value": "Rx PEGINTERFERON ALFA-2B Marketed Vaccine US"
+         }
+      ],
+      "genericName": "PEGINTERFERON ALFA-2B",
+      "dosageForm": {
+         "id": 277,
+         "value": "Solution for injection/infusion"
+      },
+      "name": "Rx PEGINTERFERON ALFA-2B",
+      "ingredients": [{
+         "id": 10270801,
+         "value": "PEGINTERFERON ALFA-2B"
+      }],
+      "id": 100266,
+      "family": {
+         "id": 100154,
+         "value": "Rx 4031 INJECTION"
+      },
+      "value": "Rx PEGINTERFERON ALFA-2B Solution for injection/infusion"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx Paracetamol",
+            "id": 100044,
+            "value": "Rx Paracetamol Investigational Drug US"
+         },
+         {
+            "tradeName": "Rx Paracetamol",
+            "id": 100045,
+            "value": "Rx Paracetamol Investigational Drug XJ"
+         }
+      ],
+      "genericName": "Rx_Ingredient",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "Rx Paxmol",
+      "ingredients": [{
+         "id": 104729,
+         "value": "Rx_Ingredient"
+      }],
+      "id": 100038,
+      "family": {
+         "id": 100025,
+         "value": "RxLogix IND Family"
+      },
+      "value": "Rx Paxmol Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx KEYTRUDA IV",
+            "id": 100384,
+            "value": "Rx KEYTRUDA IV Investigational Drug AU"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA IV",
+            "id": 100310,
+            "value": "Rx KEYTRUDA IV Investigational Vaccine GB"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA IV",
+            "id": 100331,
+            "value": "Rx KEYTRUDA IV Investigational Vaccine IL"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA",
+            "id": 100308,
+            "value": "Rx KEYTRUDA Investigational Vaccine US"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MV",
+            "id": 100332,
+            "value": "Rx KEYTRUDA MV Marketed Vaccine SG"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MV",
+            "id": 100309,
+            "value": "Rx KEYTRUDA MV Marketed Vaccine US"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA",
+            "id": 100311,
+            "value": "Rx KEYTRUDA Marketed Vaccine GB"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA",
+            "id": 100327,
+            "value": "Rx KEYTRUDA Marketed Vaccine IL"
+         }
+      ],
+      "genericName": "pembrolizumab",
+      "dosageForm": {
+         "id": 276,
+         "value": "Solution for injection"
+      },
+      "name": "Rx Pembrolizumab",
+      "ingredients": [{
+         "id": 104742,
+         "value": "pembrolizumab"
+      }],
+      "id": 100263,
+      "family": {
+         "id": 100152,
+         "value": "Rx 3075 INJECTION"
+      },
+      "value": "Rx Pembrolizumab Solution for injection"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100388,
+            "value": "Rx KEYTRUDA MD Investigational Drug DE"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100379,
+            "value": "Rx KEYTRUDA MD Investigational Drug FR"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100361,
+            "value": "Rx KEYTRUDA MD Marketed Drug FR"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100353,
+            "value": "Rx KEYTRUDA MD Marketed Drug GB"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100359,
+            "value": "Rx KEYTRUDA MD Marketed Drug US"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100360,
+            "value": "Rx KEYTRUDA MD Marketed Drug US"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100358,
+            "value": "Rx KEYTRUDA MD Marketed Drug US"
+         },
+         {
+            "tradeName": "Rx KEYTRUDA MD",
+            "id": 100350,
+            "value": "Rx KEYTRUDA MD Marketed Drug US"
+         }
+      ],
+      "genericName": "pembrolizumab",
+      "dosageForm": {
+         "id": 276,
+         "value": "Solution for injection"
+      },
+      "name": "Rx Pembrolizumab drug",
+      "ingredients": [{
+         "id": 104742,
+         "value": "pembrolizumab"
+      }],
+      "id": 100273,
+      "family": {
+         "id": 100152,
+         "value": "Rx 3075 INJECTION"
+      },
+      "value": "Rx Pembrolizumab drug Solution for injection"
+   },
+   {
+      "licenses": [{
+         "tradeName": "RX LOGIX",
+         "id": 100250,
+         "value": "RX LOGIX Marketed Device 9845255699 IN"
+      }],
+      "genericName": "GABAPENTIN",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "Rx Placebo",
+      "ingredients": [{
+         "id": 2382,
+         "value": "GABAPENTIN"
+      }],
+      "id": 100190,
+      "family": {
+         "id": 100128,
+         "value": "Rx Placebo Family"
+      },
+      "value": "Rx Placebo Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx METFORMIN HYDROCHLORIDE",
+            "id": 100386,
+            "value": "Rx METFORMIN HYDROCHLORIDE Investigational Drug GB"
+         },
+         {
+            "tradeName": "Rx METFORMIN HYDROCHLORIDE",
+            "id": 100307,
+            "value": "Rx METFORMIN HYDROCHLORIDE Investigational Drug NDA 4511 US"
+         }
+      ],
+      "genericName": "SITAGLIPTIN PHOSPHATE (+) METFORMIN HYDROCHLORIDE",
+      "dosageForm": {
+         "id": 24,
+         "value": "Chewable Tablet"
+      },
+      "name": "Rx SITAGLIPTIN PHOSPHATE (+) METFORMIN HYDROCHLORIDE",
+      "ingredients": [
+         {
+            "id": 10260101,
+            "value": "CRATAEGUS LAEVIGATA EXTRACT"
+         },
+         {
+            "id": 704,
+            "value": "METADOXINE"
+         }
+      ],
+      "id": 100262,
+      "family": {
+         "id": 100151,
+         "value": "Rx 0431A ORAL"
+      },
+      "value": "Rx SITAGLIPTIN PHOSPHATE (+) METFORMIN HYDROCHLORIDE Chewable Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "Rx Janvia IV",
+            "id": 100364,
+            "value": "Rx Janvia IV Investigational Drug IVJan451 US"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100362,
+            "value": "Rx Janvia Investigational Drug IV Jan451 CA"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100378,
+            "value": "Rx Janvia Investigational Drug MD Jan451 BR"
+         },
+         {
+            "tradeName": "Rx Janvia M",
+            "id": 100363,
+            "value": "Rx Janvia M Marketed Drug MD Jan451 US"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100377,
+            "value": "Rx Janvia Marketed Drug MD Jan451 BR"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100387,
+            "value": "Rx Janvia Marketed Drug MD Jan451 DE"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100376,
+            "value": "Rx Janvia Marketed Drug MD Jan451 JP"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100357,
+            "value": "Rx Janvia Marketed Drug MD Jan451 US"
+         },
+         {
+            "tradeName": "Rx Janvia",
+            "id": 100374,
+            "value": "Rx Janvia Marketed Drug MD Jan451 US"
+         }
+      ],
+      "genericName": "CRATAEGUS",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "Rx SITAGLIPTIN PHOSPHATE",
+      "ingredients": [{
+         "id": 10260101,
+         "value": "CRATAEGUS LAEVIGATA EXTRACT"
+      }],
+      "id": 100257,
+      "family": {
+         "id": 100148,
+         "value": "Rx 0431 ORAL"
+      },
+      "value": "Rx SITAGLIPTIN PHOSPHATE Tablet"
+   },
+   {
+      "licenses": [{
+         "tradeName": "TEST Rx LongProduct_V12345",
+         "id": 100243,
+         "value": "TEST Rx LongProduct_V12345 Marketed Drug US"
+      }],
+      "genericName": "TEST Rx LongProduct_V1234567891011121314151617181920 Acrivastine and Pseudoephedrine Cosmatic Inhaler Drug",
+      "dosageForm": {
+         "id": 6,
+         "value": "Infusion"
+      },
+      "name": "TEST Rx LongProduct_V1234567891011121314151617181920 Drug",
+      "ingredients": [
+         {
+            "id": 5968,
+            "value": "POTASSIUM BICARBONATE"
+         },
+         {
+            "id": 6259,
+            "value": "HYDROCODONE"
+         }
+      ],
+      "id": 100183,
+      "family": {
+         "id": 100100,
+         "value": "Rx Product Family VY6"
+      },
+      "value": "TEST Rx LongProduct_V1234567891011121314151617181920 Drug Infusion"
+   },
+   {
+      "licenses": [{
+         "tradeName": "RX",
+         "id": 100261,
+         "value": "RX Investigational Drug US"
+      }],
+      "genericName": "PARACETAMOL",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "TEST_PROD_RR",
+      "ingredients": [
+         {
+            "id": 1953,
+            "value": "MOEXIPRIL HYDROCHLORIDE"
+         },
+         {
+            "id": 10177801,
+            "value": "SAFINAMIDE"
+         },
+         {
+            "id": 5856,
+            "value": "DIAZEPAM"
+         }
+      ],
+      "id": 100198,
+      "family": {
+         "id": 100021,
+         "value": "Rxlogix Family"
+      },
+      "value": "TEST_PROD_RR Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "RX LOGIX 09",
+            "id": 100251,
+            "value": "RX LOGIX 09 Marketed Device 8951489246 US"
+         },
+         {
+            "tradeName": "RX LOGIX",
+            "id": 100250,
+            "value": "RX LOGIX Marketed Device 9845255699 IN"
+         }
+      ],
+      "genericName": "PARACETAMOL",
+      "dosageForm": {
+         "id": 1,
+         "value": "Tablet"
+      },
+      "name": "Test Drug RX",
+      "ingredients": [{
+         "id": 6363,
+         "value": "PARACETAMOL"
+      }],
+      "id": 100189,
+      "family": {
+         "id": 100127,
+         "value": "Test Product Family RX"
+      },
+      "value": "Test Drug RX Tablet"
+   },
+   {
+      "licenses": [
+         {
+            "tradeName": "RX 009",
+            "id": 100253,
+            "value": "RX 009 Investigational Drug 998081534358 JP"
+         },
+         {
+            "tradeName": "US LICENSE",
+            "id": 100259,
+            "value": "US LICENSE Investigational Drug US"
+         }
+      ],
+      "genericName": "PARACETAMOL",
+      "dosageForm": {
+         "id": 2,
+         "value": "Capsule"
+      },
+      "name": "Test RX 001",
+      "ingredients": [{
+         "id": 6363,
+         "value": "PARACETAMOL"
+      }],
+      "id": 100192,
+      "family": {
+         "id": 100127,
+         "value": "Test Product Family RX"
+      },
+      "value": "Test RX 001 Capsule"
+   }
+]

@@ -1,0 +1,526 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10077419,
+                        "type": "llt",
+                        "value": "Head CT"
+                     }],
+                     "id": 10054003,
+                     "type": "pt",
+                     "value": "Computerised tomogram head"
+                  }],
+                  "id": 10007950,
+                  "type": "hlt",
+                  "value": "Central nervous system imaging procedures"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10057871,
+                           "type": "llt",
+                           "value": "Head lag abnormal"
+                        }],
+                        "id": 10057871,
+                        "type": "pt",
+                        "value": "Head lag abnormal"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10057872,
+                           "type": "llt",
+                           "value": "Head lag normal"
+                        }],
+                        "id": 10057872,
+                        "type": "pt",
+                        "value": "Head lag normal"
+                     }
+                  ],
+                  "id": 10029285,
+                  "type": "hlt",
+                  "value": "Neurologic diagnostic procedures"
+               }
+            ],
+            "id": 10029295,
+            "type": "hlgt",
+            "value": "Neurological, special senses and psychiatric investigations"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10019206,
+                        "type": "llt",
+                        "value": "Head X-ray"
+                     }],
+                     "id": 10040964,
+                     "type": "pt",
+                     "value": "Skull X-ray"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10019207,
+                        "type": "llt",
+                        "value": "Head X-ray abnormal"
+                     }],
+                     "id": 10040965,
+                     "type": "pt",
+                     "value": "Skull X-ray abnormal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10019208,
+                        "type": "llt",
+                        "value": "Head X-ray normal"
+                     }],
+                     "id": 10040966,
+                     "type": "pt",
+                     "value": "Skull X-ray normal"
+                  }
+               ],
+               "id": 10028386,
+               "type": "hlt",
+               "value": "Musculoskeletal and soft tissue imaging procedures"
+            }],
+            "id": 10028387,
+            "type": "hlgt",
+            "value": "Musculoskeletal and soft tissue investigations (excl enzyme tests)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10060025,
+                        "type": "llt",
+                        "value": "Head circumference"
+                     }],
+                     "id": 10060025,
+                     "type": "pt",
+                     "value": "Head circumference"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10060043,
+                        "type": "llt",
+                        "value": "Head circumference abnormal"
+                     }],
+                     "id": 10060043,
+                     "type": "pt",
+                     "value": "Head circumference abnormal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10060042,
+                        "type": "llt",
+                        "value": "Head circumference normal"
+                     }],
+                     "id": 10060042,
+                     "type": "pt",
+                     "value": "Head circumference normal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10057870,
+                        "type": "llt",
+                        "value": "Head lag"
+                     }],
+                     "id": 10057870,
+                     "type": "pt",
+                     "value": "Head lag"
+                  }
+               ],
+               "id": 10071941,
+               "type": "hlt",
+               "value": "Physical examination procedures and organ system status"
+            }],
+            "id": 10071940,
+            "type": "hlgt",
+            "value": "Physical examination and organ system status topics"
+         }
+      ],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10077191,
+                  "type": "llt",
+                  "value": "Head and eye gaze deviation"
+               }],
+               "id": 10056696,
+               "type": "pt",
+               "value": "Gaze palsy"
+            }],
+            "id": 10030059,
+            "type": "hlt",
+            "value": "Ocular nerve and muscle disorders"
+         }],
+         "id": 10030061,
+         "type": "hlgt",
+         "value": "Ocular neuromuscular disorders"
+      }],
+      "id": 10015919,
+      "type": "soc",
+      "value": "Eye disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10067821,
+                     "type": "llt",
+                     "value": "Head and neck cancer"
+                  }],
+                  "id": 10067821,
+                  "type": "pt",
+                  "value": "Head and neck cancer"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071540,
+                     "type": "llt",
+                     "value": "Head and neck cancer metastatic"
+                  }],
+                  "id": 10071540,
+                  "type": "pt",
+                  "value": "Head and neck cancer metastatic"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071539,
+                     "type": "llt",
+                     "value": "Head and neck cancer stage I"
+                  }],
+                  "id": 10071539,
+                  "type": "pt",
+                  "value": "Head and neck cancer stage I"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071538,
+                     "type": "llt",
+                     "value": "Head and neck cancer stage II"
+                  }],
+                  "id": 10071538,
+                  "type": "pt",
+                  "value": "Head and neck cancer stage II"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071537,
+                     "type": "llt",
+                     "value": "Head and neck cancer stage III"
+                  }],
+                  "id": 10071537,
+                  "type": "pt",
+                  "value": "Head and neck cancer stage III"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071536,
+                     "type": "llt",
+                     "value": "Head and neck cancer stage IV"
+                  }],
+                  "id": 10071536,
+                  "type": "pt",
+                  "value": "Head and neck cancer stage IV"
+               }
+            ],
+            "id": 10029105,
+            "type": "hlt",
+            "value": "Neoplasms malignant site unspecified NEC"
+         }],
+         "id": 10027655,
+         "type": "hlgt",
+         "value": "Miscellaneous and site unspecified neoplasms malignant and unspecified"
+      }],
+      "id": 10029104,
+      "type": "soc",
+      "value": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10019191,
+                  "type": "llt",
+                  "value": "Head banging"
+               }],
+               "id": 10019191,
+               "type": "pt",
+               "value": "Head banging"
+            }],
+            "id": 10042007,
+            "type": "hlt",
+            "value": "Stereotypies and automatisms"
+         }],
+         "id": 10008401,
+         "type": "hlgt",
+         "value": "Changes in physical activity"
+      }],
+      "id": 10037175,
+      "type": "soc",
+      "value": "Psychiatric disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10049505,
+                  "type": "llt",
+                  "value": "Head circumference increased neonatal"
+               }],
+               "id": 10028934,
+               "type": "pt",
+               "value": "Neonatal disorder"
+            }],
+            "id": 10010168,
+            "type": "hlt",
+            "value": "Newborn complications NEC"
+         }],
+         "id": 10028920,
+         "type": "hlgt",
+         "value": "Neonatal and perinatal conditions"
+      }],
+      "id": 10036585,
+      "type": "soc",
+      "value": "Pregnancy, puerperium and perinatal conditions"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019192,
+                     "type": "llt",
+                     "value": "Head cold"
+                  }],
+                  "id": 10047482,
+                  "type": "pt",
+                  "value": "Viral upper respiratory tract infection"
+               }],
+               "id": 10047465,
+               "type": "hlt",
+               "value": "Viral infections NEC"
+            }],
+            "id": 10047438,
+            "type": "hlgt",
+            "value": "Viral infectious disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10019197,
+                        "type": "llt",
+                        "value": "Head lice"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019199,
+                        "type": "llt",
+                        "value": "Head pediculosis"
+                     }
+                  ],
+                  "id": 10024424,
+                  "type": "pt",
+                  "value": "Lice infestation"
+               }],
+               "id": 10014143,
+               "type": "hlt",
+               "value": "Ectoparasitic infestations"
+            }],
+            "id": 10014142,
+            "type": "hlgt",
+            "value": "Ectoparasitic disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10061199,
+                        "type": "llt",
+                        "value": "Head deformity"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019193,
+                        "type": "llt",
+                        "value": "Head deformity NOS"
+                     }
+                  ],
+                  "id": 10061199,
+                  "type": "pt",
+                  "value": "Head deformity"
+               }],
+               "id": 10028378,
+               "type": "hlt",
+               "value": "Musculoskeletal and connective tissue deformities of skull, face and buccal cavity"
+            }],
+            "id": 10028377,
+            "type": "hlgt",
+            "value": "Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10064020,
+                     "type": "llt",
+                     "value": "Head posture abnormal"
+                  }],
+                  "id": 10036436,
+                  "type": "pt",
+                  "value": "Posture abnormal"
+               }],
+               "id": 10027688,
+               "type": "hlt",
+               "value": "Musculoskeletal and connective tissue signs and symptoms NEC"
+            }],
+            "id": 10028393,
+            "type": "hlgt",
+            "value": "Musculoskeletal and connective tissue disorders NEC"
+         }
+      ],
+      "id": 10028395,
+      "type": "soc",
+      "value": "Musculoskeletal and connective tissue disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10019194,
+                        "type": "llt",
+                        "value": "Head discomfort"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019195,
+                        "type": "llt",
+                        "value": "Head fullness"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10019200,
+                        "type": "llt",
+                        "value": "Head pressure"
+                     }
+                  ],
+                  "id": 10019194,
+                  "type": "pt",
+                  "value": "Head discomfort"
+               }],
+               "id": 10029306,
+               "type": "hlt",
+               "value": "Neurological signs and symptoms NEC"
+            }],
+            "id": 10029305,
+            "type": "hlgt",
+            "value": "Neurological disorders NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10019198,
+                     "type": "llt",
+                     "value": "Head pain"
+                  }],
+                  "id": 10019211,
+                  "type": "pt",
+                  "value": "Headache"
+               }],
+               "id": 10019233,
+               "type": "hlt",
+               "value": "Headaches NEC"
+            }],
+            "id": 10019231,
+            "type": "hlgt",
+            "value": "Headaches"
+         }
+      ],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10019196,
+                  "type": "llt",
+                  "value": "Head injury"
+               }],
+               "id": 10019196,
+               "type": "pt",
+               "value": "Head injury"
+            }],
+            "id": 10040759,
+            "type": "hlt",
+            "value": "Site specific injuries NEC"
+         }],
+         "id": 10022114,
+         "type": "hlgt",
+         "value": "Injuries NEC"
+      }],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   }
+]

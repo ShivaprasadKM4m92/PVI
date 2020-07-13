@@ -1,0 +1,8 @@
+GET /dns-query?dns=wPoBAAABAAAAAAABA3d3dwpnb29nbGVhcGlzA2NvbQAAAQABAAApEAAAAAAAAFEADABNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA HTTP/1.1
+Host: dns.google
+Connection: keep-alive
+Accept: application/dns-message
+Accept-Language: *
+User-Agent: Chrome
+Accept-Encoding: gzip, deflate, br
+

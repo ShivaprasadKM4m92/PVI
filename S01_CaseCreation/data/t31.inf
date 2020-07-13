@@ -1,0 +1,9 @@
+[t31]
+SnapshotXmlFile=snapshot_31.xml
+FileName1=t31.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIlCTJmg8PJK2aBEgsN541ADhIAGgAiABILDc5BTHoSABoAIgAaAA==?alt=proto
+Total=1
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t31_ResponseHeader.txt
+ContentType=text/plain

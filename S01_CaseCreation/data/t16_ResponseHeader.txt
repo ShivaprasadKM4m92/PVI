@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Wed, 24 Jun 2020 08:03:40 GMT
+ETag: "vendorUi/bootstrap/bootstrap.min-79b5346433d3bdf736aab2379a008083.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 9833
+Date: Mon, 13 Jul 2020 11:24:38 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+

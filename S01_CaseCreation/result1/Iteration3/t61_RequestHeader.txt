@@ -1,0 +1,10 @@
+GET /task/referenceData?_=1594639576726 HTTP/1.1
+Referer: http://10.100.22.228:8081/caseEntry/index?templateId=2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: 10.100.22.228:8081
+Cookie: AuthType=Database; SESSION=54057241-7ece-4898-bcc1-c4f9ce8b2223
+

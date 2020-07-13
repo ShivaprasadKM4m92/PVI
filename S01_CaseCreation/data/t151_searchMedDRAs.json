@@ -1,0 +1,266 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10048381,
+                           "type": "llt",
+                           "value": "Cough aggravated"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10011228,
+                           "type": "llt",
+                           "value": "Cough increased"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10073575,
+                           "type": "llt",
+                           "value": "Cough ineffective"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10011229,
+                           "type": "llt",
+                           "value": "Cough nonproductive"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10011230,
+                           "type": "llt",
+                           "value": "Cough resembling asthma"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10073576,
+                           "type": "llt",
+                           "value": "Cough weak"
+                        }
+                     ],
+                     "id": 10011224,
+                     "type": "pt",
+                     "value": "Cough"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10011225,
+                           "type": "llt",
+                           "value": "Cough decreased"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10011226,
+                           "type": "llt",
+                           "value": "Cough decresed"
+                        }
+                     ],
+                     "id": 10011225,
+                     "type": "pt",
+                     "value": "Cough decreased"
+                  }
+               ],
+               "id": 10011233,
+               "type": "hlt",
+               "value": "Coughing and associated symptoms"
+            }],
+            "id": 10038716,
+            "type": "hlgt",
+            "value": "Respiratory disorders NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10063076,
+                     "type": "llt",
+                     "value": "Cough variant asthma"
+                  }],
+                  "id": 10003553,
+                  "type": "pt",
+                  "value": "Asthma"
+               }],
+               "id": 10006484,
+               "type": "hlt",
+               "value": "Bronchospasm and obstruction"
+            }],
+            "id": 10006436,
+            "type": "hlgt",
+            "value": "Bronchial disorders (excl neoplasms)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10070488,
+                     "type": "llt",
+                     "value": "Upper-airway cough syndrome"
+                  }],
+                  "id": 10070488,
+                  "type": "pt",
+                  "value": "Upper-airway cough syndrome"
+               }],
+               "id": 10046313,
+               "type": "hlt",
+               "value": "Upper respiratory tract signs and symptoms"
+            }],
+            "id": 10079101,
+            "type": "hlgt",
+            "value": "Respiratory tract signs and symptoms"
+         }
+      ],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10011227,
+                  "type": "llt",
+                  "value": "Cough incontinence"
+               }],
+               "id": 10066218,
+               "type": "pt",
+               "value": "Stress urinary incontinence"
+            }],
+            "id": 10004995,
+            "type": "hlt",
+            "value": "Bladder and urethral symptoms"
+         }],
+         "id": 10046590,
+         "type": "hlgt",
+         "value": "Urinary tract signs and symptoms"
+      }],
+      "id": 10038359,
+      "type": "soc",
+      "value": "Renal and urinary disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10011231,
+                  "type": "llt",
+                  "value": "Cough suppression"
+               }],
+               "id": 10055120,
+               "type": "pt",
+               "value": "Antitussive therapy"
+            }],
+            "id": 10006412,
+            "type": "hlt",
+            "value": "Bronchial and pulmonary therapeutic procedures"
+         }],
+         "id": 10038737,
+         "type": "hlgt",
+         "value": "Respiratory tract therapeutic procedures"
+      }],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10073591,
+                     "type": "llt",
+                     "value": "Cough syncope"
+                  }],
+                  "id": 10042772,
+                  "type": "pt",
+                  "value": "Syncope"
+               }],
+               "id": 10013509,
+               "type": "hlt",
+               "value": "Disturbances in consciousness NEC"
+            }],
+            "id": 10029305,
+            "type": "hlgt",
+            "value": "Neurological disorders NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10076707,
+                     "type": "llt",
+                     "value": "Primary cough headache"
+                  }],
+                  "id": 10076707,
+                  "type": "pt",
+                  "value": "Primary cough headache"
+               }],
+               "id": 10019233,
+               "type": "hlt",
+               "value": "Headaches NEC"
+            }],
+            "id": 10019231,
+            "type": "hlgt",
+            "value": "Headaches"
+         }
+      ],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10047975,
+                     "type": "llt",
+                     "value": "Whooping cough due to bordetella parapertussis (B. parapertussis)"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10047976,
+                     "type": "llt",
+                     "value": "Whooping cough due to bordetella pertussis (B. pertussis)"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10047977,
+                     "type": "llt",
+                     "value": "Whooping cough due to other specified organism"
+                  }
+               ],
+               "id": 10034738,
+               "type": "pt",
+               "value": "Pertussis"
+            }],
+            "id": 10006024,
+            "type": "hlt",
+            "value": "Bordetella infections"
+         }],
+         "id": 10004018,
+         "type": "hlgt",
+         "value": "Bacterial infectious disorders"
+      }],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   }
+]

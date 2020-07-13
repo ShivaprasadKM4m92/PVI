@@ -1,0 +1,153 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10045272,
+                           "type": "llt",
+                           "value": "Typhoid"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045273,
+                           "type": "llt",
+                           "value": "Typhoid and paratyphoid fevers"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045275,
+                           "type": "llt",
+                           "value": "Typhoid fever"
+                        }
+                     ],
+                     "id": 10045275,
+                     "type": "pt",
+                     "value": "Typhoid fever"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10014863,
+                           "type": "llt",
+                           "value": "Enteric fever (not typhoid)"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033970,
+                           "type": "llt",
+                           "value": "Paratyphoid"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033971,
+                           "type": "llt",
+                           "value": "Paratyphoid fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033972,
+                           "type": "llt",
+                           "value": "Paratyphoid fever A"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033973,
+                           "type": "llt",
+                           "value": "Paratyphoid fever B"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033974,
+                           "type": "llt",
+                           "value": "Paratyphoid fever C"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033975,
+                           "type": "llt",
+                           "value": "Paratyphoid fever, unspecified"
+                        }
+                     ],
+                     "id": 10033971,
+                     "type": "pt",
+                     "value": "Paratyphoid fever"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10053197,
+                        "type": "llt",
+                        "value": "Gastroenteritis salmonella (non typhoid)"
+                     }],
+                     "id": 10017914,
+                     "type": "pt",
+                     "value": "Gastroenteritis salmonella"
+                  }
+               ],
+               "id": 10039438,
+               "type": "hlt",
+               "value": "Salmonella infections"
+            }],
+            "id": 10004018,
+            "type": "hlgt",
+            "value": "Bacterial infectious disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10045274,
+                     "type": "llt",
+                     "value": "Typhoid carrier"
+                  }],
+                  "id": 10045274,
+                  "type": "pt",
+                  "value": "Typhoid carrier"
+               }],
+               "id": 10021910,
+               "type": "hlt",
+               "value": "Infectious disorders carrier"
+            }],
+            "id": 10002252,
+            "type": "hlgt",
+            "value": "Ancillary infectious topics"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10035980,
+                  "type": "llt",
+                  "value": "Poisoning by typhoid and paratyphoid vaccine"
+               }],
+               "id": 10070863,
+               "type": "pt",
+               "value": "Toxicity to various agents"
+            }],
+            "id": 10035777,
+            "type": "hlt",
+            "value": "Poisoning and toxicity"
+         }],
+         "id": 10071947,
+         "type": "hlgt",
+         "value": "Exposures, chemical injuries and poisoning"
+      }],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   }
+]

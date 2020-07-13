@@ -1,0 +1,1 @@
+{"method":[{"id":1,"text":"Email"},{"id":2,"text":"Fax"},{"id":3,"text":"Letter"},{"id":4,"text":"Phone Call"}],"defaultValues":{"method":null},"emailDropdownId":1,"postalMailDropdownId":5,"fullPdfFileName":"generated_mail.pdf","pdfGenerationEnabled":false}

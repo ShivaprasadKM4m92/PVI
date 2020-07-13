@@ -1,0 +1,9 @@
+[t136]
+SnapshotXmlFile=snapshot_136.xml
+FileName1=t136.txt
+URL1=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIYCRY1L_zCk9_4EgsNWZtqXhIAGgAiABoA?alt=proto
+Total=1
+RequestHeaderFile=t136_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t136_ResponseHeader.txt
+ContentType=text/plain

@@ -1,0 +1,11 @@
+[t118]
+FileName1=t118.html
+URL1=http://10.100.22.228:8081/assets/vendor/documentViewerTemplates/copyOverlayTemplate.html?_=1594639576710
+Total=1
+RequestHeaderFile=t118_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t118_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_118.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t81]
+FileName1=t81.html
+URL1=http://10.100.22.228:8081/assets/vendor/documentViewerTemplates/overwriteOverlayTemplate.html?_=1594639551173
+Total=1
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_81.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

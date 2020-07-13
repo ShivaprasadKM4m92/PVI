@@ -1,0 +1,7 @@
+<ul class="icon-list">
+    {{#each priorities}}
+        <li>
+            <a href="#" class="{{classes}}" data-caseId="{{../caseId}}" data-priorityId="{{id}}">{{value}}</a>
+        </li>
+    {{/each}}
+</ul>

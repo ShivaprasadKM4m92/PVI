@@ -1,0 +1,61 @@
+<div class="browser-container row">
+
+    <div class="col-xs-4">
+        <label>Project Number</label>
+        <input data-field-name="project.description" id="projectNumber-study.id" class="searchField form-control" type="text">
+    </div>
+
+    <div class="col-xs-4">
+        <label>Study Number</label>
+        <input data-field-name="number" id="studyNumber-study.id" class="searchField form-control" type="text">
+    </div>
+
+    <div class="col-xs-4">
+        <label>Center</label>
+        <input data-field-name="centers.value" id="center-study.id" class="searchField form-control" type="text">
+    </div>
+
+</div>
+
+<div class="browser-container row">
+    <div class="col-xs-4">
+        <div class="list-group column-list-box" data-field-name="project.description"></div>
+    </div>
+
+    <div class="col-xs-4">
+        <div class="list-group column-list-box" data-field-name="number"></div>
+    </div>
+
+    <div class="col-xs-4" >
+        <div class="list-group column-list-box" data-field-name="centers.value"></div>
+    </div>
+</div>
+
+<div class="browser-container row selected-value-pane">
+    <div class="col-xs-1">
+        <label>Selected:</label>
+    </div>
+    <div class="col-xs-10">
+
+        <div class="row">
+            <div class="col-xs-3">
+                <label>Project Number</label>
+            </div>
+            <div class="col-xs-9 selected-value-field" data-field-name="project.description"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-3">
+                <label>Study Number</label>
+            </div>
+            <div class="col-xs-9 selected-value-field" data-field-name="number"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-3">
+                <label>Center</label>
+            </div>
+            <div class="col-xs-9 selected-value-field" data-field-name="centers.value"></div>
+        </div>
+    </div>
+</div>

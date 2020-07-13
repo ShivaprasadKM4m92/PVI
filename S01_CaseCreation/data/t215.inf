@@ -1,0 +1,11 @@
+[t215]
+FileName1=t215_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=cold&_=1594639576809
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_215.xml
+RequestHeaderFile=t215_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t215_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

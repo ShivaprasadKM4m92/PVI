@@ -1,0 +1,11 @@
+[t175]
+FileName1=t175_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=dia&_=1594639576772
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_175.xml
+RequestHeaderFile=t175_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t175_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

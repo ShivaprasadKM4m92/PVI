@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+    
+    <title>Login</title>
+    <link rel="stylesheet" href="/assets/vendorUi/bootstrap.min.css"/>
+    <link rel="stylesheet" href="/assets/login-17e4cb116ee46711bb739b7018d00771.css"/>
+    <link rel="stylesheet" href="/assets/components.css"/>
+    <link rel="stylesheet" href="/assets/vendorUi/icons.css"/>
+    <link rel="stylesheet" href="/assets/bootstrap-c5ae98cdc147f655f96564c4340000c4.css"/>
+</head>
+
+<body>
+<div class="container">
+    <div id="loginStyle">
+        <div id="loginTable" class="">
+            <div id="loginHeader">
+                <div class="pvLogo">
+                    <img src="/assets/pvi_logo-3b00491e90ab9196bd3d5429e905d856.png" class="loginLogo" alt="PV Intake"/>
+                </div>
+
+                <div class="header-lbl">
+                    Log in
+                </div>
+            </div>
+
+            <form action="/login/authenticate" method="POST" id="loginForm" class="cssform"
+                  autocomplete="false" role="presentation">
+
+                <div id="loginUserContainer" class="">
+                    <input type="text" name="username" id="username" class="loginFieldUser"
+                           placeholder="Username"
+                           autofocus="">
+                </div>
+
+                <div id="loginPassContainer">
+                    <input type="password" name="password" id="password"
+                           class="loginFieldPass" placeholder="Password" autofocus="">
+                </div>
+
+                <div id="loginFooter" class="loginFooter text-info">
+                    <input type="hidden" name="callBackUrl" value="/" id="callBackUrl" />
+                    <input type="submit" id="loginSubmit" value="Log in"/>
+
+                    <a href="/password/forgetPassword?callBackUrl=%2F" style="margin-left: 20px">
+                        Forgot Password?
+                    </a>
+                </div>
+
+                <div class="text-center">
+                    <div class="login_message"><em>This is a restricted application. Anyone gaining unauthorized access will be prosecuted.</em></div>
+                </div>
+            </form>
+
+            
+        </div>
+    </div>
+</div>
+
+<script>
+    (function () {
+        document.forms['loginForm'].elements['username'].focus();
+    })();
+</script>
+<script type="text/javascript" src="/assets/vendorUi/jquery/jquery-fdb24ba38c94d04e948de967076c64aa.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/vendorUi/bootstrap/bootstrap.min-79b5346433d3bdf736aab2379a008083.js" type="text/javascript"></script>
+<script type="text/javascript" src="/assets/common/jquery.core-2521768e514d3a431ddca828a1bebd3c.js" type="text/javascript"></script>
+<!-- Notification js -->
+<script type="text/javascript" src="/assets/vendorUi/notifyjs/dist/notify.min-a1134657dba6e98914066f2530604e68.js" ></script>
+<script type="text/javascript" src="/assets/vendorUi/notifications/notify-metro-3463085bfd0a7cac9f983d075b271bca.js" ></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#loginForm").attr("autocomplete", "off");
+        $("#username").attr("autocomplete", "off");
+        $("#password").attr("autocomplete", "off");
+        $('#password').bind("cut copy paste", function (e) {
+            e.preventDefault();
+        });
+    });
+</script>
+</body>
+</html>

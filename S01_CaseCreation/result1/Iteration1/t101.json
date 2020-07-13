@@ -1,0 +1,428 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10016558,
+                           "type": "llt",
+                           "value": "Fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016559,
+                           "type": "llt",
+                           "value": "Fever chills"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016563,
+                           "type": "llt",
+                           "value": "Fever of unknown origin"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10073718,
+                           "type": "llt",
+                           "value": "Feverish"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10008532,
+                           "type": "llt",
+                           "value": "Chills & fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10008533,
+                           "type": "llt",
+                           "value": "Chills and fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10066565,
+                           "type": "llt",
+                           "value": "Chronic fever"
+                        }
+                     ],
+                     "id": 10037660,
+                     "type": "pt",
+                     "value": "Pyrexia"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016562,
+                        "type": "llt",
+                        "value": "Fever neonatal"
+                     }],
+                     "id": 10016562,
+                     "type": "pt",
+                     "value": "Fever neonatal"
+                  }
+               ],
+               "id": 10016286,
+               "type": "hlt",
+               "value": "Febrile disorders"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10016561,
+                     "type": "llt",
+                     "value": "Fever malignant"
+                  }],
+                  "id": 10020844,
+                  "type": "pt",
+                  "value": "Hyperthermia malignant"
+               }],
+               "id": 10005907,
+               "type": "hlt",
+               "value": "Body temperature altered"
+            }
+         ],
+         "id": 10005908,
+         "type": "hlgt",
+         "value": "Body temperature conditions"
+      }],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10049362,
+                           "type": "llt",
+                           "value": "Fever blister"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016564,
+                           "type": "llt",
+                           "value": "Fever sore"
+                        }
+                     ],
+                     "id": 10067152,
+                     "type": "pt",
+                     "value": "Oral herpes"
+                  }],
+                  "id": 10019972,
+                  "type": "hlt",
+                  "value": "Herpes viral infections"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10003085,
+                              "type": "llt",
+                              "value": "Arenaviral haemorrhagic fever"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10003086,
+                              "type": "llt",
+                              "value": "Arenaviral hemorrhagic fever"
+                           }
+                        ],
+                        "id": 10003085,
+                        "type": "pt",
+                        "value": "Arenaviral haemorrhagic fever"
+                     },
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10003090,
+                              "type": "llt",
+                              "value": "Argentine haemorrhagic fever"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10055229,
+                              "type": "llt",
+                              "value": "Argentine hemorrhagic fever"
+                           }
+                        ],
+                        "id": 10003090,
+                        "type": "pt",
+                        "value": "Argentine haemorrhagic fever"
+                     },
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10005932,
+                              "type": "llt",
+                              "value": "Bolivian haemorrhagic fever"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10055233,
+                              "type": "llt",
+                              "value": "Bolivian hemorrhagic fever"
+                           }
+                        ],
+                        "id": 10005932,
+                        "type": "pt",
+                        "value": "Bolivian haemorrhagic fever"
+                     }
+                  ],
+                  "id": 10003087,
+                  "type": "hlt",
+                  "value": "Arenaviral infections"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10003405,
+                           "type": "llt",
+                           "value": "Arthropod-borne haemorrhagic fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10003406,
+                           "type": "llt",
+                           "value": "Arthropod-borne haemorrhagic fever, unspecified"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10003407,
+                           "type": "llt",
+                           "value": "Arthropod-borne hemorrhagic fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10003408,
+                           "type": "llt",
+                           "value": "Arthropod-borne hemorrhagic fever, unspecified"
+                        }
+                     ],
+                     "id": 10061192,
+                     "type": "pt",
+                     "value": "Haemorrhagic fever"
+                  }],
+                  "id": 10047465,
+                  "type": "hlt",
+                  "value": "Viral infections NEC"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10010022,
+                           "type": "llt",
+                           "value": "Colorado tick fever"
+                        }],
+                        "id": 10010022,
+                        "type": "pt",
+                        "value": "Colorado tick fever"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10010685,
+                           "type": "llt",
+                           "value": "Congo-Crimean haemorrhagic fever"
+                        }],
+                        "id": 10010685,
+                        "type": "pt",
+                        "value": "Congo-Crimean haemorrhagic fever"
+                     }
+                  ],
+                  "id": 10057198,
+                  "type": "hlt",
+                  "value": "Arboviral infections NEC"
+               }
+            ],
+            "id": 10047438,
+            "type": "hlgt",
+            "value": "Viral infectious disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10004984,
+                     "type": "llt",
+                     "value": "Blackwater fever"
+                  }],
+                  "id": 10035500,
+                  "type": "pt",
+                  "value": "Plasmodium falciparum infection"
+               }],
+               "id": 10035499,
+               "type": "hlt",
+               "value": "Plasmodia infections"
+            }],
+            "id": 10037072,
+            "type": "hlgt",
+            "value": "Protozoal infectious disorders"
+         },
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10006045,
+                        "type": "llt",
+                        "value": "Boutonneuse fever"
+                     }],
+                     "id": 10006045,
+                     "type": "pt",
+                     "value": "Boutonneuse fever"
+                  }],
+                  "id": 10041743,
+                  "type": "hlt",
+                  "value": "Spotted fever disorders"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10007730,
+                        "type": "llt",
+                        "value": "Cat scratch fever"
+                     }],
+                     "id": 10007729,
+                     "type": "pt",
+                     "value": "Cat scratch disease"
+                  }],
+                  "id": 10044583,
+                  "type": "hlt",
+                  "value": "Bartonella infections"
+               }
+            ],
+            "id": 10039135,
+            "type": "hlgt",
+            "value": "Rickettsial infectious disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10016560,
+                  "type": "llt",
+                  "value": "Fever convulsions"
+               }],
+               "id": 10016284,
+               "type": "pt",
+               "value": "Febrile convulsion"
+            }],
+            "id": 10039912,
+            "type": "hlt",
+            "value": "Seizures and seizure disorders NEC"
+         }],
+         "id": 10039911,
+         "type": "hlgt",
+         "value": "Seizures (incl subtypes)"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10001724,
+                  "type": "llt",
+                  "value": "Allergic rhinitis (excl hay fever)"
+               }],
+               "id": 10039085,
+               "type": "pt",
+               "value": "Rhinitis allergic"
+            }],
+            "id": 10028736,
+            "type": "hlt",
+            "value": "Nasal congestion and inflammations"
+         }],
+         "id": 10046304,
+         "type": "hlgt",
+         "value": "Upper respiratory tract disorders (excl infections)"
+      }],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10050430,
+                  "type": "llt",
+                  "value": "Chronic post rheumatic fever arthropathy"
+               }],
+               "id": 10036030,
+               "type": "pt",
+               "value": "Polyarthritis"
+            }],
+            "id": 10003284,
+            "type": "hlt",
+            "value": "Arthropathies NEC"
+         }],
+         "id": 10023213,
+         "type": "hlgt",
+         "value": "Joint disorders"
+      }],
+      "id": 10028395,
+      "type": "soc",
+      "value": "Musculoskeletal and connective tissue disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10070372,
+                  "type": "llt",
+                  "value": "Colorado tick fever virus test positive"
+               }],
+               "id": 10070372,
+               "type": "pt",
+               "value": "Colorado tick fever virus test positive"
+            }],
+            "id": 10047490,
+            "type": "hlt",
+            "value": "Virus identification and serology"
+         }],
+         "id": 10027529,
+         "type": "hlgt",
+         "value": "Microbiology and serology investigations"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   }
+]

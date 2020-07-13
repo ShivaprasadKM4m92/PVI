@@ -1,0 +1,11 @@
+GET /assets/OpenSans-Regular-cffb686d7d2f4682df8342bd4d276e09.woff2?v=1.1.0 HTTP/1.1
+Host: 10.100.22.228:8081
+Connection: keep-alive
+Origin: http://10.100.22.228:8081
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: */*
+Referer: http://10.100.22.228:8081/assets/application-13a1ddae267b7b6a32d12cfb1ac98e43.css
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: SESSION=1fee1200-9441-42c5-a51a-b28afe88ecb4; AuthType=Database
+

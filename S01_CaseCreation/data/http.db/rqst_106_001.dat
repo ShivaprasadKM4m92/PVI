@@ -1,0 +1,4370 @@
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="priorityJustification"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="templateId"
+
+2
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="showAllAccordion"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="isDiffViewMode"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="lastSequenceNumber"
+
+123
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="medDraHierarchyMap"
+
+{"eventReportedReaction-15":{"lltcode":"10049362","isUpdated":true},"eventReportedReaction-42":{"lltcode":"10009867","isUpdated":true},"eventReportedReaction-43":{"lltcode":"10073576","isUpdated":true},"eventReportedReaction-44":{"lltcode":"10019215","isUpdated":true},"eventReportedReaction-45":{"lltcode":"10045275","isUpdated":true},"testName-16":{"lltcode":"10000039","isUpdated":true},"testName-46":{"lltcode":"10000041","isUpdated":true},"testName-49":{"lltcode":"10059365","isUpdated":true},"testName-52":{"lltcode":"10012310","isUpdated":true},"testName-55":{"lltcode":"10012313","isUpdated":true},"testName-58":{"lltcode":"","isUpdated":true},"testName-64":{"lltcode":"","isUpdated":true},"testName-61":{"lltcode":"","isUpdated":true},"testName-67":{"lltcode":"","isUpdated":true},"testName-70":{"lltcode":"10012601","isUpdated":true},"testName-73":{"lltcode":"10012603","isUpdated":true},"testName-76":{"lltcode":"10065987","isUpdated":true},"testName-79":{"lltcode":"10069944","isUpdated":true},"testName-82":{"lltcode":"10020942","isUpdated":true},"testName-85":{"lltcode":"10020934","isUpdated":true},"testName-88":{"lltcode":"10053975","isUpdated":true},"testName-91":{"lltcode":"10043460","isUpdated":true},"testName-94":{"lltcode":"10036009","isUpdated":true},"testName-97":{"lltcode":"10036010","isUpdated":true},"testName-100":{"lltcode":"10057871","isUpdated":true},"testName-103":{"lltcode":"10019208","isUpdated":true},"testName-106":{"lltcode":"10077191","isUpdated":true},"testName-109":{"lltcode":"10015903","isUpdated":true},"testName-112":{"lltcode":"10015906","isUpdated":true},"patientMedicalHistory-7":{"lltcode":"10059365","isUpdated":true},"patientMedicalHistory-115":{"lltcode":"10000041","isUpdated":true},"patientMedicalHistory-116":{"lltcode":"10000045","isUpdated":true},"patientMedicalHistory-117":{"lltcode":"10016559","isUpdated":true},"patientMedicalHistory-118":{"lltcode":"10016562","isUpdated":true},"patientMedicalHistory-119":{"lltcode":"10009867","isUpdated":true},"patientMedicalHistory-120":{"lltcode":"10019206","isUpdated":true},"patientMedicalHistory-121":{"lltcode":"10057870","isUpdated":true},"patientMedicalHistory-122":{"lltcode":"10065228","isUpdated":true},"patientMedicalHistory-123":{"lltcode":"10009855","isUpdated":true}}
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="priority.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.sourceType.id"
+
+3
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.classifications.id"
+
+56
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.receiptDate"
+
+12-Jul-2020
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.mostRecentReceiptDate"
+
+12-Jul-2020
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.centralReceiptDate"
+
+12-Jul-2020
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.customProperty.customDateField"
+
+12-Jul-2020
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="caseCountry.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="vendor.id"
+
+4461490
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.senderType.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.senderName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.senderEmail"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="dueDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="dueDateJustification"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="dueDateManual"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.localSubmissionDueDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.localSubmissionDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="versionComment"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="assignee.id"
+
+7350555
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.customProperty.nonInterventional"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.references[0].referenceType.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.references[0].internalRowId"
+
+2
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.references[0].id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.references[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.number"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.studyType.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.name"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.registrations[0].number"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.registrations[0].internalRowId"
+
+3
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.registrations[0].country.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.study.registrations[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].title"
+
+Reporter1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].internalRowId"
+
+4
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].givenName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].middleName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].familyName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].organization"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].department"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].street"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].city"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].state"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].postcode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].telephone"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].faxNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].email"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].country.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].qualification.id"
+
+4
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].contactTypes.id"
+
+2002
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].consentToDisclosePII.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].consentForFU.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.reporters[0].primary"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.reporters[0].primary"
+
+true
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].author"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].internalRowId"
+
+5
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].title"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].journal"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].year"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].vol"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].pages"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].literatureArticle.filePath"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].literatureArticle.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].literatureArticle.fileName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.literatures[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.name"
+
+pat001
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.patientId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.age.value"
+
+50 Years
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.age.id"
+
+5
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.age.ageType"
+
+PATIENT_ON_SET_AGE
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.gender.id"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.lmpDate.value"
+
+12-Jul-2020
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.lmpDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.weight"
+
+50
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.weightUnit.id"
+
+44
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.height"
+
+100
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.heightUnit.id"
+
+46
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.customProperty.patientCountry"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.customProperty.patientEthnicity"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.gpRecordNumber"
+
+50
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.specialistRecordNumber"
+
+50
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.hospitalRecordNumber"
+
+50
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.concomitantTherapies"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.additionalRelevantMedicalHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.autopsyDone"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].causeType.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].internalRowId"
+
+6
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.deathDetail.deathCauses[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].medicalHistory.reactionCoded"
+
+Politano-Leadbetter procedure
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].medicalHistory.lltCode"
+
+10059365
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].medicalHistory.codedWithSearchString"
+
+adb
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].medicalHistory.reportedReaction"
+
+adb
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].internalRowId"
+
+7
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[0].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].comments"
+
+Test1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].medicalHistory.reactionCoded"
+
+Abdo. bloating
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].medicalHistory.lltCode"
+
+10000041
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].medicalHistory.codedWithSearchString"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].medicalHistory.reportedReaction"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].internalRowId"
+
+115
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[1].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[1].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].medicalHistory.reactionCoded"
+
+Abdomen enlarged
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].medicalHistory.lltCode"
+
+10000045
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].medicalHistory.codedWithSearchString"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].medicalHistory.reportedReaction"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].internalRowId"
+
+116
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[2].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[2].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].medicalHistory.reactionCoded"
+
+Fever chills
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].medicalHistory.lltCode"
+
+10016559
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].medicalHistory.codedWithSearchString"
+
+fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].medicalHistory.reportedReaction"
+
+fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].internalRowId"
+
+117
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[3].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[3].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].medicalHistory.reactionCoded"
+
+Fever neonatal
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].medicalHistory.lltCode"
+
+10016562
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].medicalHistory.codedWithSearchString"
+
+fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].medicalHistory.reportedReaction"
+
+fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].internalRowId"
+
+118
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[4].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[4].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].medicalHistory.reactionCoded"
+
+Cold symptoms
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].medicalHistory.lltCode"
+
+10009867
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].medicalHistory.codedWithSearchString"
+
+cold
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].medicalHistory.reportedReaction"
+
+cold
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].internalRowId"
+
+119
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[5].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[5].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].medicalHistory.reactionCoded"
+
+Head X-ray
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].medicalHistory.lltCode"
+
+10019206
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].medicalHistory.codedWithSearchString"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].medicalHistory.reportedReaction"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].internalRowId"
+
+120
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[6].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[6].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].medicalHistory.reactionCoded"
+
+Head lag
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].medicalHistory.lltCode"
+
+10057870
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].medicalHistory.codedWithSearchString"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].medicalHistory.reportedReaction"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].internalRowId"
+
+121
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[7].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[7].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].medicalHistory.reactionCoded"
+
+Cold antibody present
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].medicalHistory.lltCode"
+
+10065228
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].medicalHistory.codedWithSearchString"
+
+cold
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].medicalHistory.reportedReaction"
+
+cold
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].internalRowId"
+
+122
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[8].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[8].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].medicalHistory.reactionCoded"
+
+Cold agglutinins present
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].medicalHistory.lltCode"
+
+10009855
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].medicalHistory.codedWithSearchString"
+
+cold
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].medicalHistory.reportedReaction"
+
+cold
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].internalRowId"
+
+123
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.patient.medicalHistories[9].familyHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].comments"
+
+Test
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.medicalHistories[9].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugName.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugName.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].internalRowId"
+
+8
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugIndication.reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugIndication.lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugIndication.codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugIndication.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugIndication.reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugReaction.reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugReaction.lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugReaction.codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugReaction.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].drugReaction.reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.patient.pastDrugHistories[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.name"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.age.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.age.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.weight"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.weightUnit.id"
+
+44
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.height"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.heightUnit.id"
+
+46
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.gender.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.lmpDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.lmpDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.additionalRelevantMedicalHistory"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].medicalHistory.reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].medicalHistory.lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].medicalHistory.codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].medicalHistory.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].medicalHistory.reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].internalRowId"
+
+9
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].continuing"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.medicalHistories[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugName.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugName.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].internalRowId"
+
+10
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugIndication.reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugIndication.lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugIndication.codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugIndication.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugIndication.reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugReaction.reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugReaction.lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugReaction.codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugReaction.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].drugReaction.reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.parent.pastDrugHistories[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].license.value"
+
+Rx CISPLATIN ID
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].license.id"
+
+100381
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].id"
+
+100271
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].internalRowId"
+
+11
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].dosageForm.id"
+
+480
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].role.id"
+
+29
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].obtainCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].authNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].authCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].authHolder.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].cumulativeDoseToFirstReaction.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].cumulativeDoseToFirstReaction.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].exposureGestationPeriod.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].exposureGestationPeriod.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].actionTaken.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].expirationDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].expirationDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].replacementRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].returnRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].refundRequested.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.products[0].blinded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].additionalDrugInfoNotes"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].customProperty.deviceUsed"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].customProperty.deviceOperator"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].customProperty.deviceAvailable"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].customProperty.deviceLocation"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].customProperty.deviceManufacturerDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].ingredients[0].name.id"
+
+3539
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].ingredients[0].internalRowId"
+
+21
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].ingredients[0].strength.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].ingredients[0].strength.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].ingredients[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].internalRowId"
+
+13
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].productIndications[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].dose.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].dose.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].internalRowId"
+
+14
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].frequency.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].batchNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].route.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].parentRoute.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].description"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[0].doseInformations[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].license.value"
+
+Rx CISPLATIN ID
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].license.id"
+
+100382
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].id"
+
+100271
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].internalRowId"
+
+22
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].dosageForm.id"
+
+480
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].role.id"
+
+29
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].obtainCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].authNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].authCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].authHolder.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].cumulativeDoseToFirstReaction.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].cumulativeDoseToFirstReaction.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].exposureGestationPeriod.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].exposureGestationPeriod.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].actionTaken.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].expirationDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].expirationDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].replacementRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].returnRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].refundRequested.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.products[1].blinded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].additionalDrugInfoNotes"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].customProperty.deviceUsed"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].customProperty.deviceOperator"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].customProperty.deviceAvailable"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].customProperty.deviceLocation"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].customProperty.deviceManufacturerDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].ingredients[0].name.id"
+
+3539
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].ingredients[0].internalRowId"
+
+26
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].ingredients[0].strength.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].ingredients[0].strength.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].ingredients[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].internalRowId"
+
+24
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].productIndications[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].dose.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].dose.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].internalRowId"
+
+25
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].frequency.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].batchNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].route.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].parentRoute.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].description"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[1].doseInformations[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].license.value"
+
+RX Diclofenac Capsule
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].license.id"
+
+100074
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].id"
+
+100057
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].internalRowId"
+
+27
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].dosageForm.id"
+
+2
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].role.id"
+
+29
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].obtainCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].authNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].authCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].authHolder.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].cumulativeDoseToFirstReaction.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].cumulativeDoseToFirstReaction.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].exposureGestationPeriod.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].exposureGestationPeriod.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].actionTaken.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].expirationDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].expirationDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].replacementRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].returnRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].refundRequested.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.products[2].blinded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].additionalDrugInfoNotes"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].customProperty.deviceUsed"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].customProperty.deviceOperator"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].customProperty.deviceAvailable"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].customProperty.deviceLocation"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].customProperty.deviceManufacturerDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].ingredients[0].name.id"
+
+3572
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].ingredients[0].internalRowId"
+
+31
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].ingredients[0].strength.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].ingredients[0].strength.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].ingredients[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].internalRowId"
+
+29
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].productIndications[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].dose.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].dose.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].internalRowId"
+
+30
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].frequency.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].batchNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].route.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].parentRoute.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].description"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[2].doseInformations[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].license.value"
+
+Rx B KEYTRUDA
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].license.id"
+
+100312
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].id"
+
+100264
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].internalRowId"
+
+32
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].dosageForm.id"
+
+276
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].role.id"
+
+29
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].obtainCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].authNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].authCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].authHolder.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].cumulativeDoseToFirstReaction.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].cumulativeDoseToFirstReaction.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].exposureGestationPeriod.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].exposureGestationPeriod.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].actionTaken.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].expirationDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].expirationDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].replacementRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].returnRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].refundRequested.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.products[3].blinded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].additionalDrugInfoNotes"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].customProperty.deviceUsed"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].customProperty.deviceOperator"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].customProperty.deviceAvailable"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].customProperty.deviceLocation"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].customProperty.deviceManufacturerDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].ingredients[0].name.id"
+
+104742
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].ingredients[0].internalRowId"
+
+36
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].ingredients[0].strength.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].ingredients[0].strength.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].ingredients[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].internalRowId"
+
+34
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].productIndications[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].dose.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].dose.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].internalRowId"
+
+35
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].frequency.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].batchNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].route.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].parentRoute.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].description"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[3].doseInformations[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].license.value"
+
+Rx IPILIMUMAB
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].license.id"
+
+100317
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].id"
+
+100265
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].internalRowId"
+
+37
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].dosageForm.id"
+
+276
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].role.id"
+
+29
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].obtainCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].authNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].authCountry.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].authHolder.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].cumulativeDoseToFirstReaction.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].cumulativeDoseToFirstReaction.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].exposureGestationPeriod.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].exposureGestationPeriod.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].actionTaken.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].expirationDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].expirationDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].replacementRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].returnRequired.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].refundRequested.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.products[4].blinded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].additionalDrugInfoNotes"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].customProperty.deviceUsed"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].customProperty.deviceOperator"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].customProperty.deviceAvailable"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].customProperty.deviceLocation"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].customProperty.deviceManufacturerDate"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].ingredients[0].name.id"
+
+10309601
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].ingredients[0].internalRowId"
+
+41
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].ingredients[0].strength.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].ingredients[0].strength.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].ingredients[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].internalRowId"
+
+39
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].productIndications[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].dose.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].dose.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].internalRowId"
+
+40
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].frequency.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].batchNumber"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].route.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].parentRoute.idOrValue"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].description"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.products[4].doseInformations[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].reportedReaction"
+
+Fever 
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].lltCode"
+
+10049362
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].codedWithSearchString"
+
+Fever 
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].internalRowId"
+
+15
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].reportedLanguage.id"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].reactionCoded"
+
+Fever blister
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].highlightedByReporter.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].outcome.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].medicallyConfirmed.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].country.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].hospitalizationStartDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].hospitalizationStartDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].hospitalizationEndDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].hospitalizationEndDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].reportedReaction"
+
+Cold 
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].lltCode"
+
+10009867
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].codedWithSearchString"
+
+Cold 
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].internalRowId"
+
+42
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].reportedLanguage.id"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].reactionCoded"
+
+Cold symptoms
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].highlightedByReporter.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].outcome.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].medicallyConfirmed.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].country.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].hospitalizationStartDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].hospitalizationStartDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].hospitalizationEndDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].hospitalizationEndDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[1].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].reportedReaction"
+
+cough 
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].lltCode"
+
+10073576
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].codedWithSearchString"
+
+cough 
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].internalRowId"
+
+43
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].reportedLanguage.id"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].reactionCoded"
+
+Cough weak
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].highlightedByReporter.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].outcome.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].medicallyConfirmed.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].country.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].hospitalizationStartDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].hospitalizationStartDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].hospitalizationEndDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].hospitalizationEndDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[2].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].reportedReaction"
+
+headache
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].lltCode"
+
+10019215
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].codedWithSearchString"
+
+headache
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].internalRowId"
+
+44
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].reportedLanguage.id"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].reactionCoded"
+
+Headache dull
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].highlightedByReporter.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].outcome.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].medicallyConfirmed.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].country.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].hospitalizationStartDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].hospitalizationStartDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].hospitalizationEndDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].hospitalizationEndDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[3].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].reportedReaction"
+
+typhoid
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].lltCode"
+
+10045275
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].codedWithSearchString"
+
+typhoid
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].internalRowId"
+
+45
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].reportedLanguage.id"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].reactionCoded"
+
+Typhoid fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].highlightedByReporter.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].startDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].startDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].endDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].endDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].duration.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].duration.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].outcome.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].medicallyConfirmed.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].country.id"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].hospitalizationStartDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].hospitalizationStartDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].hospitalizationEndDate.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].hospitalizationEndDate.format"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.events[4].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].name.reactionCoded"
+
+Abd. pain
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].name.lltCode"
+
+10000039
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].name.codedWithSearchString"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].name.reportedReaction"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].internalRowId"
+
+16
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].internalRowId"
+
+17
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].reports[0].internalRowId"
+
+18
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[0].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[0].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].name.reactionCoded"
+
+Abdo. bloating
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].name.lltCode"
+
+10000041
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].name.codedWithSearchString"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].name.reportedReaction"
+
+abd
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].internalRowId"
+
+46
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].internalRowId"
+
+47
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].reports[0].internalRowId"
+
+48
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[1].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[1].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].name.reactionCoded"
+
+Politano-Leadbetter procedure
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].name.lltCode"
+
+10059365
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].name.codedWithSearchString"
+
+adb
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].name.reportedReaction"
+
+adb
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].internalRowId"
+
+49
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].internalRowId"
+
+50
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].reports[0].internalRowId"
+
+51
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[2].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[2].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].name.reactionCoded"
+
+Dengue fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].name.lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].name.codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].name.reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].internalRowId"
+
+52
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].internalRowId"
+
+53
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].reports[0].internalRowId"
+
+54
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[3].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[3].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].name.reactionCoded"
+
+Dengue hemorrhagic fever
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].name.lltCode"
+
+10012313
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].name.codedWithSearchString"
+
+den
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].name.reportedReaction"
+
+den
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].internalRowId"
+
+55
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].internalRowId"
+
+56
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].reports[0].internalRowId"
+
+57
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[4].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[4].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].name.reactionCoded"
+
+Diabetes mellitus
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].name.lltCode"
+
+10012601
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].name.codedWithSearchString"
+
+dia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].name.reportedReaction"
+
+dia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].internalRowId"
+
+70
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].internalRowId"
+
+71
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].reports[0].internalRowId"
+
+72
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[5].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[5].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].name.reactionCoded"
+
+Diabetes mellitus aggravated
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].name.lltCode"
+
+10012603
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].name.codedWithSearchString"
+
+Dia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].name.reportedReaction"
+
+Dia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].internalRowId"
+
+73
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].internalRowId"
+
+74
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].reports[0].internalRowId"
+
+75
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[6].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[6].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].name.reactionCoded"
+
+Hypaesthesia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].name.lltCode"
+
+10065987
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].name.codedWithSearchString"
+
+hyp
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].name.reportedReaction"
+
+hyp
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].internalRowId"
+
+76
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].internalRowId"
+
+77
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].reports[0].internalRowId"
+
+78
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[7].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[7].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].name.reactionCoded"
+
+Hyper HDL cholesterolaemia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].name.lltCode"
+
+10069944
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].name.codedWithSearchString"
+
+hyper
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].name.reportedReaction"
+
+hyper
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].internalRowId"
+
+79
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].internalRowId"
+
+80
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].reports[0].internalRowId"
+
+81
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[8].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[8].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].name.reactionCoded"
+
+Hypoalbuminaemia
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].name.lltCode"
+
+10020942
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].name.codedWithSearchString"
+
+Hypo
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].name.reportedReaction"
+
+Hypo
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].internalRowId"
+
+82
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].internalRowId"
+
+83
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].reports[0].internalRowId"
+
+84
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[9].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[9].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].name.reactionCoded"
+
+Hypoactivity
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].name.lltCode"
+
+10020934
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].name.codedWithSearchString"
+
+Hypo
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].name.reportedReaction"
+
+Hypo
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].internalRowId"
+
+85
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].internalRowId"
+
+86
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].reports[0].internalRowId"
+
+87
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[10].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[10].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].name.reactionCoded"
+
+Thoracic cavity drainage
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].name.lltCode"
+
+10053975
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].name.codedWithSearchString"
+
+tho
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].name.reportedReaction"
+
+tho
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].internalRowId"
+
+88
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].internalRowId"
+
+89
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].reports[0].internalRowId"
+
+90
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[11].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[11].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].name.reactionCoded"
+
+Thompson hip prosthesis
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].name.lltCode"
+
+10043460
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].name.codedWithSearchString"
+
+tho
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].name.reportedReaction"
+
+tho
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].internalRowId"
+
+91
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].internalRowId"
+
+92
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].reports[0].internalRowId"
+
+93
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[12].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[12].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].name.reactionCoded"
+
+Polio acute
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].name.lltCode"
+
+10036009
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].name.codedWithSearchString"
+
+poli
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].name.reportedReaction"
+
+poli
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].internalRowId"
+
+94
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].internalRowId"
+
+95
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].reports[0].internalRowId"
+
+96
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[13].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[13].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].name.reactionCoded"
+
+Polio-like paralysis
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].name.lltCode"
+
+10036010
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].name.codedWithSearchString"
+
+poli
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].name.reportedReaction"
+
+poli
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].internalRowId"
+
+97
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].internalRowId"
+
+98
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].reports[0].internalRowId"
+
+99
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[14].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[14].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].name.reactionCoded"
+
+Head lag abnormal
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].name.lltCode"
+
+10057871
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].name.codedWithSearchString"
+
+hea
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].name.reportedReaction"
+
+hea
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].internalRowId"
+
+100
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].internalRowId"
+
+101
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].reports[0].internalRowId"
+
+102
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[15].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[15].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].name.reactionCoded"
+
+Head X-ray normal
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].name.lltCode"
+
+10019208
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].name.codedWithSearchString"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].name.reportedReaction"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].internalRowId"
+
+103
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].internalRowId"
+
+104
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].reports[0].internalRowId"
+
+105
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[16].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[16].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].name.reactionCoded"
+
+Head and eye gaze deviation
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].name.lltCode"
+
+10077191
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].name.codedWithSearchString"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].name.reportedReaction"
+
+head
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].internalRowId"
+
+106
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].internalRowId"
+
+107
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].reports[0].internalRowId"
+
+108
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[17].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[17].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].name.reactionCoded"
+
+Eye abnormality
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].name.lltCode"
+
+10015903
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].name.codedWithSearchString"
+
+eye
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].name.reportedReaction"
+
+eye
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].internalRowId"
+
+109
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].internalRowId"
+
+110
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].reports[0].internalRowId"
+
+111
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[18].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[18].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].name.reactionCoded"
+
+Eye ache
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].name.lltCode"
+
+10015906
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].name.codedWithSearchString"
+
+eye
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].name.hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].name.reportedReaction"
+
+eye
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].internalRowId"
+
+112
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].normalLowHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].normalLow"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].normalHigh"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].internalRowId"
+
+113
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].unit.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].reports[0].date.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].reports[0].internalRowId"
+
+114
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].reports[0].result.value"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].reports[0].result.id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].reports[0].comments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.tests[19].reports[0].moreInfo"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.tests[19].reports[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.caseDescription"
+
+PV Intake cognitive AI technology enables organizations to make their end-to-end safety processes more streamlined with increased human efficiency & productivity at lower cost. It aids better case quality & proactive identification, evaluation &, minimization of risks...........................................
+PV Intake’s AI based solutions are based on patterns observed in large volumes of past data using Machine Learning (ML) & Deep Learning (DL) & applies it learning on new safety information.
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.reporterComments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderComments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.customProperty.customSenderComments"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.customProperty.additionalNotes"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].reactionCoded"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].lltCode"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].codedWithSearchString"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].hierarchyStorageId"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].reportedReaction"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].internalRowId"
+
+19
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.summary.senderDiagnosis[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].receiptDate"
+
+13-Jul-2020
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].internalRowId"
+
+20
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].fileType"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].filePath"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].id"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].fileName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].isRedactFile"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].redactFileName"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].caseCountry"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].processStatus"
+
+1001
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].caseVersion"
+
+1
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="_safetyData.attachments[0].isProtected"
+
+
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ
+Content-Disposition: form-data; name="safetyData.attachments[0].deleted"
+
+false
+------WebKitFormBoundaryIkbBJfN8wdcJNSFQ--

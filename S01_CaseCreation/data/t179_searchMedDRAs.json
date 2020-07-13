@@ -1,0 +1,577 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10020550,
+                     "type": "llt",
+                     "value": "Hyper"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10020554,
+                     "type": "llt",
+                     "value": "Hyperactive"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10020558,
+                     "type": "llt",
+                     "value": "Hyperactivity"
+                  }
+               ],
+               "id": 10037211,
+               "type": "pt",
+               "value": "Psychomotor hyperactivity"
+            }],
+            "id": 10013929,
+            "type": "hlt",
+            "value": "Dyskinesias and movement disorders NEC"
+         }],
+         "id": 10028037,
+         "type": "hlgt",
+         "value": "Movement disorders (incl parkinsonism)"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [
+            {
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10069944,
+                        "type": "llt",
+                        "value": "Hyper HDL cholesterolaemia"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10069946,
+                        "type": "llt",
+                        "value": "Hyper HDL cholesterolemia"
+                     }
+                  ],
+                  "id": 10069944,
+                  "type": "pt",
+                  "value": "Hyper HDL cholesterolaemia"
+               }],
+               "id": 10024581,
+               "type": "hlt",
+               "value": "Lipid metabolism and deposit disorders NEC"
+            },
+            {
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10068248,
+                        "type": "llt",
+                        "value": "Hyper LDL cholesterolaemia"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10068252,
+                        "type": "llt",
+                        "value": "Hyper LDL cholesterolemia"
+                     }
+                  ],
+                  "id": 10020603,
+                  "type": "pt",
+                  "value": "Hypercholesterolaemia"
+               }],
+               "id": 10014476,
+               "type": "hlt",
+               "value": "Elevated cholesterol"
+            }
+         ],
+         "id": 10013317,
+         "type": "hlgt",
+         "value": "Lipid metabolism disorders"
+      }],
+      "id": 10027433,
+      "type": "soc",
+      "value": "Metabolism and nutrition disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10072010,
+                        "type": "llt",
+                        "value": "Hyper IgD syndrome"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10072011,
+                        "type": "llt",
+                        "value": "Hyper IgD with periodic fever syndrome"
+                     }
+                  ],
+                  "id": 10072010,
+                  "type": "pt",
+                  "value": "Hyper IgD syndrome"
+               }],
+               "id": 10021606,
+               "type": "hlt",
+               "value": "Inborn errors of metabolism NEC"
+            }],
+            "id": 10027424,
+            "type": "hlgt",
+            "value": "Metabolic and nutritional disorders congenital"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10051040,
+                     "type": "llt",
+                     "value": "Hyper IgE syndrome"
+                  }],
+                  "id": 10051040,
+                  "type": "pt",
+                  "value": "Hyper IgE syndrome"
+               }],
+               "id": 10003842,
+               "type": "hlt",
+               "value": "Autosomal chromosomal abnormalities"
+            }],
+            "id": 10008804,
+            "type": "hlgt",
+            "value": "Chromosomal abnormalities and abnormal gene carriers"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10066130,
+                     "type": "llt",
+                     "value": "Hyper IgM syndrome"
+                  }],
+                  "id": 10066130,
+                  "type": "pt",
+                  "value": "Hyper IgM syndrome"
+               }],
+               "id": 10021424,
+               "type": "hlt",
+               "value": "Immune system abnormalities congenital"
+            }],
+            "id": 10021429,
+            "type": "hlgt",
+            "value": "Immune system disorders congenital"
+         }
+      ],
+      "id": 10010331,
+      "type": "soc",
+      "value": "Congenital, familial and genetic disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10020552,
+                  "type": "llt",
+                  "value": "Hyper IgE"
+               }],
+               "id": 10005591,
+               "type": "pt",
+               "value": "Blood immunoglobulin E increased"
+            }],
+            "id": 10021477,
+            "type": "hlt",
+            "value": "Immunoglobulin analyses"
+         }],
+         "id": 10021505,
+         "type": "hlgt",
+         "value": "Immunology and allergy investigations"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10020551,
+                  "type": "llt",
+                  "value": "Hyper bilirubinaemia"
+               }],
+               "id": 10020578,
+               "type": "pt",
+               "value": "Hyperbilirubinaemia"
+            }],
+            "id": 10008636,
+            "type": "hlt",
+            "value": "Cholestasis and jaundice"
+         }],
+         "id": 10019654,
+         "type": "hlgt",
+         "value": "Hepatic and hepatobiliary disorders"
+      }],
+      "id": 10019805,
+      "type": "soc",
+      "value": "Hepatobiliary disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10020553,
+                     "type": "llt",
+                     "value": "Hyperacidity"
+                  }],
+                  "id": 10020601,
+                  "type": "pt",
+                  "value": "Hyperchlorhydria"
+               }],
+               "id": 10052778,
+               "type": "hlt",
+               "value": "Gastrointestinal mucosal dystrophies and secretion disorders"
+            }],
+            "id": 10017943,
+            "type": "hlgt",
+            "value": "Gastrointestinal conditions NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10048721,
+                     "type": "llt",
+                     "value": "Hyperactive bowel sounds"
+                  }],
+                  "id": 10067715,
+                  "type": "pt",
+                  "value": "Gastrointestinal sounds abnormal"
+               }],
+               "id": 10000063,
+               "type": "hlt",
+               "value": "Abdominal findings abnormal"
+            }],
+            "id": 10018012,
+            "type": "hlgt",
+            "value": "Gastrointestinal signs and symptoms"
+         }
+      ],
+      "id": 10017947,
+      "type": "soc",
+      "value": "Gastrointestinal disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10064611,
+                     "type": "llt",
+                     "value": "Hyperactive airway disease"
+                  }],
+                  "id": 10066091,
+                  "type": "pt",
+                  "value": "Bronchial hyperreactivity"
+               }],
+               "id": 10006484,
+               "type": "hlt",
+               "value": "Bronchospasm and obstruction"
+            }],
+            "id": 10006436,
+            "type": "hlgt",
+            "value": "Bronchial disorders (excl neoplasms)"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10076461,
+                        "type": "llt",
+                        "value": "Hyperactive gag reflex"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10076460,
+                        "type": "llt",
+                        "value": "Hyperactive pharyngeal reflex"
+                     }
+                  ],
+                  "id": 10076460,
+                  "type": "pt",
+                  "value": "Hyperactive pharyngeal reflex"
+               }],
+               "id": 10034823,
+               "type": "hlt",
+               "value": "Pharyngeal disorders (excl infections and neoplasms)"
+            }],
+            "id": 10046304,
+            "type": "hlgt",
+            "value": "Upper respiratory tract disorders (excl infections)"
+         }
+      ],
+      "id": 10038738,
+      "type": "soc",
+      "value": "Respiratory, thoracic and mediastinal disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10058970,
+                  "type": "llt",
+                  "value": "Hyperactive bladder"
+               }],
+               "id": 10020853,
+               "type": "pt",
+               "value": "Hypertonic bladder"
+            }],
+            "id": 10028639,
+            "type": "hlt",
+            "value": "Myoneurogenic bladder disorders"
+         }],
+         "id": 10004994,
+         "type": "hlgt",
+         "value": "Bladder and bladder neck disorders (excl calculi)"
+      }],
+      "id": 10038359,
+      "type": "soc",
+      "value": "Renal and urinary disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020555,
+                        "type": "llt",
+                        "value": "Hyperactive child syndrome"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10048326,
+                        "type": "llt",
+                        "value": "Hyperactivity syndrome aggravated"
+                     }
+                  ],
+                  "id": 10003736,
+                  "type": "pt",
+                  "value": "Attention deficit/hyperactivity disorder"
+               }],
+               "id": 10003730,
+               "type": "hlt",
+               "value": "Attention deficit and disruptive behaviour disorders"
+            }],
+            "id": 10009841,
+            "type": "hlgt",
+            "value": "Cognitive and attention disorders and disturbances"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10071314,
+                     "type": "llt",
+                     "value": "Hyperactive delirium"
+                  }],
+                  "id": 10012218,
+                  "type": "pt",
+                  "value": "Delirium"
+               }],
+               "id": 10012219,
+               "type": "hlt",
+               "value": "Deliria"
+            }],
+            "id": 10012221,
+            "type": "hlgt",
+            "value": "Deliria (incl confusion)"
+         }
+      ],
+      "id": 10037175,
+      "type": "soc",
+      "value": "Psychiatric disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020556,
+                        "type": "llt",
+                        "value": "Hyperactive labyrinth, bilateral"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10020557,
+                        "type": "llt",
+                        "value": "Hyperactive labyrinth, unilateral"
+                     }
+                  ],
+                  "id": 10061524,
+                  "type": "pt",
+                  "value": "Inner ear disorder"
+               }],
+               "id": 10023566,
+               "type": "hlt",
+               "value": "Inner ear disorders NEC"
+            }],
+            "id": 10022396,
+            "type": "hlgt",
+            "value": "Inner ear and VIIIth cranial nerve disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10020559,
+                     "type": "llt",
+                     "value": "Hyperacusis"
+                  }],
+                  "id": 10020559,
+                  "type": "pt",
+                  "value": "Hyperacusis"
+               }],
+               "id": 10052526,
+               "type": "hlt",
+               "value": "Hyperacusia"
+            }],
+            "id": 10019243,
+            "type": "hlgt",
+            "value": "Hearing disorders"
+         }
+      ],
+      "id": 10013993,
+      "type": "soc",
+      "value": "Ear and labyrinth disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10076685,
+                  "type": "llt",
+                  "value": "Hyperacute allograft rejection"
+               }],
+               "id": 10044439,
+               "type": "pt",
+               "value": "Transplant rejection"
+            }],
+            "id": 10052779,
+            "type": "hlt",
+            "value": "Transplant rejections"
+         }],
+         "id": 10027665,
+         "type": "hlgt",
+         "value": "Immune disorders NEC"
+      }],
+      "id": 10021428,
+      "type": "soc",
+      "value": "Immune system disorders"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10020560,
+                  "type": "llt",
+                  "value": "Hyperacute strongylodiasis"
+               }],
+               "id": 10042254,
+               "type": "pt",
+               "value": "Strongyloidiasis"
+            }],
+            "id": 10028914,
+            "type": "hlt",
+            "value": "Nematode infections"
+         }],
+         "id": 10019381,
+         "type": "hlgt",
+         "value": "Helminthic disorders"
+      }],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10020561,
+                        "type": "llt",
+                        "value": "Hyperadrenalcorticalism"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10020563,
+                        "type": "llt",
+                        "value": "Hyperadrenocorticalism"
+                     }
+                  ],
+                  "id": 10020564,
+                  "type": "pt",
+                  "value": "Hyperadrenocorticism"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10020562,
+                     "type": "llt",
+                     "value": "Hyperadrenalism"
+                  }],
+                  "id": 10020562,
+                  "type": "pt",
+                  "value": "Hyperadrenalism"
+               }
+            ],
+            "id": 10001341,
+            "type": "hlt",
+            "value": "Adrenal cortical hyperfunctions"
+         }],
+         "id": 10001353,
+         "type": "hlgt",
+         "value": "Adrenal gland disorders"
+      }],
+      "id": 10014698,
+      "type": "soc",
+      "value": "Endocrine disorders"
+   }
+]

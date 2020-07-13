@@ -1,0 +1,11 @@
+[t29]
+FileName1=t29_dns-query.html
+URL1=https://dns.google/dns-query?dns=IQABAAABAAAAAAABCGNsaWVudHM0Bmdvb2dsZQNjb20AAAEAAQAAKRAAAAAAAABQAAwATAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_29.xml
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

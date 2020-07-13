@@ -1,0 +1,12 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+X-Application-Context: application:production:8083
+vary: accept-encoding
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Content-Language: en
+Transfer-Encoding: chunked
+Date: Mon, 13 Jul 2020 13:08:38 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+

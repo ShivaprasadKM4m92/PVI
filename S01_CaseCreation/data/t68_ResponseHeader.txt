@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:57:40 GMT
+ETag: "glyphicons-halflings-regular-448c34a56d699c29117adc64c43affeb.woff2"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: font/woff2;charset=UTF-8
+Content-Length: 18056
+Date: Mon, 13 Jul 2020 11:25:56 GMT
+

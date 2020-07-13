@@ -1,0 +1,11 @@
+[t146]
+FileName1=t146_searchMedDRAs.json
+URL1=http://10.100.22.228:8081/PVBRest/searchMedDRAs?browserType=meddra&search_field=llt&search_value=Feve&_=1594639576735
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_146.xml
+RequestHeaderFile=t146_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t146_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

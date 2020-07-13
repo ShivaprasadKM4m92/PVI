@@ -1,0 +1,361 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10045271,
+                  "type": "llt",
+                  "value": "Typhlitis"
+               }],
+               "id": 10062959,
+               "type": "pt",
+               "value": "Neutropenic colitis"
+            }],
+            "id": 10009888,
+            "type": "hlt",
+            "value": "Colitis (excl infective)"
+         }],
+         "id": 10017969,
+         "type": "hlgt",
+         "value": "Gastrointestinal inflammatory conditions"
+      }],
+      "id": 10017947,
+      "type": "soc",
+      "value": "Gastrointestinal disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10045272,
+                           "type": "llt",
+                           "value": "Typhoid"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045273,
+                           "type": "llt",
+                           "value": "Typhoid and paratyphoid fevers"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10045275,
+                           "type": "llt",
+                           "value": "Typhoid fever"
+                        }
+                     ],
+                     "id": 10045275,
+                     "type": "pt",
+                     "value": "Typhoid fever"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10014863,
+                           "type": "llt",
+                           "value": "Enteric fever (not typhoid)"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033970,
+                           "type": "llt",
+                           "value": "Paratyphoid"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033971,
+                           "type": "llt",
+                           "value": "Paratyphoid fever"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033972,
+                           "type": "llt",
+                           "value": "Paratyphoid fever A"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033973,
+                           "type": "llt",
+                           "value": "Paratyphoid fever B"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033974,
+                           "type": "llt",
+                           "value": "Paratyphoid fever C"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10033975,
+                           "type": "llt",
+                           "value": "Paratyphoid fever, unspecified"
+                        }
+                     ],
+                     "id": 10033971,
+                     "type": "pt",
+                     "value": "Paratyphoid fever"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10053197,
+                        "type": "llt",
+                        "value": "Gastroenteritis salmonella (non typhoid)"
+                     }],
+                     "id": 10017914,
+                     "type": "pt",
+                     "value": "Gastroenteritis salmonella"
+                  }
+               ],
+               "id": 10039438,
+               "type": "hlt",
+               "value": "Salmonella infections"
+            }],
+            "id": 10004018,
+            "type": "hlgt",
+            "value": "Bacterial infectious disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10045274,
+                     "type": "llt",
+                     "value": "Typhoid carrier"
+                  }],
+                  "id": 10045274,
+                  "type": "pt",
+                  "value": "Typhoid carrier"
+               }],
+               "id": 10021910,
+               "type": "hlt",
+               "value": "Infectious disorders carrier"
+            }],
+            "id": 10002252,
+            "type": "hlgt",
+            "value": "Ancillary infectious topics"
+         },
+         {
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10061393,
+                              "type": "llt",
+                              "value": "Typhus"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10045277,
+                              "type": "llt",
+                              "value": "Typhus NOS"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10045278,
+                              "type": "llt",
+                              "value": "Typhus, unspecified"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10033006,
+                              "type": "llt",
+                              "value": "Other typhus"
+                           }
+                        ],
+                        "id": 10061393,
+                        "type": "pt",
+                        "value": "Typhus"
+                     },
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10014976,
+                              "type": "llt",
+                              "value": "Epidemic louse-borne typhus"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10014979,
+                              "type": "llt",
+                              "value": "Epidemic typhus"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10057298,
+                              "type": "llt",
+                              "value": "Exanthematic typhus"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10024888,
+                              "type": "llt",
+                              "value": "Louse-borne (epidemic) typhus"
+                           }
+                        ],
+                        "id": 10014979,
+                        "type": "pt",
+                        "value": "Epidemic typhus"
+                     },
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10028281,
+                              "type": "llt",
+                              "value": "Murine (endemic) typhus"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10028282,
+                              "type": "llt",
+                              "value": "Murine typhus"
+                           }
+                        ],
+                        "id": 10028282,
+                        "type": "pt",
+                        "value": "Murine typhus"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10038017,
+                           "type": "llt",
+                           "value": "Recrudescent typhus"
+                        }],
+                        "id": 10038017,
+                        "type": "pt",
+                        "value": "Recrudescent typhus"
+                     }
+                  ],
+                  "id": 10045276,
+                  "type": "hlt",
+                  "value": "Typhus infections"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10029787,
+                           "type": "llt",
+                           "value": "North Asian tick typhus"
+                        }],
+                        "id": 10029787,
+                        "type": "pt",
+                        "value": "North Asian tick typhus"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10037731,
+                           "type": "llt",
+                           "value": "Queensland tick typhus"
+                        }],
+                        "id": 10037731,
+                        "type": "pt",
+                        "value": "Queensland tick typhus"
+                     }
+                  ],
+                  "id": 10041743,
+                  "type": "hlt",
+                  "value": "Spotted fever disorders"
+               }
+            ],
+            "id": 10039135,
+            "type": "hlgt",
+            "value": "Rickettsial infectious disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10070404,
+                     "type": "llt",
+                     "value": "Typhus rickettsia test"
+                  }],
+                  "id": 10070404,
+                  "type": "pt",
+                  "value": "Typhus rickettsia test"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10070193,
+                     "type": "llt",
+                     "value": "Typhus rickettsia test positive"
+                  }],
+                  "id": 10070193,
+                  "type": "pt",
+                  "value": "Typhus rickettsia test positive"
+               }
+            ],
+            "id": 10004000,
+            "type": "hlt",
+            "value": "Bacteria identification and serology (excl mycobacteria)"
+         }],
+         "id": 10027529,
+         "type": "hlgt",
+         "value": "Microbiology and serology investigations"
+      }],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [],
+                     "id": 10035980,
+                     "type": "llt",
+                     "value": "Poisoning by typhoid and paratyphoid vaccine"
+                  },
+                  {
+                     "childEvents": [],
+                     "id": 10035981,
+                     "type": "llt",
+                     "value": "Poisoning by typhus vaccine"
+                  }
+               ],
+               "id": 10070863,
+               "type": "pt",
+               "value": "Toxicity to various agents"
+            }],
+            "id": 10035777,
+            "type": "hlt",
+            "value": "Poisoning and toxicity"
+         }],
+         "id": 10071947,
+         "type": "hlgt",
+         "value": "Exposures, chemical injuries and poisoning"
+      }],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   }
+]

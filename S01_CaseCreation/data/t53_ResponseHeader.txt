@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Fri, 10 Jul 2020 11:59:20 GMT
+ETag: "vendorUi/jquery/jquery-2.2.4-e72e6e97da5fd952079c33c415741fc6.js"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: application/javascript;charset=UTF-8
+Content-Length: 30819
+Date: Mon, 13 Jul 2020 11:25:48 GMT
+

@@ -1,0 +1,11 @@
+[t35]
+FileName1=t35_dns-query.html
+URL1=https://dns.google/dns-query?dns=UVsBAAABAAAAAAABBnVwZGF0ZQpnb29nbGVhcGlzA2NvbQAAAQABAAApEAAAAAAAAE4ADABKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Total=1
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

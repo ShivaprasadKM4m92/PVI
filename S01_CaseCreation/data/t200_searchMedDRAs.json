@@ -1,0 +1,449 @@
+[
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10016314,
+                  "type": "llt",
+                  "value": "Feeble-minded"
+               }],
+               "id": 10067989,
+               "type": "pt",
+               "value": "Intellectual disability"
+            }],
+            "id": 10077548,
+            "type": "hlt",
+            "value": "Intellectual disabilities"
+         }],
+         "id": 10057167,
+         "type": "hlgt",
+         "value": "Mental impairment disorders"
+      }],
+      "id": 10029205,
+      "type": "soc",
+      "value": "Nervous system disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10016315,
+                        "type": "llt",
+                        "value": "Feeding difficulties and mismanagement"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10061148,
+                        "type": "llt",
+                        "value": "Feeding disorder"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016317,
+                        "type": "llt",
+                        "value": "Feeding disorder NOS"
+                     }
+                  ],
+                  "id": 10061148,
+                  "type": "pt",
+                  "value": "Feeding disorder"
+               }],
+               "id": 10018067,
+               "type": "hlt",
+               "value": "General nutritional disorders NEC"
+            }],
+            "id": 10003018,
+            "type": "hlgt",
+            "value": "Appetite and general nutritional disorders"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10076042,
+                     "type": "llt",
+                     "value": "Feeding intolerance"
+                  }],
+                  "id": 10076042,
+                  "type": "pt",
+                  "value": "Feeding intolerance"
+               }],
+               "id": 10016951,
+               "type": "hlt",
+               "value": "Food malabsorption and intolerance syndromes (excl sugar intolerance)"
+            }],
+            "id": 10016950,
+            "type": "hlgt",
+            "value": "Food intolerance syndromes"
+         }
+      ],
+      "id": 10027433,
+      "type": "soc",
+      "value": "Metabolism and nutrition disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10016316,
+                        "type": "llt",
+                        "value": "Feeding disorder neonatal"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016318,
+                        "type": "llt",
+                        "value": "Feeding disorder of infancy or early childhood"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016319,
+                        "type": "llt",
+                        "value": "Feeding problem in child"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016320,
+                        "type": "llt",
+                        "value": "Feeding problem in newborn"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10016321,
+                        "type": "llt",
+                        "value": "Feeding problems in newborn"
+                     }
+                  ],
+                  "id": 10078069,
+                  "type": "pt",
+                  "value": "Selective eating disorder"
+               }],
+               "id": 10014068,
+               "type": "hlt",
+               "value": "Eating disorders NEC"
+            }],
+            "id": 10014067,
+            "type": "hlgt",
+            "value": "Eating disorders and disturbances"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10016323,
+                     "type": "llt",
+                     "value": "Feeling anxious"
+                  }],
+                  "id": 10002855,
+                  "type": "pt",
+                  "value": "Anxiety"
+               }],
+               "id": 10002869,
+               "type": "hlt",
+               "value": "Anxiety symptoms"
+            }],
+            "id": 10002861,
+            "type": "hlgt",
+            "value": "Anxiety disorders and symptoms"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10016325,
+                           "type": "llt",
+                           "value": "Feeling blue"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016329,
+                           "type": "llt",
+                           "value": "Feeling down"
+                        }
+                     ],
+                     "id": 10012374,
+                     "type": "pt",
+                     "value": "Depressed mood"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10049708,
+                        "type": "llt",
+                        "value": "Feeling guilty"
+                     }],
+                     "id": 10049708,
+                     "type": "pt",
+                     "value": "Feeling guilty"
+                  }
+               ],
+               "id": 10027938,
+               "type": "hlt",
+               "value": "Mood alterations with depressive symptoms"
+            }],
+            "id": 10012375,
+            "type": "hlgt",
+            "value": "Depressed mood disorders and disturbances"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10016328,
+                     "type": "llt",
+                     "value": "Feeling detached"
+                  }],
+                  "id": 10013457,
+                  "type": "pt",
+                  "value": "Dissociation"
+               }],
+               "id": 10013470,
+               "type": "hlt",
+               "value": "Dissociative states"
+            }],
+            "id": 10013465,
+            "type": "hlgt",
+            "value": "Dissociative disorders"
+         },
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016332,
+                        "type": "llt",
+                        "value": "Feeling happy inappropriately"
+                     }],
+                     "id": 10021588,
+                     "type": "pt",
+                     "value": "Inappropriate affect"
+                  }],
+                  "id": 10001438,
+                  "type": "hlt",
+                  "value": "Affect alterations NEC"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016333,
+                        "type": "llt",
+                        "value": "Feeling high"
+                     }],
+                     "id": 10015535,
+                     "type": "pt",
+                     "value": "Euphoric mood"
+                  }],
+                  "id": 10014556,
+                  "type": "hlt",
+                  "value": "Emotional and mood disturbances NEC"
+               }
+            ],
+            "id": 10027946,
+            "type": "hlgt",
+            "value": "Mood disorders and disturbances NEC"
+         }
+      ],
+      "id": 10037175,
+      "type": "soc",
+      "value": "Psychiatric disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10056661,
+                     "type": "llt",
+                     "value": "Feeding tube complication"
+                  }],
+                  "id": 10077107,
+                  "type": "pt",
+                  "value": "Complication associated with device"
+               }],
+               "id": 10069785,
+               "type": "hlt",
+               "value": "Complications associated with device NEC"
+            }],
+            "id": 10069781,
+            "type": "hlgt",
+            "value": "Complications associated with device"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10048515,
+                           "type": "llt",
+                           "value": "Feeling \"cool\""
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016326,
+                           "type": "llt",
+                           "value": "Feeling cold"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016327,
+                           "type": "llt",
+                           "value": "Feeling cool"
+                        }
+                     ],
+                     "id": 10016326,
+                     "type": "pt",
+                     "value": "Feeling cold"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10016322,
+                           "type": "llt",
+                           "value": "Feeling abnormal"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016324,
+                           "type": "llt",
+                           "value": "Feeling bad"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10050462,
+                           "type": "llt",
+                           "value": "Feeling dazed"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10016331,
+                           "type": "llt",
+                           "value": "Feeling floating"
+                        }
+                     ],
+                     "id": 10016322,
+                     "type": "pt",
+                     "value": "Feeling abnormal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016330,
+                        "type": "llt",
+                        "value": "Feeling drunk"
+                     }],
+                     "id": 10016330,
+                     "type": "pt",
+                     "value": "Feeling drunk"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016334,
+                        "type": "llt",
+                        "value": "Feeling hot"
+                     }],
+                     "id": 10016334,
+                     "type": "pt",
+                     "value": "Feeling hot"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10016335,
+                        "type": "llt",
+                        "value": "Feeling hot and cold"
+                     }],
+                     "id": 10061458,
+                     "type": "pt",
+                     "value": "Feeling of body temperature change"
+                  }
+               ],
+               "id": 10068759,
+               "type": "hlt",
+               "value": "Feelings and sensations NEC"
+            }],
+            "id": 10018073,
+            "type": "hlgt",
+            "value": "General system disorders NEC"
+         }
+      ],
+      "id": 10018065,
+      "type": "soc",
+      "value": "General disorders and administration site conditions"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10051041,
+                  "type": "llt",
+                  "value": "Feeding tube insertion"
+               }],
+               "id": 10053050,
+               "type": "pt",
+               "value": "Gastrointestinal tube insertion"
+            }],
+            "id": 10018013,
+            "type": "hlt",
+            "value": "Gastrointestinal therapeutic procedures NEC"
+         }],
+         "id": 10017998,
+         "type": "hlgt",
+         "value": "Gastrointestinal therapeutic procedures"
+      }],
+      "id": 10042613,
+      "type": "soc",
+      "value": "Surgical and medical procedures"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [],
+                  "id": 10076368,
+                  "type": "llt",
+                  "value": "Feeding tube user"
+               }],
+               "id": 10076368,
+               "type": "pt",
+               "value": "Feeding tube user"
+            }],
+            "id": 10012776,
+            "type": "hlt",
+            "value": "Dietary and nutritional issues"
+         }],
+         "id": 10024450,
+         "type": "hlgt",
+         "value": "Lifestyle issues"
+      }],
+      "id": 10041244,
+      "type": "soc",
+      "value": "Social circumstances"
+   }
+]

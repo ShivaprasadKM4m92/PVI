@@ -1,0 +1,429 @@
+[
+   {
+      "childEvents": [
+         {
+            "childEvents": [
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10000039,
+                           "type": "llt",
+                           "value": "Abd. pain"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10000040,
+                           "type": "llt",
+                           "value": "Abdo pain"
+                        }
+                     ],
+                     "id": 10000081,
+                     "type": "pt",
+                     "value": "Abdominal pain"
+                  }],
+                  "id": 10017926,
+                  "type": "hlt",
+                  "value": "Gastrointestinal and abdominal pains (excl oral and throat)"
+               },
+               {
+                  "childEvents": [{
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10000041,
+                           "type": "llt",
+                           "value": "Abdo. bloating"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10000045,
+                           "type": "llt",
+                           "value": "Abdomen enlarged"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10000046,
+                           "type": "llt",
+                           "value": "Abdomen enlarged feeling of"
+                        }
+                     ],
+                     "id": 10000060,
+                     "type": "pt",
+                     "value": "Abdominal distension"
+                  }],
+                  "id": 10016770,
+                  "type": "hlt",
+                  "value": "Flatulence, bloating and distension"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [
+                           {
+                              "childEvents": [],
+                              "id": 10000042,
+                              "type": "llt",
+                              "value": "Abdo. discomfort"
+                           },
+                           {
+                              "childEvents": [],
+                              "id": 10000043,
+                              "type": "llt",
+                              "value": "Abdomen burning sensation of"
+                           }
+                        ],
+                        "id": 10000059,
+                        "type": "pt",
+                        "value": "Abdominal discomfort"
+                     },
+                     {
+                        "childEvents": [{
+                           "childEvents": [],
+                           "id": 10000047,
+                           "type": "llt",
+                           "value": "Abdomen mimicking acute"
+                        }],
+                        "id": 10000647,
+                        "type": "pt",
+                        "value": "Acute abdomen"
+                     }
+                  ],
+                  "id": 10027678,
+                  "type": "hlt",
+                  "value": "Gastrointestinal signs and symptoms NEC"
+               }
+            ],
+            "id": 10018012,
+            "type": "hlgt",
+            "value": "Gastrointestinal signs and symptoms"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10000050,
+                     "type": "llt",
+                     "value": "Abdominal adhesions"
+                  }],
+                  "id": 10000050,
+                  "type": "pt",
+                  "value": "Abdominal adhesions"
+               }],
+               "id": 10034654,
+               "type": "hlt",
+               "value": "Peritoneal and retroperitoneal fibrosis and adhesions"
+            }],
+            "id": 10034652,
+            "type": "hlgt",
+            "value": "Peritoneal and retroperitoneal conditions"
+         }
+      ],
+      "id": 10017947,
+      "type": "soc",
+      "value": "Gastrointestinal disorders"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10077423,
+                           "type": "llt",
+                           "value": "Abdomen CT"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10057791,
+                           "type": "llt",
+                           "value": "Abdominal CAT"
+                        }
+                     ],
+                     "id": 10053876,
+                     "type": "pt",
+                     "value": "Computerised tomogram abdomen"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10061936,
+                        "type": "llt",
+                        "value": "Abdomen scan"
+                     }],
+                     "id": 10061936,
+                     "type": "pt",
+                     "value": "Abdomen scan"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10061937,
+                        "type": "llt",
+                        "value": "Abdomen scan normal"
+                     }],
+                     "id": 10061937,
+                     "type": "pt",
+                     "value": "Abdomen scan normal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10057827,
+                        "type": "llt",
+                        "value": "Abdominal CAT abnormal"
+                     }],
+                     "id": 10057798,
+                     "type": "pt",
+                     "value": "Computerised tomogram abdomen abnormal"
+                  },
+                  {
+                     "childEvents": [{
+                        "childEvents": [],
+                        "id": 10057831,
+                        "type": "llt",
+                        "value": "Abdominal CAT normal"
+                     }],
+                     "id": 10057800,
+                     "type": "pt",
+                     "value": "Computerised tomogram abdomen normal"
+                  },
+                  {
+                     "childEvents": [
+                        {
+                           "childEvents": [],
+                           "id": 10061612,
+                           "type": "llt",
+                           "value": "Abdominal X-ray"
+                        },
+                        {
+                           "childEvents": [],
+                           "id": 10050402,
+                           "type": "llt",
+                           "value": "Abdominal X-ray NOS"
+                        }
+                     ],
+                     "id": 10061612,
+                     "type": "pt",
+                     "value": "Abdominal X-ray"
+                  }
+               ],
+               "id": 10017963,
+               "type": "hlt",
+               "value": "Gastrointestinal and abdominal imaging procedures"
+            }],
+            "id": 10017971,
+            "type": "hlgt",
+            "value": "Gastrointestinal investigations"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10051831,
+                     "type": "llt",
+                     "value": "Abdominal aortic bruit"
+                  }],
+                  "id": 10051832,
+                  "type": "pt",
+                  "value": "Aortic bruit"
+               }],
+               "id": 10053105,
+               "type": "hlt",
+               "value": "Vascular auscultatory investigations"
+            }],
+            "id": 10007512,
+            "type": "hlgt",
+            "value": "Cardiac and vascular investigations (excl enzyme tests)"
+         }
+      ],
+      "id": 10022891,
+      "type": "soc",
+      "value": "Investigations"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10000044,
+                     "type": "llt",
+                     "value": "Abdomen crushing"
+                  }],
+                  "id": 10000044,
+                  "type": "pt",
+                  "value": "Abdomen crushing"
+               }],
+               "id": 10027652,
+               "type": "hlt",
+               "value": "Abdominal injuries NEC"
+            }],
+            "id": 10022114,
+            "type": "hlgt",
+            "value": "Injuries NEC"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10076852,
+                     "type": "llt",
+                     "value": "Abdominal aortic restenosis"
+                  }],
+                  "id": 10076836,
+                  "type": "pt",
+                  "value": "Aortic restenosis"
+               }],
+               "id": 10007602,
+               "type": "hlt",
+               "value": "Cardiac and vascular procedural complications"
+            }],
+            "id": 10069888,
+            "type": "hlgt",
+            "value": "Procedural related injuries and complications NEC"
+         }
+      ],
+      "id": 10022117,
+      "type": "soc",
+      "value": "Injury, poisoning and procedural complications"
+   },
+   {
+      "childEvents": [
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10060921,
+                        "type": "llt",
+                        "value": "Abdominal abscess"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10000048,
+                        "type": "llt",
+                        "value": "Abdominal abscess NOS"
+                     }
+                  ],
+                  "id": 10060921,
+                  "type": "pt",
+                  "value": "Abdominal abscess"
+               }],
+               "id": 10017967,
+               "type": "hlt",
+               "value": "Abdominal and gastrointestinal infections"
+            }],
+            "id": 10021879,
+            "type": "hlgt",
+            "value": "Infections - pathogen unspecified"
+         },
+         {
+            "childEvents": [{
+               "childEvents": [{
+                  "childEvents": [{
+                     "childEvents": [],
+                     "id": 10000049,
+                     "type": "llt",
+                     "value": "Abdominal actinomycotic infection"
+                  }],
+                  "id": 10000621,
+                  "type": "pt",
+                  "value": "Actinomycotic abdominal infection"
+               }],
+               "id": 10000627,
+               "type": "hlt",
+               "value": "Actinomycotic infectious disorders"
+            }],
+            "id": 10004018,
+            "type": "hlgt",
+            "value": "Bacterial infectious disorders"
+         }
+      ],
+      "id": 10021881,
+      "type": "soc",
+      "value": "Infections and infestations"
+   },
+   {
+      "childEvents": [{
+         "childEvents": [{
+            "childEvents": [
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10000051,
+                        "type": "llt",
+                        "value": "Abdominal aneurysm"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10000052,
+                        "type": "llt",
+                        "value": "Abdominal aneurysm without mention of rupture"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10000054,
+                        "type": "llt",
+                        "value": "Abdominal aortic aneurysm"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10070726,
+                        "type": "llt",
+                        "value": "Abdominal aortic aneurysm enlargement"
+                     }
+                  ],
+                  "id": 10002882,
+                  "type": "pt",
+                  "value": "Aortic aneurysm"
+               },
+               {
+                  "childEvents": [
+                     {
+                        "childEvents": [],
+                        "id": 10000053,
+                        "type": "llt",
+                        "value": "Abdominal aneurysm, ruptured"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10049871,
+                        "type": "llt",
+                        "value": "Abdominal aortic aneurysm haemorrhage"
+                     },
+                     {
+                        "childEvents": [],
+                        "id": 10060524,
+                        "type": "llt",
+                        "value": "Abdominal aortic aneurysm hemorrhage"
+                     }
+                  ],
+                  "id": 10002886,
+                  "type": "pt",
+                  "value": "Aortic aneurysm rupture"
+               }
+            ],
+            "id": 10002889,
+            "type": "hlt",
+            "value": "Aortic aneurysms and dissections"
+         }],
+         "id": 10002363,
+         "type": "hlgt",
+         "value": "Aneurysms and artery dissections"
+      }],
+      "id": 10047065,
+      "type": "soc",
+      "value": "Vascular disorders"
+   }
+]

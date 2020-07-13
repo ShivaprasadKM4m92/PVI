@@ -1,0 +1,9 @@
+[t59]
+SnapshotXmlFile=snapshot_59.xml
+FileName1=t59.jpg
+URL1=http://10.100.22.228:8081/assets/section-hd-bg-8eaf77fc4a1a47c48ca4b2e3d5a96340.jpg
+Total=1
+RequestHeaderFile=t59_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t59_ResponseHeader.txt
+ContentType=image/jpeg

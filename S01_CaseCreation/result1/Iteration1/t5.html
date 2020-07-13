@@ -1,0 +1,3448 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+
+    <title>PV Intake - Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="shortcut icon" href="/assets/vendor/favicon_1.ico">
+
+    
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="layout" content="main"/>
+    <link rel="stylesheet" href="/assets/app/dashboard/dashboard-manifest-b8c4a5998dad68d4595e4d0aa8d50016.css"/>
+
+    <style>
+    .pv-case-overdue .snum .ic-overdue {
+        color: #d13636;
+    }
+
+    .pv-case-overdue .snum {
+        border-left: 4px solid #d13636;
+    }
+    </style>
+
+    <link rel="stylesheet" href="/assets/application-13a1ddae267b7b6a32d12cfb1ac98e43.css"/>
+    
+    <script type="text/javascript" src="/assets/vendorUi/jquery/jquery-2.2.4-e72e6e97da5fd952079c33c415741fc6.js" ></script>
+
+        <meta name="_csrf" content="831a0e9a-f8fc-4f72-a454-80b1073b7501"/>
+        <meta name="_csrf_header" content="X-CSRF-TOKEN"/>
+        <meta name="_csrf_parameter" content="_csrf"/>
+
+
+</head>
+<body class="widescreen fixed-left-void">
+
+<script type="text/javascript" src="/assets/UIConstants-ee3587ab40d47b8bed173814ecf5a0be.js" ></script>
+<script type="text/javascript" src="/assets/common/change-theme-6ebd5f05979bc64dfe2d6f10b3e3b3db.js" ></script>
+<input type="hidden" name="appConfigUrl" value="http://10.100.22.228:8081/config/appConfig" id="appConfigUrl" />
+<input type="hidden" name="attachmentViewerUrl" value="http://10.100.22.228:8081/caseEntry/fetchDocument" id="attachmentViewerUrl" />
+
+<div id="wrapper" class="forced enlarged">
+    <input type="hidden" name="currentTimestamp" value="" id="currentTimestamp" />
+    <!-- Top Bar-->
+    <div class="topbar">
+    <div class="navbar navbar-default" role="navigation">
+        <div class="pull-left">
+            <button class="button-menu-mobile open-left waves-effect">
+                <i class="md md-menu"></i>
+            </button>
+            <span class="clearfix"></span>
+        </div>
+
+        <div class="container">
+            <ul class="nav navbar-nav hidden-xs">
+                
+                
+                
+                <li><a href="#" class="waves-effect"><div class="text-left"><a href="/" class="Logo"><img src="/assets/PVIntake-241ae46808f3515f2be1c0c88ee0773b.png" class="pvLogo" alt="PV-Logo"/></a></div></a></li>
+                
+                        <li> 
+                            <a href="http://10.100.22.68:8083" class="waves-effect">PVAdmin</a>
+                        </li>
+                    
+            </ul>
+            <ul class="nav navbar-nav navbar-right pull-right">
+                <li class="m-t-20">
+                
+                    
+                        <h5 class="text-white">shiva (shiva)</h5>
+                    
+                </li>
+                <li class="dropdown hidden-xs hidden">
+                    <a href="#" data-target="#" class="dropdown-toggle waves-effect waves-light"
+                       data-toggle="dropdown" aria-expanded="true">
+                        <i class="md md-notifications"></i> <span
+                            class="badge badge-xs badge-pink">3</span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-lg">
+                        <li class="text-center notifi-title">Notification</li>
+                        <li class="list-group nicescroll notification-list">
+
+                        </li>
+
+                        <li>
+                            <a href="javascript:void(0);" class=" text-right">
+                                <small><b>See all notifications</b></small>
+                            </a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li class="dropdown hidden-xs">
+                    <a href="#" class="waves-effect waves-light" data-target="#"
+                       class="dropdown-toggle waves-effect waves-light"
+                       data-toggle="dropdown" aria-expanded="true">
+                        <i class="md md-settings"></i></a>
+                    <ul class="dropdown-menu">
+
+                        
+                        
+                            
+                                <li id="controlPanel" class="hidden"><a
+                                        href= http://10.100.22.68:8083>
+                                    Administration</a></li>
+                                <li class="divider"></li>
+                            
+                        
+                        <li id="menuPreference">
+                            <a href= /preference><i class="md md-settings"></i>
+                                Preferences
+                            </a>
+                        </li>
+                        
+                            <li class="divider"></li>
+                            <li><a rel="noopener" href="https://www.google.com" target="_blank">
+                                <i class="md md-help"></i>
+                                Help</a>
+                            </li>
+                        
+                        <li class="divider"></li>
+
+                        <li>
+                            <a href="/password/resetOwnPassword" id="MI-reset-password">
+                                <i class="md md-lock-reset"></i>
+                                Change Password
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href='/logout?logoutCallBackUrl=http://10.100.22.228:8081'  class=''>
+                                <i class="md md-exit-to-app"></i>
+                                Logout
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    if ((true)) {
+        LOAD_THEME_URL = "/preference/loadTheme";
+    }
+    if ((true)) {
+        UPDATE_THEME_URL = "/preference/updateTheme"
+    }
+</script>
+
+
+    <!-- Left Sidebar -->
+    <div class="left side-menu">
+    <div class="sidebar-inner slimscrollleft">
+        <div id="sidebar-menu">
+            <ul>
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="/" class="waves-effect waves-primary side-icon ">
+                                    <i class="md md-dashboard" aria-hidden="true"></i>
+                                    <span>Dashboard</span>
+                                    
+                                </a>
+                                
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            
+                            <li class="has_sub">
+                                <li class="has_sub">
+    <a href='#' class='waves-effect waves-primary side-icon'>
+        <i class='fa fa-pencil-square' aria-hidden='true'></i>
+        <span>New Case</span></a>
+    <span class='menu-arrow'></span>
+    <ul class="list-unstyled">
+        
+            <li>
+                <a href="/caseEntry/index?templateId=1" class="waves-effect waves-primary side-icon">
+                    <span>Basic Case Entry</span>
+                </a>
+            </li>
+        
+            <li>
+                <a href="/caseEntry/index?templateId=2" class="waves-effect waves-primary side-icon">
+                    <span>Full Case Entry</span>
+                </a>
+            </li>
+        
+    </ul>
+</li>
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="#" class="waves-effect waves-primary side-icon ">
+                                    <i class="md md-my-library-add create-follow-up" aria-hidden="true"></i>
+                                    <span>New Follow Up</span>
+                                    
+                                </a>
+                                
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="/duplicate/search" class="waves-effect waves-primary side-icon ">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                    <span>Search Case</span>
+                                    
+                                </a>
+                                
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="/case/list" class="waves-effect waves-primary side-icon ">
+                                    <i class="fa fa-list" aria-hidden="true"></i>
+                                    <span>Case List</span>
+                                    
+                                </a>
+                                
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="/intake/queue" class="waves-effect waves-primary side-icon ">
+                                    <i class="md md-my-library-books" aria-hidden="true"></i>
+                                    <span>Intake Queue</span>
+                                    
+                                </a>
+                                
+                            </li>
+                        
+                    
+                
+                    
+                        
+                            <li class="has_sub">
+                                <a href="/task/management" class="waves-effect waves-primary side-icon ">
+                                    <i class="md md-clipboard-text" aria-hidden="true"></i>
+                                    <span>Tasks</span>
+                                    
+                                </a>
+                                
+                            </li>
+                        
+                    
+                
+                
+            </ul>
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+    <div id="pviModalFollowUp" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close followUpCancelBtn" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Enter Case #</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="alert alert-danger fade in hide p-0 p-l-10 p-r-10" id="messageBox">
+                            <div id="errorMessage"></div>
+                        </div>
+                        
+                            <label class="control-label">Create Follow-Up for Initial Case #</label>
+                        
+                        <input type="text"  id="parentCaseId" class="caseNumber" name="submissionCaseNumber" class="form-control" maxlength="50"/>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn pv-btn-grey waves-effect followUpCancelBtn" data-dismiss="modal">Cancel</button>
+                <button type="button" id="followUpOkBtn" class="btn btn-primary waves-effect waves-light">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="modal fade" id="reportModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <span class="fileType h4"></span>
+                <span class="modal-title XMLfileName h4"></span>
+            </div>
+            <div class="modal-body">
+                <div class="e2bXMLDetail hide"><pre class="xmlContent" lang="xml"></pre></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="pviSplitModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close btn-split-cancel" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Split</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row split-step1">
+                    <label class="control-label">How many cases do you want to split this case into?</label>
+                    <div class="col-sm-8">
+                        <input type="text" name="splitCaseCount" class="splitInput col-sm-2" maxlength="4" value="" id="splitCaseCount" />
+                    </div>
+
+                </div>
+                <div class="row split-step2 hide">
+                    <div class="col-sm-12">
+                        <table class="table table-striped split-table pv-inner-table m-b-0">
+                            <thead>
+                            <tr>
+                                <th class="pv-col-sn">#</th>
+                                <th class="col-md-9">File Name</th>
+                                <th class="col-md-3">Case Number</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="num">1</td>
+                                <td>
+                                    <select class="form-control select2 select2-box multiSelectSelect2Field existing-case-select select-split" id="case-attachments[0]" name="case-attachments[0]" multiple="multiple" data-value="" >
+</select>
+                                </td>
+                                <td class="existing-case-number">
+                                    <a href=""><label class="control-label existing-case-num"></label></a>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+            <div class="row split-no-attachment hide" style='text-align: center;'></div>
+            <div class="modal-footer">
+                <span class="split-bot-btn1">
+                    <button type="button" class="btn btn-default waves-effect split-cancel" data-dismiss="modal">Cancel</button>
+                    <button type="button" id="submissionSplitModalOkBtn1" class="btn btn-inverse waves-effect waves-light" >Ok</button>
+                </span>
+                <span class="split-bot-btn2 hide">
+                    <button type="button" class="btn btn-default waves-effect btn-split-cancel" data-dismiss="modal">Cancel</button>
+                    <button type="button" id="submissionSplitModalCreateBtn" class="btn btn-inverse waves-effect waves-light" >Create</button>
+                </span>
+                <span class="split-bot-bt3 hide">
+                    <button type="button" id="submissionSplitModalOkBtn2" class="btn btn-inverse waves-effect waves-light" >Ok</button>
+                </span>
+                <span class="split-bot-btn4 hide text-center">
+                    <button type="button" class="btn btn-inverse waves-effect" id="submissionSplitUIDialogModalCancelBttn2" data-dismiss="modal">Ok</button>
+                </span>
+                <span class="split-bot-btn5 hide text-center">
+                    <button type="button" class="btn btn-inverse waves-effect" id="splitSubmissionDone" data-dismiss="modal">Ok</button>
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <table class="split-row hide">
+      <tr>
+        <td class="num split-count"></td>
+        <td>
+            <select class="form-control select2 select2-box multiSelectSelect2Field select-split" name="case-attachments[0]" id="case-attachments[0]" multiple="multiple" >
+</select>
+        </td>
+        <td class="intakeCaseNum">
+            <a><label class="control-label notDefinedYet">Not Defined Yet</label></a>
+        </td>
+      </tr>
+    </table>
+</div>
+    <div id="copyCaseModal" data-custom-class="" data-has-confirm-button="false"
+     data-allow-outside-click="false" data-has-done-function="false" data-animation="none" data-timer="null"
+     style="display: none; margin-top: -170px;">
+    <div class="sa-icon sa-error" style="display: none;">
+        <span class="sa-x-mark">
+            <span class="sa-line sa-left"></span>
+            <span class="sa-line sa-right"></span>
+        </span>
+    </div>
+
+    <div class="sa-icon sa-warning pulseWarning" style="display: block;">
+        <span class="sa-body pulseWarningIns"></span>
+        <span class="sa-dot pulseWarningIns"></span>
+    </div>
+
+    <div class="sa-icon sa-info" style="display: none;"></div>
+
+    <div class="sa-icon sa-success" style="display: none;">
+        <span class="sa-line sa-tip"></span>
+        <span class="sa-line sa-long"></span>
+
+        <div class="sa-placeholder"></div>
+
+        <div class="sa-fix"></div>
+    </div>
+
+    <div class="sa-icon sa-custom" style="display: none;"></div>
+
+    <h2 class="alert-type">Warning</h2>
+
+    <p style="display: block;" class="display-message"></p>
+    <fieldset>
+        <input type="text" tabindex="3" placeholder="">
+
+        <div class="sa-input-error"></div>
+    </fieldset>
+
+    <div class="sa-error-container">
+        <div class="icon">!</div>
+
+        <p>Not valid!</p>
+    </div>
+
+    <div class="sa-button-container">
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-confirm w-xs first-btn" tabindex="1"
+                    style="display: inline-block;">Yes</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div>
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-reject w-xs second-btn" tabindex="1"
+                    style="display: inline-block;">No</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div></div></div>
+
+    <div id="splitConfirmModal" data-custom-class="" data-has-confirm-button="false"
+     data-allow-outside-click="false" data-has-done-function="false" data-animation="none" data-timer="null"
+     style="display: none; margin-top: -170px;">
+    <div class="sa-icon sa-error" style="display: none;">
+        <span class="sa-x-mark">
+            <span class="sa-line sa-left"></span>
+            <span class="sa-line sa-right"></span>
+        </span>
+    </div>
+
+    <div class="sa-icon sa-warning pulseWarning" style="display: block;">
+        <span class="sa-body pulseWarningIns"></span>
+        <span class="sa-dot pulseWarningIns"></span>
+    </div>
+
+    <div class="sa-icon sa-info" style="display: none;"></div>
+
+    <div class="sa-icon sa-success" style="display: none;">
+        <span class="sa-line sa-tip"></span>
+        <span class="sa-line sa-long"></span>
+
+        <div class="sa-placeholder"></div>
+
+        <div class="sa-fix"></div>
+    </div>
+
+    <div class="sa-icon sa-custom" style="display: none;"></div>
+
+    <h2 class="alert-type">Warning</h2>
+
+    <p style="display: block;" class="display-message"></p>
+    <fieldset>
+        <input type="text" tabindex="3" placeholder="">
+
+        <div class="sa-input-error"></div>
+    </fieldset>
+
+    <div class="sa-error-container">
+        <div class="icon">!</div>
+
+        <p>Not valid!</p>
+    </div>
+
+    <div class="sa-button-container">
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-confirm w-xs first-btn" tabindex="1"
+                    style="display: inline-block;">Yes</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div>
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-reject w-xs second-btn" tabindex="1"
+                    style="display: inline-block;">No</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div></div></div>
+
+    <!-- Modal -->
+<div class="modal fade" id="attachmentModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title" id="attachmentModalHeader"></h4>
+            </div>
+            <div class="modal-body spinner" id="modalBodyData">
+                <div id="viewer" style="width:100%;"></div>
+            </div>
+        </div>
+
+    </div>
+</div>
+    
+<div id="taskModal" class="modal fade" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Create Task</h4>
+            </div>
+            <div class="modal-body">
+                
+                
+                <form id="taskForm">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="alert alert-danger fade in hide p-0 p-l-10 p-r-10" id="messageBox">
+                                <div id="errorMessage"></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-4 required">
+                                    <label for="taskTypeId" class="control-label lbl-elipsis">Task Type
+                                    </label>
+                                        <select id="taskTypeId" data-placeholder="Select" name="taskTypeId" class="form-control select2-box" >
+<option value="100012" >Case Nullification</option>
+<option value="100018" >Task11</option>
+<option value="100019" >task12</option>
+<option value="100014" >Query Action</option>
+<option value="100015" >Test QA 2</option>
+<option value="100016" >Hospitalization Dates</option>
+<option value="100017" >Hospital Discharge Summary</option>
+<option value="1" >Case</option>
+<option value="2" >Letter</option>
+<option value="3" >Expedited Report</option>
+<option value="4" >Periodic Report</option>
+<option value="5" >Local Event</option>
+<option value="100000" >Unbliding Approval</option>
+<option value="100008" >Other</option>
+<option value="100002" >Test_PMDA Fax report</option>
+</select>
+                                    
+                                </div>
+                                <div class="col-sm-4">
+                                    <label for="priorityId">Priority</label>
+                                    
+                                    <select id="priorityId" name="priorityId" class="form-control select2-box" data-placeholder="Select" >
+<option value="1" >High</option>
+<option value="2" >Medium</option>
+<option value="3" >Low</option>
+</select>
+                                    
+                                </div>
+
+                                <div class="col-sm-4 required">
+                                    <label for="assignedToId" class="control-label lbl-elipsis">Assigned To</label>
+                                    <select id="assignedToId" name="assignedToId" class="form-control" data-placeholder="Select"></select>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-4 m-t-5">
+                                    <label for="dueDate">Due Date</label>
+                                    <div class="datepicker internal input-group date">
+                                        <input type="text" class="form-control futureDatesAllowed" data-precision="DD-MMM-YYYY" name="dueDate" id="dueDate" placeholder="Due Date" value="" />
+                                        <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                                            <i class="md md-calendar-blank"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 m-t-5">
+                                    <label for="completionDate">Completion Date</label>
+                                    <div class="datepicker internal input-group date">
+                                        <input type="text" class="form-control" data-precision="DD-MMM-YYYY" name="completionDate" id="taskCompletionDate" placeholder="Completion Date" value="" />
+                                        <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                                            <i class="md md-calendar-blank"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4 m-t-5">
+                                    <label for="status">Status</label>
+                                    <select id="taskStatus" name="statusId" class="select2-box form-control" >
+<option value="1" >New</option>
+<option value="2" >In Progress</option>
+<option value="3" >Need Clarification</option>
+<option value="4" >Closed</option>
+</select>
+                                </div>
+                                <div class="col-sm-12 required m-t-5">
+                                    <label for="description" class="control-label lbl-elipsis">Description</label>
+                                    <textarea id="description" name="description" rows="8" cols="20" maxlength="4000" class="form-control m-b-5" ></textarea>
+                                    <span class="maxlength-feedback"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-4 m-t-5 hide">
+                            <label class="control-label lbl-elipsis">Intake Case Number</label>
+                            <input type="hidden" id="case-id" name="primaryRefId" value="" />
+                            <span></span>
+
+                        </div>
+                        <div class="col-sm-4 m-t-5">
+                            <label class="control-label lbl-elipsis">Intake Case Number</label>
+                            <input type="hidden" id="case-number" name="tertiaryRefId" value="" />
+                            <span></span>
+
+                        </div>
+                        <div class="col-sm-4 m-t-5">
+                            <label  class="control-label lbl-elipsis">Version</label>
+                            <input type="hidden" id="case-version" name="secondaryRefId" value="" />
+                            <span></span>
+                        </div>
+                        <div class="col-sm-2 m-t-5">
+                            <label class="control-label lbl-elipsis">Email Alert</label>
+                            <div class='internal checkbox checkbox-primary'>
+                                <input type="checkbox" id="task-email-alert" name="" value="true"/>
+                                <label class="" for="task-email-alert"></label>
+                            </div>
+                        </div>
+                        <div class="col-sm-2 hide">
+                            <label class="control-label lbl-elipsis">SMS Alert</label>
+                            <div class='internal checkbox checkbox-primary'>
+                                <input type="checkbox" id="task-sms-alert"  value="true"/>
+                                <label class="" for=""></label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-4 m-t-5">
+                            <label class="control-label lbl-elipsis" id="created_updated_ele">Created By</label>
+                                <div class="taskManagerCreatedByUsername">shiva</div>
+                        </div>
+                        <div class="col-sm-4 m-t-5">
+                            <label class="control-label lbl-elipsis">Date Created</label>
+                            <span class="task-date"></span>
+                        </div>
+                    </div>
+                    <input type="hidden" id="taskId" name="taskId" value="" />
+                    <input type="hidden" id="countryId" name="countryId" value="" />
+                    <input type="hidden" id="fourthRefId" name="fourthRefId" value="" />
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="task-cancel-btn" class="btn pv-btn-grey waves-effect">Cancel</button>
+                <button type="button" id="task-save-btn" class="btn btn-primary waves-effect waves-light">Create</button>
+                <button type="button" id="task-update-btn" class="btn btn-primary waves-effect waves-light hide">Update</button>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<div id="pviModalFollowUpQuery" class="modal fade" data-backdrop="static" data-keyboard="false" style="position: relative;">
+    <div class="follow-up-modal-dialog modal-dialog modal-lg" style="position: fixed;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close FUQCancelBtn" id="followUpQueryCloseBtn" aria-hidden="true">×</button>
+                <h4 class="modal-title heading addHeading">Follow-Up Query</h4>
+                <h4 class="modal-title heading hide editHeading">Edit Follow-up Query</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <form id="followUpQueryForm" enctype="multipart/form-data" method="post">
+                            <div class="row">
+                                <div class="method col-md-10 required">
+                                    <label for="method" class="control-label m-t-5 lbl-elipsis">Method </label>
+                                    <select id="method" name="methodId" class="form-control select2" >
+<option value="1" >Email</option>
+<option value="2" >Fax</option>
+<option value="3" >Letter</option>
+<option value="4" >Phone Call</option>
+</select>
+                                </div>
+                                <div class="col-md-2 m-t-30">
+                                    <div class="internal checkbox checkbox-primary toggleCC carbonCopy m-r-10 checkbox-inline">
+                                        <input id="ccToggle" class="ccToggle" type="checkbox" name="ccToggle" value="true"/>
+                                        <label for="ccToggle" class="control-label">CC </label>
+                                    </div>
+                                    <div class="internal checkbox checkbox-primary toggleBCC blindCarbonCopy checkbox-inline">
+                                        <input id="bccToggle" class="bccToggle" type="checkbox" name="bccToggle" value="true"/>
+                                        <label for="bccToggle" class="control-label">BCC </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row m-t-10 followUpReporters to mailReceiver">
+                                <div class="col-md-12 required">
+                                    <label for="followUpReporters" class="control-label lbl-elipsis">To </label>
+                                    <select id="followUpReporters" class="lbl-required form-control  select2 select2-box wrapped-multiselect select-split customValueMultiSelect2"
+                                            name="sentTo"
+                                            multiple="multiple">
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="row sentToPostalMail m-t-10 required hide">
+                                <div class="col-md-12">
+                                    <label for="sentToPostalMail" class="control-label lbl-elipsis">To </label>
+                                    <textarea id="sentToPostalMail" name="sentToPostalMail" rows="1" cols="20" maxlength="1000" class="form-control fm-text-area p-t-0" ></textarea>
+                                    <span class="maxlength-feedback"></span>
+                                </div>
+                            </div>
+                            <div id="ccDiv" class="cc carbonCopy m-t-10 row">
+                                <div class="col-md-12">
+                                    <label for="cc" class="control-label lbl-elipsis">CC</label>
+                                    <select id="cc" class="form-control  select2 select2-box wrapped-multiselect select-split customValueMultiSelect2" name="cc" multiple="multiple">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div id="bccDiv" class="bcc blindCarbonCopy m-t-10 row">
+                                <div class="col-md-12">
+                                    <label for="bcc" class="control-label lbl-elipsis">BCC</label>
+                                    <select id="bcc" class="form-control select2 select2-box wrapped-multiselect select-split customValueMultiSelect2" name="bcc" multiple="multiple"></select>
+                                </div>
+                            </div>
+
+                            <div class="emailTemplate m-t-10 row">
+                                <div class="col-md-12">
+                                    <label for="emailTemplate" class="control-label lbl-elipsis">Template </label>
+                                    <select id="emailTemplate" name="emailTemplate" class="form-control select2-box" >
+</select>
+                                </div>
+                            </div>
+
+                            <div class="row m-t-10 mailSubject">
+                                <div class="subject col-md-12 required">
+                                    <label for="subject" class="control-label lbl-elipsis">Subject </label>
+                                    <textarea id="subject" name="subject" rows="1" cols="20" maxlength="1000" class="form-control fm-text-area p-t-0" ></textarea>
+                                    <span class="maxlength-feedback"></span>
+                                </div>
+                            </div>
+
+                            <div class="row m-t-10 mailBody">
+                                <div class="modalFUQMsg col-md-12 required">
+                                    <label for="modalFUQMsg" class="control-label lbl-elipsis">Message <span class="fa fa-question-circle " style="color:#0000FF;cursor: pointer;" aria-hidden="true"></span></label>
+                                    <textarea id="modalFUQMsg" name="body" rows="15" cols="20" maxlength="10000" class="form-control fm-text-area hide" ></textarea>
+                                    <span class="maxlength-feedback"></span>
+                                </div>
+                            </div>
+
+                            <div class="nonEmail hide">
+                                <div class="row sentToNonEmail m-t-10 required">
+                                    <div class="col-md-12">
+                                        <label for="sentToNonEmail" class="control-label lbl-elipsis">Contacted </label>
+                                        <textarea id="sentToNonEmail" name="sentToNonEmail" rows="1" cols="20" maxlength="1000" class="form-control fm-text-area p-t-0" ></textarea>
+                                        <span class="maxlength-feedback"></span>
+                                    </div>
+                                </div>
+                                <div class="row description m-t-10 required">
+                                    <div class="col-md-12">
+                                        <label for="description" class="control-label lbl-elipsis">Description </label>
+                                        <textarea id="FU_description" name="description" rows="1" cols="20" maxlength="1000" class="form-control fm-text-area p-t-0" ></textarea>
+                                        <span class="maxlength-feedback"></span>
+                                    </div>
+                                </div>
+                                <div class="row m-t-10">
+                                    <div class="dateSent col-md-4">
+                                        <label for="dateSent" class="control-label lbl-elipsis">Date Contacted</label>
+                                        <div class="">
+                                            <div class="dateSent datepicker internal input-group date">
+                                                <input type="text" class="form-control" data-precision="DD-MMM-YYYY" name="dateSent" id="dateSent" placeholder="Date Contacted" value="" />
+                                                <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                                                    <i class="md md-calendar-blank"></i>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sentByNonEmail col-md-4">
+                                        <label for="sentByNonEmail" class="control-label lbl-elipsis">Contacted By </label>
+                                        <input type="text" id="sentByNonEmail" name="sentByNonEmail" value="" maxlength="1000" class="form-control" />
+                                    </div>
+                                    <div class="dateClosed col-md-4">
+                                        <label for="dateClosed" class="control-label lbl-elipsis">Date Closed</label>
+                                        <div class="">
+                                            <div class="dateClosed datepicker internal input-group date">
+                                                <input type="text" class="form-control" data-precision="DD-MMM-YYYY" name="dateClosed" id="dateClosed" placeholder="Date Closed" value="" />
+                                                <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                                                    <i class="md md-calendar-blank"></i>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row comments m-t-10">
+                                    <div class="col-md-12">
+                                        <label for="comments" class="control-label lbl-elipsis">Comments </label>
+                                        <textarea id="comments" name="comments" rows="8" cols="20" maxlength="4000" class="form-control fm-text-area" ></textarea>
+                                        <span class="maxlength-feedback"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="attachments fileName m-t-10">
+                                <table class="table table-striped pv-inner-table m-b-0">
+                                    <thead>
+                                        <tr>
+                                            <th class="col-md-1">#</th>
+                                            <th class="col-md-11  true"> <label class="control-label lbl-elipsis">Attachments </label></th>
+                                            <th><a href="javascript:void(0);" class="pull-right add-attachment" data-tabular="true">
+                                                <i class="fa fa-plus-square-o"></i></a>
+                                            </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="pv-draggable-list ui-sortable" id="attachmentSection-followUp" style="">
+                                        <tr class="row-table pv-section-record ui-sortable-handle hide deleted" data-id = "">
+                                            <td class="new-index badge-index">0</td>
+                                            <td>
+                                                <div class="col-sm-12 pv-col-attachment">
+                                                    <a href="javascript:void(0)" class="attachmentRow m-r-10" data-deleted="false" data-filename="" data-storageid="" data-redact="false" ></a>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <a href="javascript:void(0);" title="Remove this section" class="pull-right delete-attachment">
+                                                    <i class="md md-close" aria-hidden="true"></i>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    <tr class="row-table pv-section-record ui-sortable-handle" style="">
+                                        <td class="new-index badge-index">1</td>
+                                        <td>
+                                            <div class="internal" data-id="attachmentFilePath">
+                                                <div class="file-uploader" data-provides="fileupload">
+                                                    <input type="file" name="followUpQuery.attachments[0].file" data-mandatory="false" data-mandatoryset="0" class="file">
+                                                    <div class="input-group">
+                                                        <input type="text" class="form-control fileName" disabled="" placeholder="Attach a file" value="" name="followUpQuery.attachments[0].fileName">
+                                                        <span class="input-group-btn ">
+                                                            <button class="browse btn btn-primary btn-file-upload" type="button"><i class="glyphicon glyphicon-search"></i>
+                                                            </button>
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <a href="javascript:void(0);" title="Remove this section" class="pull-right delete-attachment">
+                                                <i class="md md-close" aria-hidden="true"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="commentsEmail hide m-t-10">
+                                <label for="commentsEmail" class="control-label lbl-elipsis">Comments</label>
+                                <textarea id="commentsEmail" name="comments" rows="10" cols="20" maxlength="500" class="form-control fm-text-area" ></textarea>
+                                <span class="maxlength-feedback"></span>
+                            </div>
+
+                            <div class="row">
+                                <div class="dateContactedPostalMail hide  m-t-10 col-md-4">
+                                    <label for="dateContactedPostalMail" class="control-label lbl-elipsis">Date Contacted</label>
+                                    <div class="">
+                                        <div class="dateContactedPostalMail datepicker internal input-group date">
+                                            <input type="text" class="form-control" data-precision="DD-MMM-YYYY" name="dateContactedPostalMail" id="dateContactedPostalMail" placeholder="Date Contacted" value="" />
+                                            <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                                                <i class="md md-calendar-blank"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="contactedPostalMail  hide  m-t-10 col-md-4">
+                                    <label for="contactedPostalMail" class="control-label lbl-elipsis">Contacted By </label>
+                                    <input type="text" id="contactedPostalMail" name="contactedPostalMail" value="" maxlength="1000" class="form-control" />
+                                </div>
+                                <div class="dateClosedEmail hide  m-t-10 col-md-4 dropup">
+                                    <label for="dateClosedEmail" class="control-label lbl-elipsis">Date Closed</label>
+
+                                    <div class="">
+                                        <div class="datepicker internal input-group date">
+                                            <input type="text" class="form-control " data-precision="DD-MMM-YYYY" name="dateClosed" id="dateClosedEmail" placeholder="Date Closed" value="" />
+                                            <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                                                <i class="md md-calendar-blank"></i>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <input type="hidden" id="followUpQueryId" name="followUpQueryId" value="" />
+                            <input type="hidden" id="primaryRefId" name="primaryRefId" value="" />
+                            <input type="hidden" id="secondaryRefId" name="secondaryRefId" value="" />
+                            <input type="hidden" id="tertiaryRefId" name="tertiaryRefId" value="" />
+                            <input type="hidden" id="maxFileSize" name="maxFileSize" value="5" />
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div id="emailHelpModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" id="emailHelpClose" class="close" aria-hidden="true">×</button>
+                <h4 class="modal-title emailHelp">Field tags supported in e-mail body and subject</h4>
+            </div>
+            <div class="modal-body">
+                <table class="table table-striped pv-inner-table m-b-0" id="placeholderTable">
+                    <thead>
+                    <tr>
+                        <th class="col-md-1">#</th>
+                        <th class="col-md-3"> <label class="control-label lbl-elipsis" > Placeholder </label></th>
+                        <th class="col-md-8"> <label class="control-label lbl-elipsis"> Help Text </label></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr class="primary"><td>1</td><td>[Intake Case #]</td><td> Intake Cases</td>
+                    <tr class="primary"><td>2</td><td>[Version]</td><td> Version of the Case</td>
+                    <tr class="primary"><td>3</td><td>[First Receipt Date]</td><td> First Receipt Date of the Case</td>
+                    <tr class="primary"><td>4</td><td>[FU Receipt Date]</td><td> FU Receipt Date of the Case</td>
+                    <tr class="primary"><td>5</td><td>[Primary Reporter]</td><td> Name of the Primary Reporter in format &lt;First Name&gt; &lt;Middle Name&gt; &lt;Last Name&gt;</td>
+                    <tr class="primary"><td>6</td><td>[Patient Initials]</td><td> Name </td>
+                    <tr class="primary"><td>7</td><td>[Age]</td><td> Age of the Patient</td>
+                    <tr class="primary"><td>8</td><td>[Gender]</td><td> Gender of the Patient </td>
+                    <tr class="primary"><td>9</td><td>[Primary Suspect Product]</td><td> Name of the Primary Suspect Product in format &lt;Trade Name&gt; (&lt;Generic Name&gt;) if Product is coded else shall display the Product Name</td>
+                    <tr class="primary"><td>10</td><td>[Primary Event]</td><td> Reported Reaction for first event in the case</td>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="emailHelpOk" class="btn pv-btn-grey waves-effect emailHelp-ok-btn" >Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+            <div class="modal-footer">
+                <button type="button" class="btn pv-btn-dark-grey waves-effect" id="FUQResetBtn">Reset</button>
+                <button type="button" class="btn pv-btn-grey waves-effect FUQCancelBtn" id="FUQCancelBtn">Cancel</button>
+                
+                <button type="button" class="btn btn-primary waves-effect waves-light" id="FUQSend">Send</button>
+                <button type="button" class="btn pv-btn-grey waves-effect followUpCloseBtn hide" id="fuqClose">Close</button>
+                <button type="button" class="btn btn-primary waves-effect waves-light followUpUpdateBtn hide" id="fuqUpdate">Update</button>
+                <a id="tempDownload" target="_blank" class="hide"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+    <div class="modal fade" id="errorDialogBox" tabindex="-1" role="dialog" aria-hidden="true">  
+    <div class="modal-dialog modal-lg"> 
+             <div class="modal-content">
+        <div class="modal-header"> 
+            <span class="error-modal-title">Error</span>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> 
+                <span aria-hidden="true">&times;</span> 
+            </button>
+        </div>
+        <div class="modal-body error-modal-body"> </div>
+    </div>
+    </div>
+</div>
+
+
+
+<div id="product-browser-container" class="pvb-container"></div>
+
+<div id="study-browser-container" class="pvb-container"></div>
+
+<div id="meddra-browser-container" class="pvb-container"></div>
+
+<div class="hide" id="eventCodedIconDivId"><i class="fa pull-right m-t-10 white-tooltip eventCodedFlag"></i></div>
+<div class="sweet-alert-modal" data-custom-class="" data-has-cancel-button="true" data-has-confirm-button="false"
+     data-allow-outside-click="false" data-has-done-function="false" data-animation="none" data-timer="null"
+     style="display: none; margin-top: -170px;">
+    <div class="sa-icon sa-error" style="display: none;">
+        <span class="sa-x-mark">
+            <span class="sa-line sa-left"></span>
+            <span class="sa-line sa-right"></span>
+        </span>
+    </div>
+
+    <div class="sa-icon sa-warning pulseWarning" style="display: block;">
+        <span class="sa-body pulseWarningIns"></span>
+        <span class="sa-dot pulseWarningIns"></span>
+    </div>
+
+    <div class="sa-icon sa-info" style="display: none;"></div>
+
+    <div class="sa-icon sa-success" style="display: none;">
+        <span class="sa-line sa-tip"></span>
+        <span class="sa-line sa-long"></span>
+
+        <div class="sa-placeholder"></div>
+
+        <div class="sa-fix"></div>
+    </div>
+
+    <div class="sa-icon sa-custom" style="display: none;"></div>
+
+    <h2 class="alert-type">Warning</h2>
+
+    <p style="display: block;" class="display-message"></p>
+    <fieldset>
+        <input type="text" tabindex="3" placeholder="">
+
+        <div class="sa-input-error"></div>
+    </fieldset>
+
+    <div class="sa-error-container">
+        <div class="icon">!</div>
+
+        <p>Not valid!</p>
+    </div>
+
+    <div class="sa-button-container">
+        <button class="cancel first-btn btn-cancel w-xs" tabindex="2"
+                style="display: inline-block; box-shadow: none;">Cancel</button>
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-confirm w-xs" tabindex="1" style="display: none;">OK</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div>
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-confirm w-xs second-btn" tabindex="1"
+                    style="display: inline-block;">Yes</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div>
+
+        <div class="sa-confirm-button-container">
+            <button class="confirm btn-reject w-xs third-btn" tabindex="1"
+                    style="display: inline-block;">No</button>
+
+            <div class="la-ball-fall">
+                <div></div>
+
+                <div></div>
+
+                <div></div>
+            </div>
+        </div></div></div>
+
+
+<input type="hidden" name="serverTimestampURL" value="http://10.100.22.228:8081/config/loadServerTime" id="serverTimestampURL" />
+<input type="hidden" id="serverTimestamp"/>
+<div id="pv-justification-modal" class="modal fade" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="justificationModalLabel" aria-hidden="true">
+</div>
+<div class="modal fade attachmentUploadModel" id="attachmentUploadModel" tabindex="-1" role="dialog"
+     aria-hidden="true" data-fileNameAttribute="">
+    <input type="hidden" name="currentAttachmentName" value="" id="currentAttachmentName" />
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+
+                <h4 class="modal-title">Update Attachment</h4>
+            </div>
+
+            <div class="modal-body">
+                <p>Do you want to replace the original file or provide the edited copy?</p>
+                <form>
+                    <label class="radio-inline">
+                        <input type="radio" name="attachment_type_redact" value="false">
+                        Replace Original
+                    </label>
+                    <label class="radio-inline">
+                        <input type="radio" name="attachment_type_redact" value="true">
+                        Edited Copy
+                    </label>
+                </form>
+            </div>
+
+            <div class="modal-footer">
+                <button id="attachmentModelSubmitButton" type="button" class="btn btn-secondary">
+                    Ok
+                </button>
+                <button id="attachmentModelDismissButton" type="button" class="btn btn-secondary" data-dismiss="modal">
+                    Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="emailContentfuqModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="false" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close emailContentModalCancelBtn" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Follow Up Query Information</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12 required">
+                        <label for="emailMethod" class="control-label lbl-elipsis">Method </label>
+                        <select id="emailMethod" name="emailMethod" class="form-control select2" disabled="disabled" >
+<option value="1" >Email</option>
+<option value="2" >Fax</option>
+<option value="3" >Letter</option>
+<option value="4" >Phone Call</option>
+</select>
+                    </div>
+                    <div class="col-md-12 required">
+                        <label for="emailSentTo" class="control-label lbl-elipsis">To </label>
+                        <select id="emailSentTo" class="lbl-required form-control  select2 select2-box multiSelectSelect2Field wrapped-multiselect select-split customValueMultiSelect2"
+                            name="emailSentTo"
+                            multiple="multiple" disabled>
+                        </select>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="emailCcValue" class="control-label lbl-elipsis">CC</label>
+                        <select id="emailCcValue" class="form-control  select2 select2-box wrapped-multiselect select-split customValueMultiSelect2" name="emailCcValue" multiple="multiple" disabled>
+                        </select>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="emailBccValue" class="control-label lbl-elipsis">BCC</label>
+                        <select id="emailBccValue" class="form-control select2 select2-box wrapped-multiselect select-split customValueMultiSelect2" name="emailBccValue" multiple="multiple" disabled></select>
+                    </div>
+
+                    <div class="col-md-12">
+                        <label for="emailTemplateValue" class="control-label lbl-elipsis">Template </label>
+                        <select id="emailTemplateValue" name="emailTemplateValue" class="form-control select2-box" disabled="disabled" >
+</select>
+                    </div>
+
+                    <div class="col-md-12 required">
+                        <label for="emailSubjectValue" class="control-label lbl-elipsis">Subject </label>
+                        <textarea id="emailSubjectValue" name="emailSubjectValue" rows="1" cols="20" maxlength="1000" class="form-control fm-text-area p-t-0" disabled="disabled" ></textarea>
+                        <span class="maxlength-feedback"></span>
+                    </div>
+
+                    <div class="modalFUQMsg col-md-12 required">
+                        <label for="emailContentMessage" class="control-label">Email Content</label>
+                        <textarea id="emailContentMessage" name="emailContentMessage" cols="100" rows="15" class="form-control hide" disabled></textarea>
+                    </div>
+                </div>
+                <div class="row m-t-10">
+                    <label class="control-label">Attachments</label>
+                    <div class="col-sm-12 pv-col-attachment" id="emailContentAttachments"></div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                
+                <button type="button" id="pv-emailContentClose" class="btn pv-btn-grey waves-effect" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+<div class="pv-loader-bg">
+    <div class="loader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke="#4f8ef2" stroke-width="2" stroke-miterlimit="10"/>
+        </svg>
+    </div>
+</div>
+<div id="action-views-config" data-hide-class="caseListHideAction"></div>
+<div class="content-page" id="commonListDataElements" data-has-multiple-list="true">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="page-title-box">
+                <div class="fixed-page-head">
+                    <div class="page-head-lt">
+                        <h4>Dashboard</h4>
+                    </div>
+
+                    <div class="pull-right nav-right page-head-rt text-right ic-md" id="pv-dash-topMinWidget">
+                        <a href="javascript:void(0)" id="resetButton" data-url="resetWidgetUrl"
+                                class="pv-ic waves-effect waves-light"
+                                title="Reset"><i
+                                class="md md-backup-restore"></i></a>
+
+                        <a href="#" class="pv-ic waves-effect waves-light" data-target="#"
+                           class="dropdown-toggle waves-effect waves-light"
+                           data-toggle="dropdown" aria-expanded="true">
+                            <i class="md md-list"></i>
+                        </a>
+                        <ul class="dropdown-menu dashboard-widget-config field-config rx-widget-menu-content">
+                            
+                                <li data-url="addWidgetUrl" class="checkbox checkbox-primary"
+                                    data-id="pv-dash-searchCase"
+                                    data-params='{"widgetType": "SEARCH_CASE"}'
+                                    data-widgetid="3657">
+                                    <input type="hidden" name="_searchCaseWidget" /><input type="checkbox" name="searchCaseWidget" checked="checked" id="searchCaseWidget"  /><label
+                                        for="searchCaseWidget">Search Cases</label>
+                                </li>
+                            
+                            <li data-url="addWidgetUrl" class="checkbox checkbox-primary" data-id="pv-dash-stats"
+                                data-params='{"widgetType": "PERSONAL_STATS"}'
+                                data-widgetid="3658">
+                                <input type="hidden" name="_personalStatsCaseWidget" /><input type="checkbox" name="personalStatsCaseWidget" checked="checked" id="personalStatsCaseWidget"  /><label
+                                    for="personalStatsCaseWidget">Personal Statistics</label>
+                            </li>
+                            
+                                <li data-url="addWidgetUrl" class="checkbox checkbox-primary"
+                                    data-id="pv-dash-intakeQueue"
+                                    data-params='{"widgetType": "INTAKE_QUEUE"}'
+                                    data-widgetid="3659">
+                                    <input type="hidden" name="_intakeQueueCaseWidget" /><input type="checkbox" name="intakeQueueCaseWidget" checked="checked" id="intakeQueueCaseWidget"  /><label
+                                        for="intakeQueueCaseWidget">Intake Queue</label>
+                                </li>
+                            
+                        
+                        
+                            
+                                <li data-url="addWidgetUrl" class="checkbox checkbox-primary"
+                                    data-id="pv-dash-caseList"
+                                    data-params='{"widgetType": "CASE_LIST"}'
+                                    data-widgetid="3660">
+                                    <input type="hidden" name="_caseListCaseWidget" /><input type="checkbox" name="caseListCaseWidget" checked="checked" id="caseListCaseWidget"  /><label
+                                        for="caseListCaseWidget">Case List</label>
+                                </li>
+                            
+                        
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Start content -->
+    <div class="content">
+        <div class="container pv-dashboard">
+            <div id="rx-widgets" class="row">
+                <div class="grid-stack">
+                    
+                        
+<div class="grid-stack-item"
+     data-gs-id="3657"
+     data-gs-x="0" data-gs-y="0"
+     data-gs-width="3" data-gs-height="3"
+     data-gs-auto-position="false">
+
+    
+    
+    
+        
+            <div class="panel grid-stack-item-content">
+    <div class="panel-heading pv-sec-heading">
+        <span class="rxmain-container-header-label rx-widget-title">Search Case</span>
+        <a href="javascript:void(0);" id="remove-widget0" data-url="removeWidgetUrl" data-params='{"id": "3657"}' data-widgetid="3657"
+   class="remove-widget rxmain-container-header-label pull-right"
+   data-toggle="tooltip" data-placement="bottom" title="Remove Widget"><i class="md-lg md-close"></i></a>
+
+
+
+    </div>
+
+    <div class="row rx-widget-content">
+        <div class="panel-body p-0 p-l-10 p-r-10">
+            <div class="row pv-inner-shadow-box widget-ht-sm">
+                <div class="col-md-12 src-widget-field">
+                    <form action="/case/index" method="post" >
+                        <div>
+                            <div id="results">
+                                <span id="final_span" class="final" style="display: none;"></span>
+                                <span id="interim_span" class="interim" style="display: none;"></span>
+                            </div>
+                            <textarea name="q" class="form-control" row="5" id="dup_search_string" spellcheck="true"
+                                      autocorrect="true" placeholder="Describe case..." maxlength="500"></textarea>
+                            
+                        </div>
+
+                        <div class="col-sm-12">
+                            <input type="submit" name="_action_duplicateSearch" value="Search" id="pvHomeDesCaseBtn" class="btn btn-primary waves-effect waves-light" title="Click here to search cases" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+    
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+    
+</div>
+                    
+                        
+<div class="grid-stack-item"
+     data-gs-id="3658"
+     data-gs-x="3" data-gs-y="0"
+     data-gs-width="9" data-gs-height="3"
+     data-gs-auto-position="false">
+
+    
+    
+    
+        
+    
+    
+        <div class="panel grid-stack-item-content">
+    <div class="panel-heading pv-sec-heading">
+        <span class="rxmain-container-header-label rx-widget-title">Personal Statistics</span>
+        <a href="javascript:void(0);" id="remove-widget1" data-url="removeWidgetUrl" data-params='{"id": "3658"}' data-widgetid="3658"
+   class="remove-widget rxmain-container-header-label pull-right"
+   data-toggle="tooltip" data-placement="bottom" title="Remove Widget"><i class="md-lg md-close"></i></a>
+
+
+
+    <a href="javascript:void(0);" id="refresh-widget1" data-url="refreshWidgetUrl" data-params='{"id": "3658"}'
+   class="refresh-widget rxmain-container-header-label pull-right"
+   data-toggle="tooltip" data-placement="bottom" title="Refresh"><i class="md-lg md-refresh"></i></a>
+
+    </div>
+
+    <div class="row rx-widget-content">
+        <div class="panel-body p-0 p-l-10 p-r-10">
+            <div class="row widget-ht-sm pv-widget-personal-stats">
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">New<br/> <br/></h5>
+
+                        <h1 class="text-red"><span class="counter new">0</span></h1>
+                    </div>
+                </div>
+
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">Active<br/> <br/></h5>
+
+                        <h1 class="text-blue counter active" id="RL">0</h1>
+                    </div>
+                </div>
+
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">Final<br/> <br/></h5>
+
+                        <h1 class="text-pink counter final">0</h1>
+                    </div>
+                </div>
+
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">Transmitted<br/> <br/></h5>
+
+                        <h1 class="text-success"><span class="counter transmitted">0</span></h1>
+                    </div>
+                </div>
+
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">Successful<br/> <br/></h5>
+
+                        <h1 class="text-info"><span class="counter successful">0</span></h1>
+                    </div>
+                </div>
+
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">Failed<br/> <br/></h5>
+
+                        <h1 class="text-purple counter failed">0</h1>
+                    </div>
+                </div>
+
+                <div class="col-sm-2 col-lg-2">
+                    <div class="widget-simple-chart text-center card-box pv-inner-shadow-box">
+                        <h5 class="text-muted">Closed<br/> <br/></h5>
+
+                        <h1 class="text-warning counter closed">0</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        pvi.dashboard.loadData();
+
+        //refresh widget event binding
+        $(document).on('click', '#refresh-widget1', function () {
+            pvi.dashboard.loadData();
+        });
+    });
+</script>
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+    
+</div>
+                    
+                        
+<div class="grid-stack-item"
+     data-gs-id="3659"
+     data-gs-x="0" data-gs-y="3"
+     data-gs-width="12" data-gs-height="7"
+     data-gs-auto-position="false">
+
+    
+    
+    
+        
+    
+    
+    
+        
+            
+<div class="panel grid-stack-item-content overflow-y-hidden">
+    
+
+    <div class="panel-heading pv-sec-heading">
+        <span class="rxmain-container-header-label rx-widget-title">Intake Queue</span>
+        <a href="javascript:void(0);" id="remove-widget2" data-url="removeWidgetUrl" data-params='{"id": "3659"}' data-widgetid="3659"
+   class="remove-widget rxmain-container-header-label pull-right"
+   data-toggle="tooltip" data-placement="bottom" title="Remove Widget"><i class="md-lg md-close"></i></a>
+
+
+
+    </div>
+
+    <div class="row rx-widget-content">
+        <div class="panel-body p-0 p-l-10 p-r-10" id="intakeQueueContainer">
+            <div id="list-data-elements" data-is-or-operation="false" data-order-by-default='[[3, "desc"]]' data-show-info="true"
+                 data-page-length="5" data-count-search-criteria="false" data-paging="true" data-length-change="true"
+                 data-sort-while-search="false" data-is-widget="true" data-clear-cache-on-refresh="false" data-save-form-state="false"></div>
+
+            
+<div class="pv-caselist-top-fixed dataTableList">
+    
+    <div class="row hide pv-topsrc-container" id="pviCaseSrcSec">
+        <div class="col-md-12">
+            <div class="panel m-b-0">
+                <div class="panel-body inner-shadow-box">
+                    <div class="row m-b-0 pv-list-top-search">
+                        <form class="form-pv" name="intake_queue_form">
+                            <div class="col-md-12">
+                                <div class="form-group m-0">
+                                    <div class="col-md-4">
+                                        <label class="control-label">Search Cases</label>
+                                        <span class="glyphicon glyphicon-question-sign modal-link"
+                                              style="cursor:pointer" data-toggle="modal"
+                                              data-target="#searchCasesHelp"></span>
+
+                                        <div id="results">
+                                            <span id="final_span" class="final" style="display: none;"></span>
+                                            <span id="interim_span" class="interim" style="display: none;"></span>
+                                        </div>
+                                        <input id="simpleSearchField" type="text" class="form-control visible"
+                                               placeholder="Describe case...">
+                                        <i class="fa fa-microphone-slash form-control-feedback" id="mic"
+                                           style="position: absolute; right:0px; top: 35px;"></i>
+                                    </div>
+
+                                    
+<div class="col-md-2 date-range-type p-0">
+        <label class="control-label">Date Range Type</label>
+        <select class="form-control" id="date-range-type" name="date-range-type" data-is-permanent="true">
+            <option value="firstReceiptDate" selected = selected>First Receipt Date</option>
+            <option value="mostRecentReceiptDate" true>FU Receipt Date</option>
+            <option value="centralReceiptDate" true>Central Receipt Date</option>
+            
+                <option value="submissionDate">Submission Date</option>
+            
+            <option value="localSubmissionDate" true>Local Submission Date</option>
+        </select>
+    </div>
+    <div class="col-md-2 top-src-date-range">
+        <label class="control-label">Date Range</label>
+        <select class="form-control" id="pviListDateRange" name="pviListDateRange" data-is-permanent="true">
+            <option value="RESET" selected="selected"></option>
+            <option value="TODAY" >Today</option>
+            <option value="YESTERDAY" >Yesterday</option>
+            <option value="LAST_WEEK" >Last Week</option>
+            <option value="LAST_MONTH" >Last Month</option>
+            <option value="LAST_YEAR" >Last Year</option>
+            <option value="LAST_X_DAYS" >Last X Days</option>
+            <option value="LAST_X_WEEKS" >Last X Weeks</option>
+            <option value="LAST_X_MONTHS" >Last X Months</option>
+            <option value="LAST_X_YEARS" >Last X Years</option>
+            <option value="CUSTOM">Custom</option>
+        </select>
+    </div>
+    <div class="pv-inp-xrange hide" id="range-factor-field-container">
+        <input type="text" id="range-factor-field" name="range-factor-field" class="form-control" value="1" maxlength="3" data-is-permanent="true">
+    </div>
+    <div id="pviListCustomDaterange" class="hide form-pv">
+        <div class="col-md-2">
+            <label class="control-label">Start Date</label>
+            <div class="datepicker internal input-group date dropdown-right" data-id="startDate">
+                <input type="text" placeholder="DD-MON-CCYY" class="form-control futureDatesAllowed" name="datepicker-rangeStartDate" id="datepicker-rangeStartDate" data-is-permanent="true" data-precision="DD-MMM-YYYY" value="" />
+                <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                    <i class="md md-calendar-blank"></i>
+                </span>
+            </div>
+        </div>
+
+        <div class="col-md-2">
+            <label class="control-label">End Date</label>
+            <div class="datepicker internal input-group date dropdown-right" data-id="endDate">
+                <input type="text" placeholder="DD-MON-CCYY" class="form-control futureDatesAllowed" name="datepicker-rangeEndDate" id="datepicker-rangeEndDate" data-is-permanent="true" data-precision="DD-MMM-YYYY" value="" />
+                <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                    <i class="md md-calendar-blank"></i>
+                </span>
+            </div>
+        </div>
+    </div>
+    
+
+    
+        <div class="visible-lg-inline-block col-md-12">
+            <div class="col-md-12 p-l-10 p-r-10 m-l-5 true">
+                <label>Include Cases</label>
+            </div>
+            <div class="pv-include-cases-list visible-lg-inline-block m-l-10">
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="New" id="1-0" name="1-0" type="checkbox" checked value="1">
+                    <label for="1-0">New</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Active" id="2-1" name="2-1" type="checkbox" checked value="2">
+                    <label for="2-1">Active</label>
+                </div>
+            
+            
+            </div>
+            <button type="button" class="btn btn-primary waves-effect waves-light btnSearchCases m-l-10 search-button">
+                <i class="glyphicon glyphicon-search"></i> Search
+            </button>
+        </div>
+    
+    <input type="hidden" name="pageTypeId" class="form-control" value="2" />
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel-heading pv-sec-heading grid-top-head">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="btn-group">
+                    <button type="button"
+                            class="btn btn-default list-tab-btn waves-effect waves-light myCasesButton">
+                        My Cases (<span id="my-cases-count">0</span>)
+                    </button>
+                </div>
+                
+                    <div class="btn-group">
+                        <button type="button"
+                                class="btn btn-default list-tab-btn waves-effect waves-light allCasesButton">
+                            All Cases (<span id="all-cases-count">0</span>)</button>
+                    </div>
+                
+                <div class="btn-group" id="bulkActionContainer">
+                    <button type="button"
+                            class="btn btn-primary btn-caselist-action-all dropdown-toggle waves-effect waves-light hide"
+                            data-toggle="dropdown" aria-expanded="false">Bulk Action <span
+                            class="caret"></span></button>
+                </div>
+            </div>
+
+            <div class="col-md-6 grid-top-pagination text-right pull-right">
+                
+                
+                <div class="btn-group btn-filter m-l-10  pv-list-icbx ic-sm">
+                    <a href="#" id="filter-button" title="Enable/Disable Filters" class="pv-ic"><i class="md md-filter"
+                                                                                                   aria-hidden="true"></i>
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="loadData" data-value="true"/>
+</div>
+
+            <!-- Search Box -->
+            <div class="row pv-caselist-fixed-table">
+                <div class="col-sm-12 pv-caselist caselistrecords">
+                    <div class="panel m-b-0">
+                        <!-- End of the search button -->
+                        <div class="pv-sec-bg panel-body m-0 p-0">
+                            <div class="dataTables_scroll">
+                                
+<table id="intake-queue-table" cellspacing="0"
+       class="table table-striped display order-column list-table pv-list-table">
+    <thead class="filter-head">
+    <tr>
+        <th class="snum" data-idx="0" data-field='selected'><!-- Column 0 -->
+            <div class="td-box">
+                
+                    <input type="checkbox" id="bulk-select-bt" class="pv-caselist-checkall" title=""
+                           name="selectAll">
+                
+            </div>
+        </th>
+        <th class="col-intake-case" data-idx="1" data-field="intakeCaseNumber"><!-- Column 1 -->
+            <label class="list-column-label">Intake Case # <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="intake-case-number-filter" title=""
+                       data-field="intakeCaseNumber" />
+            </div>
+        </th>
+        <th class="pv-col-sm" data-idx="2" data-field="caseVersion"><!-- Column 2 -->
+            <label class="list-column-label">Version <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="version-filter" data-field="caseVersion"/>
+            </div>
+        </th>
+        <th data-idx="3" data-field='firstReceiptDate' class="pv-col-sm "><!-- Column 3 -->
+            <label class="list-column-label">First Receipt Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="receipt-date-filter" data-field="firstReceiptDate"/>
+            </div>
+        </th>
+        <th data-idx="4" data-field="reporters.qualificationValue"><!-- Column 4 -->
+            <label class="list-column-label">Reporter Qualification <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-type-filter" data-field="reporters.qualificationValue"/>
+            </div>
+        </th>
+        <th data-idx="5" data-field="events.eventName" class="pv-col-md"> <!-- Column 5 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Event(s) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" data-index-type="event" title=""
+                       id="events-filter" data-field="events.eventName"/>
+            </div>
+        </th>
+        <th data-idx="6" data-field="products.name" class="pv-col-md"><!-- Column 6 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Product(s) <i class="sort fa"></i></label>
+            <input class="list-filter" type="text" data-index-type="product" title=""
+                   id="products-filter" data-field="products.name"/>
+        </th>
+        <th data-idx="7" data-field="caseSeriousness.category" class="pv-col-xs"><!-- Column 7 -->
+            <label class="list-column-label">Case Ser. <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="case-seriousness-filter" data-field="caseSeriousness.category"/>
+            </div>
+        </th>
+        <th data-idx="8" data-field="priority.value" class="pv-col-xs"><!-- Column 8 -->
+            <label class="list-column-label">
+                Priority<i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="priority-filter" data-field="priority.value"/>
+            </div>
+        </th>
+        <th data-idx="9" data-field="attachments.name"> <!-- Column 9 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Attachment(s) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" data-index-type="attachment" title=""
+                       id="attachment-filter" data-field="attachments.name"/>
+            </div>
+        </th>
+        <th data-idx="10" data-field="dueDate" class="pv-col-sm"> <!-- Column 10 -->
+            <label class="list-column-label">Due Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="due-date-filter" data-field="dueDate"/>
+            </div>
+        </th>
+        <th data-idx="11" data-field="isRelated"> <!-- Column 11 -->
+            <label class="list-column-label">Related <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="is-related-filter" data-field="isRelated"/>
+            </div>
+        </th>
+        <th data-idx="12" data-field="assignedToUsername"> <!-- Column 12 -->
+            <label class="list-column-label">Assigned To <i class="sort fa"></i></label>
+
+            <div class="list-filter-container dropdown-list-filter">
+                <select id="assignee-filter" class="list-filter form-control" data-field="assignedToUsername" >
+                    <option></option>
+                </select>
+            </div>
+        </th>
+        <th data-idx="13" data-field="safetyCaseNumber"> <!-- Column 13 -->
+            <label class="list-column-label">Safety Case # <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="safety-case-number-filter" data-field="safetyCaseNumber"/>
+            </div>
+        </th>
+        <th data-idx="14" data-field="reportType"> <!-- Column 14 -->
+            <label class="list-column-label">Report Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="report-type-filter" data-field="reportType"/>
+            </div>
+        </th>
+        <th data-idx="15" data-field="patientAge"><!-- Column 15 -->
+            <label class="list-column-label">Patient Age <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="patient-age-filter" data-field="patientAge"/>
+            </div>
+        </th>
+        <th data-idx="16" data-field="gender.value"> <!-- Column 16 -->
+            <label class="list-column-label">Gender <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="gender-filter" data-field="gender.value"/>
+            </div>
+        </th>
+        <th data-idx="17" data-field="icsr.destination" class="pv-col-sm"> <!-- Column 17 -->
+            <label class="list-column-label">Destination <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="destination-filter" data-field="icsr.destination"/>
+            </div>
+        </th>
+        <th data-idx="18" data-field="icsr.dueDateString" class="pv-col-sm"> <!-- Column 18 -->
+            <label class="list-column-label">Report Due Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"
+                       id="report-due-date-filter" placeholder="DD-MON-CCYY" data-field="icsr.dueDate"/>
+            </div>
+        </th>
+        <th data-idx="19" data-field="reporterComments"><!-- Column 19 -->
+            <label class="list-column-label">Reporter Comments <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-comments-filter" data-field="reporterComments"/>
+            </div>
+        </th>
+        <th data-idx="20" data-field="reporters.name"> <!-- Column 20 -->
+            <label class="list-column-label">Reporter Name <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-name-filter" data-field="reporters.name"/>
+            </div>
+        </th>
+        <th data-idx="21" data-field="senderType.value"> <!-- Column 21 -->
+            <label class="list-column-label">Sender Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="sender-type-filter" data-field="senderType.value"/>
+            </div>
+        </th>
+        <th data-idx="22" data-field="senderName"> <!-- Column 22 -->
+            <label class="list-column-label">Sender Name <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="sender-name-filter" data-field="senderName"/>
+            </div>
+        </th>
+        <th data-idx="23" data-field="eventCountry.name"> <!-- Column 23 -->
+            <label class="list-column-label">Event Country (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="event-country-filter" data-field="eventCountry.name"/>
+            </div>
+        </th>
+        <th data-idx="24" data-field="icsr.reportVersion"> <!-- Column 24 -->
+            <label class="list-column-label">Report Version <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="report-version-filter" data-field="icsr.reportVersion"/>
+            </div>
+        </th>
+        <th data-idx="25" data-field="icsr.transmissionStatus"> <!-- Column 25 -->
+            <label class="list-column-label">Report State <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" placeholder=""
+                       id="report-state-filter" data-field="icsr.transmissionStatus"/>
+            </div>
+        </th>
+        <th data-idx="26" data-field="reportStateTimestampString"> <!-- Column 26 -->
+            <label class="list-column-label">Report Timestamp <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="report-state-timestamp-filter"
+                       data-field="icsr.stateTimestamp"/>
+            </div>
+        </th>
+        <th data-idx="27" data-field="icsr.reportMessage"> <!-- Column 27 -->
+            <label class="list-column-label">Report Error/Warning Message <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="report-message-filter" data-field="icsr.reportMessage"/>
+            </div>
+        </th>
+        <th data-idx="28" data-field="eventName"> <!-- Column 28 -->
+            <label class="list-column-label">Event Name (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="primary-event-filter" data-field="eventName"/>
+            </div>
+        </th>
+        <th data-idx="29" data-field="eventStartDate" class="pv-col-sm"> <!-- Column 29 -->
+            <label class="list-column-label">Event Start Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="event-start-date-filter" placeholder="DD-MON-CCYY" data-field="eventStartDate"/>
+            </div>
+        </th>
+        <th data-idx="30" data-field="outcome.value"> <!-- Column 30 -->
+            <label class="list-column-label">Outcome (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="outcome-filter" data-field="outcome.value"/>
+            </div>
+        </th>
+        <th data-idx="31" data-field="reporters.countryName">  <!-- Column 31 -->
+            <label class="list-column-label">Reporter Country <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-country-filter" data-field="reporters.countryName"/>
+            </div>
+        </th>
+        <th data-idx="32" data-field="relatednessString">  <!-- Column 32 -->
+            <label class="list-column-label">Relatedness (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="relatedness-filter" data-field="relatednessString"/>
+            </div>
+        </th>
+        <th data-idx="33" data-field="sourceType.type">  <!-- Column 33 -->
+            <label class="list-column-label">Source Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="source-type-filter" data-field="sourceType.type"/>
+            </div>
+        </th>
+        <th data-idx="34" data-field="categories.value"> <!-- Column 34 -->
+            <label class="list-column-label">Case Category<i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="category-filter" data-field="categories.value"/>
+            </div>
+        </th>
+        <th data-idx="35" data-field="mostRecentReceiptDateString" class="pv-col-sm "> <!-- Column 35 -->
+            <label class="list-column-label">FU Receipt Date<i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="most-recent-receipt-date-filter"
+                       data-field="mostRecentReceiptDate"/>
+            </div>
+        </th>
+        <th data-idx="36" data-field="productName"> <!-- Column 36 -->
+            <label class="list-column-label">Product Name (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="primary-product-filter" data-field="productName"/>
+            </div>
+        </th>
+        <th data-idx="37" data-field="substances.nameValue" class="pv-col-md"> <!-- Column 37 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Substances (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="substances-filter" data-field="substances.nameValue"/>
+            </div>
+        </th>
+        <th data-idx="38" data-field="studyNumber"> <!-- Column 38 -->
+            <label class="list-column-label">Study Num <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="study-id-filter" data-field="studyNumber"/>
+            </div>
+        </th>
+        <th data-idx="39" data-field="caseState"> <!-- Column 39 -->
+            <label class="list-column-label">Case State <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="caseState-filter" title=""
+                       data-field="caseState"/>
+            </div>
+        </th>
+        <th data-idx="40" data-field="versionType.value"> <!-- Column 40 -->
+            <label class="list-column-label">Study Typ <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="version-type-filter" data-field="versionType.value"/>
+            </div>
+        </th>
+        <th data-idx="41" data-field="receiptDateString" class="pv-col-sm">  <!-- Column 41 -->
+            <label class="list-column-label">Receipt Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"
+                       id="receiptDate-filter" placeholder="DD-MON-CCYY" data-field="receiptDate"/>
+            </div>
+        </th>
+        <th data-idx="42" data-field="mostRecentReceiptDate" class="pv-col-sm"> <!-- Column 42 -->
+            <label class="list-column-label">Onset Date (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"
+                       id="onsetDate-filter" placeholder="DD-MON-CCYY" data-field="onsetDate"/>
+            </div>
+        </th>
+        <th data-idx="43" data-field="firstReceiptDate" class="pv-col-sm"> <!-- Column 43 -->
+            <label class="list-column-label">Receipt Date <i class="sort fa"></i></label>
+        </th>
+        <th data-idx="44" data-field="dosageForm.value"> <!-- Column 44 -->
+            <label class="list-column-label">Dosage Form (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="dosageFrom-filter" data-field="dosageForm.value"/>
+            </div>
+        </th>
+        <th data-idx="45" data-field="caseType"> <!-- Column 45 -->
+            <label class="list-column-label">Case Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="caseType-filter" data-field="caseType"/>
+            </div>
+        </th>
+        <th data-idx="46" data-field="icsr.type"> <!-- Column 46 -->
+            <label class="list-column-label">Report Form <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="icsr-type-filter" data-field="icsr.type"/>
+            </div>
+        </th>
+        <th data-idx="47" data-field="studyType.value"> <!-- Column 47 -->
+            <label class="list-column-label">Study Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="studyType-filter" data-field="studyType.value"/>
+            </div>
+        </th>
+        <th data-idx="48" data-field="patientName"> <!-- Column 48 -->
+            <label class="list-column-label">Name / Initials <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="patient-name-filter" data-field="patientName"/>
+            </div>
+        </th>
+        <th data-idx="49" data-field="seriousness.shortName" class="pv-col-sm"> <!-- Column 49 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Ser. <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="seriousness-filter" data-field="seriousnessString"/>
+            </div>
+        </th>
+        <th data-idx="50" data-field="caseCountry.name"> <!-- Column 50 -->
+            <label class="list-column-label">Case Country <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="case-country-filter" data-field="caseCountry.name"/>
+            </div>
+        </th>
+        <th data-idx="51" data-field="allReferences"> <!-- Column 51 -->
+            <label class="list-column-label">Case Reference ID <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="case-reference-id-filter" data-field="allReferences"/>
+            </div>
+        </th>
+        <th data-idx="52" data-field="patientId"> <!-- Column 52 -->
+            <label class="list-column-label">Patient ID <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="patient-id-filter" data-field="patientId"/>
+            </div>
+        </th>
+        <th data-idx="53" data-field="dobString" class="pv-col-sm"> <!-- Column 55 -->
+            <label class="list-column-label">Patient DOB <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"  placeholder="DD-MON-CCYY"
+                       id="dob-filter" data-field="dob"/>
+            </div>
+        </th>
+        <th data-idx="54" data-field="matchScore"> <!-- Column 54 -->
+            <label class="list-column-label">Match Score <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="matchScore-filter" data-field="matchScore" readonly title=""/>
+            </div>
+        </th>
+        <th data-idx="55" data-field="simpleSearch"> <!-- Column 55 -->
+            <label class="list-column-label">Simple Search <i class="sort fa"></i></label>
+        </th>
+        <th data-idx="56" data-field="dateRangeSearch"> <!-- Column 56 -->
+            <label class="list-column-label">Date Range Search <i class="sort fa"></i></label>
+        </th>
+
+        <th data-idx="57" data-field="sourceDb"> <!-- Column 57 -->
+            <label class="list-column-label">Source DB <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="sourceDb-filter" data-field="sourceDb" title=""/>
+            </div>
+        </th>
+        <th data-idx="58" data-field="safetyWFState"> <!-- Column 58 -->
+            <label class="list-column-label">Safety WF State <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="safetyWFState-filter" data-field="safetyWFState" title=""/>
+            </div>
+        </th>
+        <th data-idx="59" data-field="centralReceiptDate" class="pv-col-sm"> <!-- Column 59 -->
+            <label class="list-column-label">Central Receipt Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="central-receipt-date-filter" data-field="centralReceiptDate"/>
+            </div>
+        </th>
+        <th data-idx="60" data-field="localSubmissionDate" class="pv-col-sm"> <!-- Column 60 -->
+            <label class="list-column-label">Local Submission Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="local-submission-date-filter" data-field="localSubmissionDate"/>
+            </div>
+        </th>
+        <th data-idx="61" data-field="localSubmissionDueDate" class="pv-col-sm"> <!-- Column 61 -->
+            <label class="list-column-label">Local Submission Due Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="local-submission-due-date-filter" data-field="localSubmissionDueDate"/>
+            </div>
+
+        </th>
+       <th data-idx="62" data-field="latestAssignmentComment"><!-- Column 62 -->
+            <label class="list-column-label">Assignment Comments <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="assignment-comments-filter" data-field="latestAssignmentComment"/>
+            </div>
+        </th>
+        <th data-idx="63" data-field="vendor"><!-- Column 63 -->
+            <label class="list-column-label">Case Processing Unit <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="vendor-filter" data-field="vendor"/>
+            </div>
+        </th>
+        <th data-idx="64" data-field="replacementRequired"><!-- Column 64 -->
+            <label class="list-column-label">Replacement Required <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="replacement-required-filter" data-field="replacementRequired"/>
+            </div>
+        </th>
+        <th data-idx="65" data-field="caseCreatedDate"><!-- Column 65 -->
+            <label class="list-column-label">Case Created Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"  placeholder="DD-MON-CCYY"
+                       id="date-created-filter" data-field="caseCreatedDate"/>
+            </div>
+        </th>
+        <th data-idx="66" data-field="reporters.organization"><!-- Column 66 -->
+            <label class="list-column-label">Reporter Organization <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-organization" data-field="reporters.organization"/>
+            </div>
+        </th>
+        <th data-idx="67" data-field="reporters.department"><!-- Column 67 -->
+            <label class="list-column-label">Reporter Department <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-department" data-field="reporters.department"/>
+            </div>
+        </th>
+        <th data-idx="68" data-field="reporter.address"><!-- Column 68 -->
+            <label class="list-column-label">Reporter Address <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-address" data-field="reporters.address"/>
+            </div>
+        </th>
+        <th data-idx="69" data-field="reporters.telephone"><!-- Column 69 -->
+            <label class="list-column-label">Reporter Telephone <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-telephone" data-field="reporters.telephone"/>
+            </div>
+        </th>
+        <th data-idx="70" data-field="reporters.faxNumber"><!-- Column 70 -->
+            <label class="list-column-label">Reporter Fax <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-fax" data-field="reporters.faxNumber"/>
+            </div>
+        </th>
+        <th data-idx="71" data-field="reporters.email"><!-- Column 71 -->
+            <label class="list-column-label">Reporter Email <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-email" data-field="reporters.email"/>
+            </div>
+        </th>
+        <th data-idx="72" data-field="pqcCaseNumber"> <!-- Column 72 -->
+                    <label class="list-column-label">PQC Case #<i class="sort fa"></i></label>
+
+                    <div class="list-filter-container">
+                        <input class="list-filter" type="text" title=""
+                               id="pqc-case-number-filter" data-field="pqcCaseNumber"/>
+                    </div>
+        </th>
+        <th data-idx="73" data-field="returnRequired"><!-- Column 73 -->
+            <label class="list-column-label">Return Required <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="product-return-filter" data-field="returnRequired"/>
+            </div>
+        </th>
+        <th data-idx="74" data-field="refundRequested"><!-- Column 74 -->
+            <label class="list-column-label">Refund Requested <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="refund-request-filter" data-field="refundRequested"/>
+            </div>
+        </th>
+        <th data-idx="75" data-field="reporters.contactTypes.value"> <!-- Column 73 -->
+            <label class="list-column-label">Contact Type <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title="" id="reporter-contact-type-value" data-field="reporters.contactTypes.value"/>
+            </div>
+        </th>
+        <th data-idx="76" data-field="action" class="pv-table-action text-right"> <!-- Column 75 -->
+            <label class="list-column-label"></label>
+        </th>
+    </tr>
+    </thead>
+</table>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Right Sidebar -->
+<div class="side-bar right-bar caselist-config-panel " id="intakeQueueColumnsBarId">
+    <div class="pv-list-config-action">
+        <a class="ic-sm" href="javascript:void(0);" id="btnSaveListConfig" title="Save Changes"><i class="md md-done"></i> </a>
+        <a class="text-danger ic-sm" href="javascript:void(0);" id="btnCloseListConfig" title="Cancel Changes"><i class="md md-close"></i> </a>
+
+    </div>
+    <div style="overflow: hidden" class="pv-grid-setting-box">
+        <div class="col-sm-12 ">
+            <div class="pv-list-group list-group">
+
+                <div class="inner-shadow-box">
+                    <div class="phead-1 phead">Primary View Fields</div>
+                    <div class="list-group-primary display-config-field short-field" ondragover="event.preventDefault()"></div>
+                </div>
+                <div class="inner-shadow-box">
+                    <div class="phead-2 phead">Secondary View Fields</div>
+                    <div class="list-group-secondary display-config-field2 short-field" ondragover="event.preventDefault()"></div>
+                </div>
+                <div class="inner-shadow-box">
+                    <div class="phead-3 phead">Optional Fields</div>
+                    <div class="list-group-optional display-config-field3 short-field" ondragover="event.preventDefault()"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END Right-bar -->
+        </div>
+        <script>
+            $(document).ready(function () {
+                pvi.list.dataGrid("intakeQueueContainer",'intake-queue-table','intakeQueueColumnsBarId','intake_queue_form');
+            });
+        </script>
+
+    </div>
+</div>
+
+        
+    
+    
+        
+    
+    
+    
+    
+    
+</div>
+                    
+                        
+<div class="grid-stack-item"
+     data-gs-id="3660"
+     data-gs-x="0" data-gs-y="10"
+     data-gs-width="12" data-gs-height="7"
+     data-gs-auto-position="false">
+
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+        
+            
+<div class="panel grid-stack-item-content overflow-y-hidden">
+    
+    <div class="panel-heading pv-sec-heading">
+        <span class="rxmain-container-header-label rx-widget-title">Case List</span>
+        <a href="javascript:void(0);" id="remove-widget3" data-url="removeWidgetUrl" data-params='{"id": "3660"}' data-widgetid="3660"
+   class="remove-widget rxmain-container-header-label pull-right"
+   data-toggle="tooltip" data-placement="bottom" title="Remove Widget"><i class="md-lg md-close"></i></a>
+
+
+
+    </div>
+
+    <div class="row rx-widget-content">
+        <div class="panel-body p-0 p-l-10 p-r-10" id="caseListContainer">
+            <div id="list-data-elements" data-is-or-operation="false" data-order-by-default='[[3, "desc"]]' data-show-info="true"
+                 data-page-length="5" data-count-search-criteria="false" data-paging="true" data-length-change="true"
+                 data-sort-while-search="false" data-is-widget="true"  data-clear-cache-on-refresh="false" data-save-form-state="false"></div>
+            
+<div class="pv-caselist-top-fixed dataTableList">
+    
+    <div class="row hide pv-topsrc-container" id="pviCaseSrcSec">
+        <div class="col-md-12">
+            <div class="panel m-b-0">
+                <div class="panel-body inner-shadow-box">
+                    <div class="row m-b-0 pv-list-top-search">
+                        <form class="form-pv" name="case_list_form">
+                            <div class="col-md-12">
+                                <div class="form-group m-0">
+                                    <div class="col-md-4">
+                                        <label class="control-label">Search Cases</label>
+                                        <span class="glyphicon glyphicon-question-sign modal-link"
+                                              style="cursor:pointer" data-toggle="modal"
+                                              data-target="#searchCasesHelp"></span>
+
+                                        <div id="results">
+                                            <span id="final_span" class="final" style="display: none;"></span>
+                                            <span id="interim_span" class="interim" style="display: none;"></span>
+                                        </div>
+                                        <input id="simpleSearchField" type="text" class="form-control visible"
+                                               placeholder="Describe case...">
+                                        <i class="fa fa-microphone-slash form-control-feedback" id="mic"
+                                           style="position: absolute; right:0px; top: 35px;"></i>
+                                    </div>
+
+                                    
+<div class="col-md-2 date-range-type p-0">
+        <label class="control-label">Date Range Type</label>
+        <select class="form-control" id="date-range-type" name="date-range-type" data-is-permanent="true">
+            <option value="firstReceiptDate" selected = selected>First Receipt Date</option>
+            <option value="mostRecentReceiptDate" true>FU Receipt Date</option>
+            <option value="centralReceiptDate" true>Central Receipt Date</option>
+            
+                <option value="submissionDate">Submission Date</option>
+            
+            <option value="localSubmissionDate" true>Local Submission Date</option>
+        </select>
+    </div>
+    <div class="col-md-2 top-src-date-range">
+        <label class="control-label">Date Range</label>
+        <select class="form-control" id="pviListDateRange" name="pviListDateRange" data-is-permanent="true">
+            <option value="RESET" selected="selected"></option>
+            <option value="TODAY" >Today</option>
+            <option value="YESTERDAY" >Yesterday</option>
+            <option value="LAST_WEEK" >Last Week</option>
+            <option value="LAST_MONTH" >Last Month</option>
+            <option value="LAST_YEAR" >Last Year</option>
+            <option value="LAST_X_DAYS" >Last X Days</option>
+            <option value="LAST_X_WEEKS" >Last X Weeks</option>
+            <option value="LAST_X_MONTHS" >Last X Months</option>
+            <option value="LAST_X_YEARS" >Last X Years</option>
+            <option value="CUSTOM">Custom</option>
+        </select>
+    </div>
+    <div class="pv-inp-xrange hide" id="range-factor-field-container">
+        <input type="text" id="range-factor-field" name="range-factor-field" class="form-control" value="1" maxlength="3" data-is-permanent="true">
+    </div>
+    <div id="pviListCustomDaterange" class="hide form-pv">
+        <div class="col-md-2">
+            <label class="control-label">Start Date</label>
+            <div class="datepicker internal input-group date dropdown-right" data-id="startDate">
+                <input type="text" placeholder="DD-MON-CCYY" class="form-control futureDatesAllowed" name="datepicker-rangeStartDate" id="datepicker-rangeStartDate" data-is-permanent="true" data-precision="DD-MMM-YYYY" value="" />
+                <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                    <i class="md md-calendar-blank"></i>
+                </span>
+            </div>
+        </div>
+
+        <div class="col-md-2">
+            <label class="control-label">End Date</label>
+            <div class="datepicker internal input-group date dropdown-right" data-id="endDate">
+                <input type="text" placeholder="DD-MON-CCYY" class="form-control futureDatesAllowed" name="datepicker-rangeEndDate" id="datepicker-rangeEndDate" data-is-permanent="true" data-precision="DD-MMM-YYYY" value="" />
+                <span type="button" class="input-group-addon bg-primary text-white b-0 datepicker-icon">
+                    <i class="md md-calendar-blank"></i>
+                </span>
+            </div>
+        </div>
+    </div>
+    
+
+    
+        <div class="visible-lg-inline-block col-md-12">
+            <div class="col-md-12 p-l-10 p-r-10 m-l-5 true">
+                <label>Include Cases</label>
+            </div>
+            <div class="pv-include-cases-list visible-lg-inline-block m-l-10">
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Active" id="2-0" name="2-0" type="checkbox" checked value="2">
+                    <label for="2-0">Active</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Final" id="3-1" name="3-1" type="checkbox" checked value="3">
+                    <label for="3-1">Final</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Transmitted" id="4-2" name="4-2" type="checkbox" checked value="4">
+                    <label for="4-2">Transmitted</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Closed" id="11-3" name="11-3" type="checkbox"  value="11">
+                    <label for="11-3">Closed</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Rejected" id="7-4" name="7-4" type="checkbox"  value="7">
+                    <label for="7-4">Rejected</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Successful" id="5-5" name="5-5" type="checkbox"  value="5">
+                    <label for="5-5">Successful</label>
+                </div>
+            
+                <div class="checkbox checkbox-primary checkbox-inline p-r-5 true">
+                    <input class="incl_excl_check" caseState="Failed" id="6-6" name="6-6" type="checkbox" checked value="6">
+                    <label for="6-6">Failed</label>
+                </div>
+            
+            
+                <div class="checkbox checkbox-primary checkbox-inline report-distribution p-r-5 true">
+                    <input class="rd-threshold" type="checkbox" id="report-distribution" name="report-distribution" checked>
+                    <label for="report-distribution">Pending Receipt</label>
+                </div>
+            
+            </div>
+            <button type="button" class="btn btn-primary waves-effect waves-light btnSearchCases m-l-10 search-button">
+                <i class="glyphicon glyphicon-search"></i> Search
+            </button>
+        </div>
+    
+    <input type="hidden" name="pageTypeId" class="form-control" value="1" />
+
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel-heading pv-sec-heading grid-top-head">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="btn-group">
+                    <button type="button"
+                            class="btn btn-default list-tab-btn waves-effect waves-light myCasesButton">
+                        My Cases (<span id="my-cases-count">0</span>)
+                    </button>
+                </div>
+                
+                    <div class="btn-group">
+                        <button type="button"
+                                class="btn btn-default list-tab-btn waves-effect waves-light allCasesButton">
+                            All Cases (<span id="all-cases-count">0</span>)</button>
+                    </div>
+                
+                <div class="btn-group" id="bulkActionContainer">
+                    <button type="button"
+                            class="btn btn-primary btn-caselist-action-all dropdown-toggle waves-effect waves-light hide"
+                            data-toggle="dropdown" aria-expanded="false">Bulk Action <span
+                            class="caret"></span></button>
+                </div>
+            </div>
+
+            <div class="col-md-6 grid-top-pagination text-right pull-right">
+                
+                
+                <div class="btn-group btn-filter m-l-10  pv-list-icbx ic-sm">
+                    <a href="#" id="filter-button" title="Enable/Disable Filters" class="pv-ic"><i class="md md-filter"
+                                                                                                   aria-hidden="true"></i>
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="loadData" data-value="true"/>
+</div>
+
+            <!-- Search Box -->
+            <div class="row pv-caselist-fixed-table">
+                <div class="col-sm-12 pv-caselist caselistrecords">
+                    <div class="panel m-b-0">
+                        <!-- End of the search button -->
+                        <div class="pv-sec-bg panel-body m-0 p-0">
+                            <div class="dataTables_scroll">
+                                
+<table id="case-list-table" cellspacing="0"
+       class="table table-striped display order-column list-table pv-list-table">
+    <thead class="filter-head">
+    <tr>
+        <th class="snum" data-idx="0" data-field='selected'><!-- Column 0 -->
+            <div class="td-box">
+                
+                    <input type="checkbox" id="bulk-select-bt" class="pv-caselist-checkall" title=""
+                           name="selectAll">
+                
+            </div>
+        </th>
+        <th class="col-intake-case" data-idx="1" data-field="intakeCaseNumber"><!-- Column 1 -->
+            <label class="list-column-label">Intake Case # <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="intake-case-number-filter" title=""
+                       data-field="intakeCaseNumber" />
+            </div>
+        </th>
+        <th class="pv-col-sm" data-idx="2" data-field="caseVersion"><!-- Column 2 -->
+            <label class="list-column-label">Version <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="version-filter" data-field="caseVersion"/>
+            </div>
+        </th>
+        <th data-idx="3" data-field='firstReceiptDate' class="pv-col-sm "><!-- Column 3 -->
+            <label class="list-column-label">First Receipt Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="receipt-date-filter" data-field="firstReceiptDate"/>
+            </div>
+        </th>
+        <th data-idx="4" data-field="reporters.qualificationValue"><!-- Column 4 -->
+            <label class="list-column-label">Reporter Qualification <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-type-filter" data-field="reporters.qualificationValue"/>
+            </div>
+        </th>
+        <th data-idx="5" data-field="events.eventName" class="pv-col-md"> <!-- Column 5 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Event(s) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" data-index-type="event" title=""
+                       id="events-filter" data-field="events.eventName"/>
+            </div>
+        </th>
+        <th data-idx="6" data-field="products.name" class="pv-col-md"><!-- Column 6 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Product(s) <i class="sort fa"></i></label>
+            <input class="list-filter" type="text" data-index-type="product" title=""
+                   id="products-filter" data-field="products.name"/>
+        </th>
+        <th data-idx="7" data-field="caseSeriousness.category" class="pv-col-xs"><!-- Column 7 -->
+            <label class="list-column-label">Case Ser. <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="case-seriousness-filter" data-field="caseSeriousness.category"/>
+            </div>
+        </th>
+        <th data-idx="8" data-field="priority.value" class="pv-col-xs"><!-- Column 8 -->
+            <label class="list-column-label">
+                Priority<i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="priority-filter" data-field="priority.value"/>
+            </div>
+        </th>
+        <th data-idx="9" data-field="attachments.name"> <!-- Column 9 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Attachment(s) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" data-index-type="attachment" title=""
+                       id="attachment-filter" data-field="attachments.name"/>
+            </div>
+        </th>
+        <th data-idx="10" data-field="dueDate" class="pv-col-sm"> <!-- Column 10 -->
+            <label class="list-column-label">Due Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="due-date-filter" data-field="dueDate"/>
+            </div>
+        </th>
+        <th data-idx="11" data-field="isRelated"> <!-- Column 11 -->
+            <label class="list-column-label">Related <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="is-related-filter" data-field="isRelated"/>
+            </div>
+        </th>
+        <th data-idx="12" data-field="assignedToUsername"> <!-- Column 12 -->
+            <label class="list-column-label">Assigned To <i class="sort fa"></i></label>
+
+            <div class="list-filter-container dropdown-list-filter">
+                <select id="assignee-filter" class="list-filter form-control" data-field="assignedToUsername" >
+                    <option></option>
+                </select>
+            </div>
+        </th>
+        <th data-idx="13" data-field="safetyCaseNumber"> <!-- Column 13 -->
+            <label class="list-column-label">Safety Case # <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="safety-case-number-filter" data-field="safetyCaseNumber"/>
+            </div>
+        </th>
+        <th data-idx="14" data-field="reportType"> <!-- Column 14 -->
+            <label class="list-column-label">Report Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="report-type-filter" data-field="reportType"/>
+            </div>
+        </th>
+        <th data-idx="15" data-field="patientAge"><!-- Column 15 -->
+            <label class="list-column-label">Patient Age <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="patient-age-filter" data-field="patientAge"/>
+            </div>
+        </th>
+        <th data-idx="16" data-field="gender.value"> <!-- Column 16 -->
+            <label class="list-column-label">Gender <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="gender-filter" data-field="gender.value"/>
+            </div>
+        </th>
+        <th data-idx="17" data-field="icsr.destination" class="pv-col-sm"> <!-- Column 17 -->
+            <label class="list-column-label">Destination <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="destination-filter" data-field="icsr.destination"/>
+            </div>
+        </th>
+        <th data-idx="18" data-field="icsr.dueDateString" class="pv-col-sm"> <!-- Column 18 -->
+            <label class="list-column-label">Report Due Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"
+                       id="report-due-date-filter" placeholder="DD-MON-CCYY" data-field="icsr.dueDate"/>
+            </div>
+        </th>
+        <th data-idx="19" data-field="reporterComments"><!-- Column 19 -->
+            <label class="list-column-label">Reporter Comments <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-comments-filter" data-field="reporterComments"/>
+            </div>
+        </th>
+        <th data-idx="20" data-field="reporters.name"> <!-- Column 20 -->
+            <label class="list-column-label">Reporter Name <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-name-filter" data-field="reporters.name"/>
+            </div>
+        </th>
+        <th data-idx="21" data-field="senderType.value"> <!-- Column 21 -->
+            <label class="list-column-label">Sender Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="sender-type-filter" data-field="senderType.value"/>
+            </div>
+        </th>
+        <th data-idx="22" data-field="senderName"> <!-- Column 22 -->
+            <label class="list-column-label">Sender Name <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="sender-name-filter" data-field="senderName"/>
+            </div>
+        </th>
+        <th data-idx="23" data-field="eventCountry.name"> <!-- Column 23 -->
+            <label class="list-column-label">Event Country (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="event-country-filter" data-field="eventCountry.name"/>
+            </div>
+        </th>
+        <th data-idx="24" data-field="icsr.reportVersion"> <!-- Column 24 -->
+            <label class="list-column-label">Report Version <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="report-version-filter" data-field="icsr.reportVersion"/>
+            </div>
+        </th>
+        <th data-idx="25" data-field="icsr.transmissionStatus"> <!-- Column 25 -->
+            <label class="list-column-label">Report State <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" placeholder=""
+                       id="report-state-filter" data-field="icsr.transmissionStatus"/>
+            </div>
+        </th>
+        <th data-idx="26" data-field="reportStateTimestampString"> <!-- Column 26 -->
+            <label class="list-column-label">Report Timestamp <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="report-state-timestamp-filter"
+                       data-field="icsr.stateTimestamp"/>
+            </div>
+        </th>
+        <th data-idx="27" data-field="icsr.reportMessage"> <!-- Column 27 -->
+            <label class="list-column-label">Report Error/Warning Message <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="report-message-filter" data-field="icsr.reportMessage"/>
+            </div>
+        </th>
+        <th data-idx="28" data-field="eventName"> <!-- Column 28 -->
+            <label class="list-column-label">Event Name (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="primary-event-filter" data-field="eventName"/>
+            </div>
+        </th>
+        <th data-idx="29" data-field="eventStartDate" class="pv-col-sm"> <!-- Column 29 -->
+            <label class="list-column-label">Event Start Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="event-start-date-filter" placeholder="DD-MON-CCYY" data-field="eventStartDate"/>
+            </div>
+        </th>
+        <th data-idx="30" data-field="outcome.value"> <!-- Column 30 -->
+            <label class="list-column-label">Outcome (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="outcome-filter" data-field="outcome.value"/>
+            </div>
+        </th>
+        <th data-idx="31" data-field="reporters.countryName">  <!-- Column 31 -->
+            <label class="list-column-label">Reporter Country <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-country-filter" data-field="reporters.countryName"/>
+            </div>
+        </th>
+        <th data-idx="32" data-field="relatednessString">  <!-- Column 32 -->
+            <label class="list-column-label">Relatedness (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="relatedness-filter" data-field="relatednessString"/>
+            </div>
+        </th>
+        <th data-idx="33" data-field="sourceType.type">  <!-- Column 33 -->
+            <label class="list-column-label">Source Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="source-type-filter" data-field="sourceType.type"/>
+            </div>
+        </th>
+        <th data-idx="34" data-field="categories.value"> <!-- Column 34 -->
+            <label class="list-column-label">Case Category<i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="category-filter" data-field="categories.value"/>
+            </div>
+        </th>
+        <th data-idx="35" data-field="mostRecentReceiptDateString" class="pv-col-sm "> <!-- Column 35 -->
+            <label class="list-column-label">FU Receipt Date<i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="most-recent-receipt-date-filter"
+                       data-field="mostRecentReceiptDate"/>
+            </div>
+        </th>
+        <th data-idx="36" data-field="productName"> <!-- Column 36 -->
+            <label class="list-column-label">Product Name (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="primary-product-filter" data-field="productName"/>
+            </div>
+        </th>
+        <th data-idx="37" data-field="substances.nameValue" class="pv-col-md"> <!-- Column 37 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Substances (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="substances-filter" data-field="substances.nameValue"/>
+            </div>
+        </th>
+        <th data-idx="38" data-field="studyNumber"> <!-- Column 38 -->
+            <label class="list-column-label">Study Num <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="study-id-filter" data-field="studyNumber"/>
+            </div>
+        </th>
+        <th data-idx="39" data-field="caseState"> <!-- Column 39 -->
+            <label class="list-column-label">Case State <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="caseState-filter" title=""
+                       data-field="caseState"/>
+            </div>
+        </th>
+        <th data-idx="40" data-field="versionType.value"> <!-- Column 40 -->
+            <label class="list-column-label">Study Typ <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="version-type-filter" data-field="versionType.value"/>
+            </div>
+        </th>
+        <th data-idx="41" data-field="receiptDateString" class="pv-col-sm">  <!-- Column 41 -->
+            <label class="list-column-label">Receipt Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"
+                       id="receiptDate-filter" placeholder="DD-MON-CCYY" data-field="receiptDate"/>
+            </div>
+        </th>
+        <th data-idx="42" data-field="mostRecentReceiptDate" class="pv-col-sm"> <!-- Column 42 -->
+            <label class="list-column-label">Onset Date (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"
+                       id="onsetDate-filter" placeholder="DD-MON-CCYY" data-field="onsetDate"/>
+            </div>
+        </th>
+        <th data-idx="43" data-field="firstReceiptDate" class="pv-col-sm"> <!-- Column 43 -->
+            <label class="list-column-label">Receipt Date <i class="sort fa"></i></label>
+        </th>
+        <th data-idx="44" data-field="dosageForm.value"> <!-- Column 44 -->
+            <label class="list-column-label">Dosage Form (P) <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="dosageFrom-filter" data-field="dosageForm.value"/>
+            </div>
+        </th>
+        <th data-idx="45" data-field="caseType"> <!-- Column 45 -->
+            <label class="list-column-label">Case Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="caseType-filter" data-field="caseType"/>
+            </div>
+        </th>
+        <th data-idx="46" data-field="icsr.type"> <!-- Column 46 -->
+            <label class="list-column-label">Report Form <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="icsr-type-filter" data-field="icsr.type"/>
+            </div>
+        </th>
+        <th data-idx="47" data-field="studyType.value"> <!-- Column 47 -->
+            <label class="list-column-label">Study Type <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="studyType-filter" data-field="studyType.value"/>
+            </div>
+        </th>
+        <th data-idx="48" data-field="patientName"> <!-- Column 48 -->
+            <label class="list-column-label">Name / Initials <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="patient-name-filter" data-field="patientName"/>
+            </div>
+        </th>
+        <th data-idx="49" data-field="seriousness.shortName" class="pv-col-sm"> <!-- Column 49 --> <!-- Note: Don't change class "pvi-col-md", more link feature will be impacted-->
+            <label class="list-column-label">Ser. <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="seriousness-filter" data-field="seriousnessString"/>
+            </div>
+        </th>
+        <th data-idx="50" data-field="caseCountry.name"> <!-- Column 50 -->
+            <label class="list-column-label">Case Country <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="case-country-filter" data-field="caseCountry.name"/>
+            </div>
+        </th>
+        <th data-idx="51" data-field="allReferences"> <!-- Column 51 -->
+            <label class="list-column-label">Case Reference ID <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="case-reference-id-filter" data-field="allReferences"/>
+            </div>
+        </th>
+        <th data-idx="52" data-field="patientId"> <!-- Column 52 -->
+            <label class="list-column-label">Patient ID <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="patient-id-filter" data-field="patientId"/>
+            </div>
+        </th>
+        <th data-idx="53" data-field="dobString" class="pv-col-sm"> <!-- Column 55 -->
+            <label class="list-column-label">Patient DOB <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"  placeholder="DD-MON-CCYY"
+                       id="dob-filter" data-field="dob"/>
+            </div>
+        </th>
+        <th data-idx="54" data-field="matchScore"> <!-- Column 54 -->
+            <label class="list-column-label">Match Score <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="matchScore-filter" data-field="matchScore" readonly title=""/>
+            </div>
+        </th>
+        <th data-idx="55" data-field="simpleSearch"> <!-- Column 55 -->
+            <label class="list-column-label">Simple Search <i class="sort fa"></i></label>
+        </th>
+        <th data-idx="56" data-field="dateRangeSearch"> <!-- Column 56 -->
+            <label class="list-column-label">Date Range Search <i class="sort fa"></i></label>
+        </th>
+
+        <th data-idx="57" data-field="sourceDb"> <!-- Column 57 -->
+            <label class="list-column-label">Source DB <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="sourceDb-filter" data-field="sourceDb" title=""/>
+            </div>
+        </th>
+        <th data-idx="58" data-field="safetyWFState"> <!-- Column 58 -->
+            <label class="list-column-label">Safety WF State <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" id="safetyWFState-filter" data-field="safetyWFState" title=""/>
+            </div>
+        </th>
+        <th data-idx="59" data-field="centralReceiptDate" class="pv-col-sm"> <!-- Column 59 -->
+            <label class="list-column-label">Central Receipt Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="central-receipt-date-filter" data-field="centralReceiptDate"/>
+            </div>
+        </th>
+        <th data-idx="60" data-field="localSubmissionDate" class="pv-col-sm"> <!-- Column 60 -->
+            <label class="list-column-label">Local Submission Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="local-submission-date-filter" data-field="localSubmissionDate"/>
+            </div>
+        </th>
+        <th data-idx="61" data-field="localSubmissionDueDate" class="pv-col-sm"> <!-- Column 61 -->
+            <label class="list-column-label">Local Submission Due Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" placeholder="DD-MON-CCYY" type="text"
+                       id="local-submission-due-date-filter" data-field="localSubmissionDueDate"/>
+            </div>
+
+        </th>
+       <th data-idx="62" data-field="latestAssignmentComment"><!-- Column 62 -->
+            <label class="list-column-label">Assignment Comments <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="assignment-comments-filter" data-field="latestAssignmentComment"/>
+            </div>
+        </th>
+        <th data-idx="63" data-field="vendor"><!-- Column 63 -->
+            <label class="list-column-label">Case Processing Unit <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="vendor-filter" data-field="vendor"/>
+            </div>
+        </th>
+        <th data-idx="64" data-field="replacementRequired"><!-- Column 64 -->
+            <label class="list-column-label">Replacement Required <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="replacement-required-filter" data-field="replacementRequired"/>
+            </div>
+        </th>
+        <th data-idx="65" data-field="caseCreatedDate"><!-- Column 65 -->
+            <label class="list-column-label">Case Created Date <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter date-time-filter" data-precision="DD-MMM-YYYY" type="text"  placeholder="DD-MON-CCYY"
+                       id="date-created-filter" data-field="caseCreatedDate"/>
+            </div>
+        </th>
+        <th data-idx="66" data-field="reporters.organization"><!-- Column 66 -->
+            <label class="list-column-label">Reporter Organization <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-organization" data-field="reporters.organization"/>
+            </div>
+        </th>
+        <th data-idx="67" data-field="reporters.department"><!-- Column 67 -->
+            <label class="list-column-label">Reporter Department <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-department" data-field="reporters.department"/>
+            </div>
+        </th>
+        <th data-idx="68" data-field="reporter.address"><!-- Column 68 -->
+            <label class="list-column-label">Reporter Address <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-address" data-field="reporters.address"/>
+            </div>
+        </th>
+        <th data-idx="69" data-field="reporters.telephone"><!-- Column 69 -->
+            <label class="list-column-label">Reporter Telephone <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-telephone" data-field="reporters.telephone"/>
+            </div>
+        </th>
+        <th data-idx="70" data-field="reporters.faxNumber"><!-- Column 70 -->
+            <label class="list-column-label">Reporter Fax <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-fax" data-field="reporters.faxNumber"/>
+            </div>
+        </th>
+        <th data-idx="71" data-field="reporters.email"><!-- Column 71 -->
+            <label class="list-column-label">Reporter Email <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="reporter-email" data-field="reporters.email"/>
+            </div>
+        </th>
+        <th data-idx="72" data-field="pqcCaseNumber"> <!-- Column 72 -->
+                    <label class="list-column-label">PQC Case #<i class="sort fa"></i></label>
+
+                    <div class="list-filter-container">
+                        <input class="list-filter" type="text" title=""
+                               id="pqc-case-number-filter" data-field="pqcCaseNumber"/>
+                    </div>
+        </th>
+        <th data-idx="73" data-field="returnRequired"><!-- Column 73 -->
+            <label class="list-column-label">Return Required <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="product-return-filter" data-field="returnRequired"/>
+            </div>
+        </th>
+        <th data-idx="74" data-field="refundRequested"><!-- Column 74 -->
+            <label class="list-column-label">Refund Requested <i class="sort fa"></i></label>
+
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title=""
+                       id="refund-request-filter" data-field="refundRequested"/>
+            </div>
+        </th>
+        <th data-idx="75" data-field="reporters.contactTypes.value"> <!-- Column 73 -->
+            <label class="list-column-label">Contact Type <i class="sort fa"></i></label>
+            <div class="list-filter-container">
+                <input class="list-filter" type="text" title="" id="reporter-contact-type-value" data-field="reporters.contactTypes.value"/>
+            </div>
+        </th>
+        <th data-idx="76" data-field="action" class="pv-table-action text-right"> <!-- Column 75 -->
+            <label class="list-column-label"></label>
+        </th>
+    </tr>
+    </thead>
+</table>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Right Sidebar -->
+<div class="side-bar right-bar caselist-config-panel " id="caseListColumnsBarId">
+    <div class="pv-list-config-action">
+        <a class="ic-sm" href="javascript:void(0);" id="btnSaveListConfig" title="Save Changes"><i class="md md-done"></i> </a>
+        <a class="text-danger ic-sm" href="javascript:void(0);" id="btnCloseListConfig" title="Cancel Changes"><i class="md md-close"></i> </a>
+
+    </div>
+    <div style="overflow: hidden" class="pv-grid-setting-box">
+        <div class="col-sm-12 ">
+            <div class="pv-list-group list-group">
+
+                <div class="inner-shadow-box">
+                    <div class="phead-1 phead">Primary View Fields</div>
+                    <div class="list-group-primary display-config-field short-field" ondragover="event.preventDefault()"></div>
+                </div>
+                <div class="inner-shadow-box">
+                    <div class="phead-2 phead">Secondary View Fields</div>
+                    <div class="list-group-secondary display-config-field2 short-field" ondragover="event.preventDefault()"></div>
+                </div>
+                <div class="inner-shadow-box">
+                    <div class="phead-3 phead">Optional Fields</div>
+                    <div class="list-group-optional display-config-field3 short-field" ondragover="event.preventDefault()"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END Right-bar -->
+        </div>
+        <script>
+            $(document).ready(function () {
+                pvi.list.dataGrid("caseListContainer", 'case-list-table', 'caseListColumnsBarId', 'case_list_form');
+            });
+        </script>
+    </div>
+</div>
+
+        
+    
+    
+    
+    
+    
+</div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" name="isDashboardPage" value="true" id="isDashboardPage" />
+
+<div id="justificationModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" id="justificationCloseButton" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title justificationComments">Case Assignment</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row assigneeUserList">
+                    <div class="col-sm-6 required">
+                        <label for="assigneeUserList" class="control-label lbl-elipsis">Assign To:</label>
+                        <select name="assigneeUserList" id="assigneeUserList" class="form-control select2"></select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <label for="justificationModalId" class="control-label">Comments
+                        </label>
+                        <textarea id="justificationModalId" name="justificationComments" rows="4" cols="20" maxlength="500" class="form-control fm-text-area" ></textarea>
+                        <span class="maxlength-feedback"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="justificationModalOkButton" class="btn btn-inverse waves-effect waves-light">Ok</button>
+                <button type="button" id="assignCancelButton" class="btn btn-default btn-md">Cancel</button>
+               </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="reportModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <span class="fileType h4"></span>
+                <span class="modal-title XMLfileName h4"></span>
+            </div>
+            <div class="modal-body">
+                <div class="e2bXMLDetail hide"><pre class="xmlContent" lang="xml"></pre></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="reportDestinationModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title rdLog">
+                    Reporting Distribution Log
+                </h4>
+                <h4 class="modal-title e2bXml hide">
+                    E2B<span class="e2bFileName"></span>
+                </h4>
+                <h4 class="modal-title ackXml hide">
+                    Ack<span class="ackFileName"></span>
+                </h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-12 pv-caselist caselistrecords">
+                        <div class="panel m-b-0">
+                            <!-- End of the search button -->
+                            <div class="pv-sec-bg panel-body m-0">
+                                <table cellspacing="0"
+                                       class="display order-column list-table pv-list-table" id="reportDistTable">
+                                    <thead>
+                                    <tr>
+                                        <th class="snum">
+                                            <label class="list-column-label">#</label>
+                                        </th>
+                                        <th>
+                                            <label class="list-column-label">Report Destination</label>
+                                        </th>
+                                        <th>
+                                            <label class="list-column-label">Report Form</label>
+                                        </th>
+                                        <th>
+                                            <label class="list-column-label">From State</label>
+                                        </th>
+                                        <th>
+                                            <label class="list-column-label">To State</label>
+                                        </th>
+                                        <th>
+                                            <label class="list-column-label">Timestamp</label>
+                                        </th>
+                                        <th>
+                                            <label class="list-column-label">ICSR / ACK</label>
+                                        </th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="e2bXMLDetail hide"><pre class="xmlContent" lang="xml" ></pre></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn pv-btn-grey waves-effect rd-listing-close-btn" data-dismiss="modal">
+                    Cancel
+                </button>
+                <button type="button" class="btn pv-btn-grey waves-effect waves-light hide back-to-rd-listing">
+                    Back
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<input type="hidden" name="serverTimestampURL" value="http://10.100.22.228:8081/config/loadServerTime" id="serverTimestampURL" />
+<input type="hidden" id="serverTimestamp"/>
+<div id="pv-justification-modal" class="modal fade" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="justificationModalLabel" aria-hidden="true">
+</div>
+<div class="modal fade searchCasesHelp" id="searchCasesHelp" tabindex="-1" role="dialog" aria-labelledby="Search Cases Help">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <span><b>Search Cases Help</b></span>
+            </div>
+            <div class="modal-body container-fluid">
+                The Search Cases Text box is used to search cases using following fields:<br><br>
+
+                <b>Intake Case #:</b>This is a unique PVI case number assigned by system to the each record. Searching using this field will list all the unique records matching to the PVI Case number entered by the user<br><br>
+
+                <b>Event(s):</b> This is a event information which is entered on the case entry screen in Reaction(Coded) or Reaction(Reported) field. Searching using this field will display all the records matching to the Event(S) information entered by the user.<br><br>
+
+                <b>Product(s):</b> This is a Product information which is entered on the case entry screen on the Product Name field. Searching using this field will display all the records matching to the Product information entered by the user.<br><br>
+
+                <b>Study Number:</b> This is a Study number which is entered on the case entry screen. Searching using this field will display all the records matching to Study Number information entered by the user.<br><br>
+
+                <b>Assigned To:</b> This is a user information to whom case is Assigned to. Searching on this field will display all the records which are assigned to that user.<br><br>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default cancel" data-dismiss="modal">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="assignedToLogModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title rdLog">Assignment pop-up</h4>
+            </div>
+
+            <div class="modal-body">
+                <div class="col-sm-12 pv-caselist caselistrecords ">
+                    <div class="pv-sec-bg panel-body m-0 p-0">
+                        <div class="dataTables_scroll">
+                            <table class="table table-striped display order-column list-table pv-list-table"
+                                   id="assignedToLogTable">
+                                <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th class="pv-col-sm">Assigned By</th>
+                                    <th class="pv-col-sm">Assigned To</th>
+                                    <th class="pv-col-md">Timestamp</th>
+                                    <th>Comments</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn pv-btn-grey waves-effect assignedTo-Ok-btn"
+                        data-dismiss="modal">Ok</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var CONFIGURATION = {
+             addWidgetUrl:"\u002fdashboard\u002faddWidget",
+             removeWidgetUrl: "\u002fdashboard\u002fremoveWidget",
+             refreshWidgetUrl: "\u002fdashboard\u002frefreshWidget",
+             updateWidgetsUrl: "\u002fdashboard\u002fupdateWidget",
+             resetWidgetUrl:"\u002fdashboard\u002freset"
+        }
+
+</script>
+
+
+
+<script>
+    var pastDueColor = "#d13636";
+    var highPriColor = "#FFA500";
+    var fceUrl = "/fullCaseEntry/show";
+    var caseEntryUrl = "/caseEntry/show";
+    var rejectedStateId = 7;
+    var finalStateId = 3;
+    var activeStateId = 2;
+    var nonExistentStateId = 10;
+    var closedStateId = 11;
+    var defaultDateRangeKey = "LAST_X_DAYS";
+    var defaultDateRangeValue ="90";
+    var PIIMaskPattern = "#x#x#x#x";
+    var PIIMaskString = "PII";
+    var isIncludeTodayInSearchCriteria = "false";
+</script>
+
+
+   <!-- Common JS Files -->
+    
+    <script type="application/javascript">
+        var configUpdateDateTime = "07/13/2020 09:52:51";
+        var loginUser = "shiva";
+        var usernameToSavePreference = "shiva";
+        var loggedInUserFullName = "shiva";
+        var privacyLocationsForCase = [64, 1, 193, 2, 3, 132, 4, 5, 71, 201, 138, 11, 204, 14, 79, 15, 149, 21, 214, 22, 23, 88, 219, 27, 156, 28, 93, 157, 222, 31, 224, 33, 99, 227, 36, 38, 167, 39, 42, 109, 49, 242, 55, 57, 190, 63];
+        var corporateTimezone = "GMT";
+        var userTimeZone = "Etc/GMT+12";
+        var defaultTemplateId="2";
+        var currentUserId="7350555"
+        var suspectProductId = 29;
+        var referenceDataUpdateDateTime = "07/13/2020 10:09:22";
+        var priorities = [{"id":1025,"value":"P1","type":"casePriority"},{"id":1026,"value":"P2","type":"casePriority"},{"id":1027,"value":"P3","type":"casePriority"},{"id":1028,"value":"P4","type":"casePriority"},{"id":1029,"value":"P5","type":"casePriority"}];
+        var loggedInUserType = "NON_LDAP";
+        var passwordResetUri = "/password/resetOwnPassword";
+        var authType = "Database";
+        var ssoLogoutUrl = ""
+    </script>
+    <script type="text/javascript" src="/assets/application-762c12a54eb6dcdb8387326502049900.js" ></script>
+    
+    
+        <script type="text/javascript" src="/assets/vendor/attachmentViewer-manifest-e567905628ad845bff03c7d191846db5.js" ></script>
+    
+    <!-- Begin: Custom Page JavaScript Should Go Here -->
+    
+    <script type="text/javascript" src="/assets/app/dashboard/dashboard-manifest-341004fa249db2aaf456b8b3f9116380.js" ></script>
+
+    <!-- End: Custom Page JavaScript Should Go Here -->
+</body>
+</html>

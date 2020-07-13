@@ -1,0 +1,11 @@
+[t41]
+FileName1=t41_UIConstants-e05f20031f3c986ffd86b552402112e0.html
+URL1=http://10.100.22.68:8083/assets/UIConstants-e05f20031f3c986ffd86b552402112e0.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_41.xml
+RequestHeaderFile=t41_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t41_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

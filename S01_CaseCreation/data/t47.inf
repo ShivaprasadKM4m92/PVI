@@ -1,0 +1,9 @@
+[t47]
+SnapshotXmlFile=snapshot_47.xml
+FileName1=t47.jpg
+URL1=http://10.100.22.68:8083/assets/component-7e4e6d0eff0f6554be4787189cf260fb.jpg
+Total=1
+RequestHeaderFile=t47_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t47_ResponseHeader.txt
+ContentType=image/jpeg

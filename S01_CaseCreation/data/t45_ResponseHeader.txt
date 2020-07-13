@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+X-Frame-Options: DENY
+Last-Modified: Wed, 24 Jun 2020 08:02:40 GMT
+ETag: "fontawesome-webfont-af7ae505a9eed503f8b8e6982036873e.woff2"
+Vary: Accept-Encoding
+Cache-Control: public, max-age=31536000
+Content-Encoding: gzip
+Content-Type: font/woff2;charset=UTF-8
+Content-Length: 77171
+Date: Mon, 13 Jul 2020 11:25:13 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+
